@@ -1,0 +1,26 @@
+{
+ "series": "20261015T095458Z-wattmate-release",
+ "machine": "M1 Pro, macOS 27",
+ "used_by_page_sections": [
+  "wattmate"
+ ],
+ "dropped_runs": [],
+ "note": "Other dropped arms and prompts (Chrome and some Safari runs, two Cursor tasks) are marked in the note column of results/ai-battery-usage-mac.csv.",
+ "macos_build": [
+  "26A434"
+ ],
+ "battery": {
+  "cycles": [
+   1722,
+   1723
+  ],
+  "full_charge_capacity_mah": [
+   4372,
+   4388,
+   4393,
+   4395,
+   4402,
+   4433
+  ]
+ }
+}

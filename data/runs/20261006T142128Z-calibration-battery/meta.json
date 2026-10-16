@@ -1,0 +1,23 @@
+{
+ "series": "20261006T142128Z-calibration-battery",
+ "machine": "M1 Pro, macOS 14",
+ "used_by_page_sections": [
+  "k"
+ ],
+ "dropped_runs": [],
+ "note": "Other dropped arms and prompts (Chrome and some Safari runs, two Cursor tasks) are marked in the note column of results/ai-battery-usage-mac.csv.",
+ "macos_build": [
+  "23C71"
+ ],
+ "battery": {
+  "cycles": [
+   1046
+  ],
+  "full_charge_capacity_mah": [
+   4733,
+   4740,
+   4751,
+   4752
+  ]
+ }
+}

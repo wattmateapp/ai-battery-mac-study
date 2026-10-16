@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this data or code, please cite it as below."
+title: "Does AI drain your Mac battery? Data and code"
+type: dataset
+authors:
+  - family-names: Staradubau
+    given-names: Vitali
+    affiliation: WattMate
+    orcid: "https://orcid.org/0009-0007-5925-520X"
+doi: "10.5281/zenodo.23391845"
+url: "https://wattmateapp.com/ai-battery-usage-mac"
+repository-code: "https://github.com/wattmateapp/ai-battery-mac-study"
+license: CC-BY-4.0
+keywords:
+  - battery
+  - macOS
+  - Apple silicon
+  - energy measurement
+  - ChatGPT
+  - Claude Code
+  - Ollama
+# version and date-released are set on the day of publication

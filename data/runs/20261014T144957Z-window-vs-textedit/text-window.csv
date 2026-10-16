@@ -1,0 +1,5 @@
+event,app,x,y,width,height,font_size,at
+frame,chatgpt,211,65,1090,760,16,1791993617
+stop_front,TextEdit,,,,,,1791995658
+frame,chatgpt,211,65,1090,760,16,1791995685
+stop_front,TextEdit,,,,,,1791997726

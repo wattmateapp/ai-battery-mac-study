@@ -1,0 +1,301 @@
+t,arm,index,subject,energy_mj_since_previous_tick
+1791729744.388159,chatgptstream-front,1,ChatGPT.app,25868.893323
+1791729754.444178,chatgptstream-front,1,ChatGPT.app,17411.251406
+1791729764.488700,chatgptstream-front,1,ChatGPT.app,12284.004885
+1791729774.529416,chatgptstream-front,1,ChatGPT.app,8770.372645
+1791729784.575735,chatgptstream-front,1,ChatGPT.app,12764.841687
+1791729794.621382,chatgptstream-front,1,ChatGPT.app,12503.577016
+1791729804.679926,chatgptstream-front,1,ChatGPT.app,2410.367957
+1791729814.748901,chatgptstream-front,1,ChatGPT.app,2046.069576
+1791729824.822944,chatgptstream-front,1,ChatGPT.app,94.318739
+1791729834.893624,chatgptstream-front,1,ChatGPT.app,101.620698
+1791729844.961630,chatgptstream-front,1,ChatGPT.app,87.609733
+1791729855.028806,chatgptstream-front,1,ChatGPT.app,96.179976
+1791729865.099766,chatgptstream-front,1,ChatGPT.app,975.070175
+1791729875.173485,chatgptstream-front,1,ChatGPT.app,93.261818
+1791729885.239533,chatgptstream-front,1,ChatGPT.app,84.945848
+1791729895.310861,chatgptstream-front,1,ChatGPT.app,96.727435
+1791729905.367608,chatgptstream-front,1,ChatGPT.app,1591.259514
+1791729915.418809,chatgptstream-front,1,ChatGPT.app,6161.625100
+1791729925.468586,chatgptstream-front,1,ChatGPT.app,11286.673075
+1791729935.511047,chatgptstream-front,1,ChatGPT.app,15355.165585
+1791729945.579214,chatgptstream-front,1,ChatGPT.app,2137.798930
+1791729955.651890,chatgptstream-front,1,ChatGPT.app,96.631991
+1791729965.726448,chatgptstream-front,1,ChatGPT.app,88.142447
+1791729975.805669,chatgptstream-front,1,ChatGPT.app,86.986493
+1791729985.872446,chatgptstream-front,1,ChatGPT.app,262.002605
+1791729995.928875,chatgptstream-front,1,ChatGPT.app,95.356703
+1791730006.002441,chatgptstream-front,1,ChatGPT.app,91.113605
+1791730016.063263,chatgptstream-front,1,ChatGPT.app,100.761486
+1791730026.136474,chatgptstream-front,1,ChatGPT.app,86.391479
+1791730036.206637,chatgptstream-front,1,ChatGPT.app,86.111623
+1791730046.280241,chatgptstream-front,1,ChatGPT.app,295.341937
+1791730056.354790,chatgptstream-front,1,ChatGPT.app,104.302426
+1791730066.421296,chatgptstream-front,1,ChatGPT.app,2680.967376
+1791730076.470171,chatgptstream-front,1,ChatGPT.app,9442.551248
+1791730086.515948,chatgptstream-front,1,ChatGPT.app,7111.904083
+1791730096.559288,chatgptstream-front,1,ChatGPT.app,10257.496795
+1791730106.593703,chatgptstream-front,1,ChatGPT.app,13611.177097
+1791730116.630491,chatgptstream-front,1,ChatGPT.app,11867.461577
+1791730126.692637,chatgptstream-front,1,ChatGPT.app,2224.671573
+1791730136.755954,chatgptstream-front,1,ChatGPT.app,104.960189
+1791730146.821995,chatgptstream-front,1,ChatGPT.app,93.551702
+1791730156.888165,chatgptstream-front,1,ChatGPT.app,88.062328
+1791730166.951114,chatgptstream-front,1,ChatGPT.app,286.218818
+1791730177.018833,chatgptstream-front,1,ChatGPT.app,88.908654
+1791730187.082426,chatgptstream-front,1,ChatGPT.app,84.678182
+1791730197.155536,chatgptstream-front,1,ChatGPT.app,90.522998
+1791730207.210600,chatgptstream-front,1,ChatGPT.app,77.015768
+1791730217.277664,chatgptstream-front,1,ChatGPT.app,85.732666
+1791730227.340000,chatgptstream-front,1,ChatGPT.app,10.895371
+1791730237.403169,chatgptstream-front,1,ChatGPT.app,0.000000
+1791730247.468901,chatgptstream-front,1,ChatGPT.app,0.000000
+1791730267.597964,safari-chatgpt,2,Safari.app,1988.805312
+1791730277.648695,safari-chatgpt,2,Safari.app,1363.137032
+1791730287.704245,safari-chatgpt,2,Safari.app,126.265453
+1791730297.760554,safari-chatgpt,2,Safari.app,99.978902
+1791730307.820772,safari-chatgpt,2,Safari.app,97.151077
+1791730317.877143,safari-chatgpt,2,Safari.app,58.636331
+1791730327.938273,safari-chatgpt,2,Safari.app,15.339050
+1791730338.012493,safari-chatgpt,2,Safari.app,12.188710
+1791730348.082098,safari-chatgpt,2,Safari.app,8.601582
+1791730358.147866,safari-chatgpt,2,Safari.app,10.184316
+1791730368.228910,safari-chatgpt,2,Safari.app,7.788062
+1791730378.319378,safari-chatgpt,2,Safari.app,9.640005
+1791730388.419135,safari-chatgpt,2,Safari.app,10.038508
+1791730398.512039,safari-chatgpt,2,Safari.app,209.610823
+1791730408.625154,safari-chatgpt,2,Safari.app,8.843047
+1791730418.719214,safari-chatgpt,2,Safari.app,9.563287
+1791730428.811007,safari-chatgpt,2,Safari.app,503.210751
+1791730438.897475,safari-chatgpt,2,Safari.app,140.917299
+1791730448.961005,safari-chatgpt,2,Safari.app,126.688105
+1791730459.031538,safari-chatgpt,2,Safari.app,113.779747
+1791730469.128866,safari-chatgpt,2,Safari.app,98.087666
+1791730479.202365,safari-chatgpt,2,Safari.app,32.445589
+1791730489.302257,safari-chatgpt,2,Safari.app,15.036444
+1791730499.402744,safari-chatgpt,2,Safari.app,8.586473
+1791730509.504940,safari-chatgpt,2,Safari.app,9.091977
+1791730519.605855,safari-chatgpt,2,Safari.app,432.743744
+1791730529.709480,safari-chatgpt,2,Safari.app,10.502465
+1791730539.820355,safari-chatgpt,2,Safari.app,8.761773
+1791730549.939652,safari-chatgpt,2,Safari.app,14.218051
+1791730560.048275,safari-chatgpt,2,Safari.app,8.170061
+1791730570.146173,safari-chatgpt,2,Safari.app,35.866638
+1791730580.241474,safari-chatgpt,2,Safari.app,512.672264
+1791730590.304194,safari-chatgpt,2,Safari.app,1091.411728
+1791730600.354097,safari-chatgpt,2,Safari.app,797.843992
+1791730610.414980,safari-chatgpt,2,Safari.app,808.839185
+1791730620.506255,safari-chatgpt,2,Safari.app,223.158535
+1791730630.622792,safari-chatgpt,2,Safari.app,8.950520
+1791730640.721355,safari-chatgpt,2,Safari.app,9.539093
+1791730650.813672,safari-chatgpt,2,Safari.app,206.610899
+1791730660.914104,safari-chatgpt,2,Safari.app,9.314951
+1791730671.026884,safari-chatgpt,2,Safari.app,9.011856
+1791730681.119774,safari-chatgpt,2,Safari.app,8.577280
+1791730691.205662,safari-chatgpt,2,Safari.app,8.017933
+1791730701.319561,safari-chatgpt,2,Safari.app,8.493367
+1791730711.428015,safari-chatgpt,2,Safari.app,7.847442
+1791730721.550074,safari-chatgpt,2,Safari.app,8.256440
+1791730731.654960,safari-chatgpt,2,Safari.app,8.315830
+1791730741.770019,safari-chatgpt,2,Safari.app,8.251193
+1791730751.869119,safari-chatgpt,2,Safari.app,0.000000
+1791730761.961604,safari-chatgpt,2,Safari.app,0.000000
+1791730792.249778,chrome-chatgpt,3,Google Chrome.app,14907.979928
+1791730802.320184,chrome-chatgpt,3,Google Chrome.app,10582.775827
+1791730812.377752,chrome-chatgpt,3,Google Chrome.app,8242.405993
+1791730822.417898,chrome-chatgpt,3,Google Chrome.app,9562.637983
+1791730832.468509,chrome-chatgpt,3,Google Chrome.app,8873.084102
+1791730842.530302,chrome-chatgpt,3,Google Chrome.app,4848.128277
+1791730852.603479,chrome-chatgpt,3,Google Chrome.app,32.388021
+1791730862.671410,chrome-chatgpt,3,Google Chrome.app,10.599074
+1791730872.744766,chrome-chatgpt,3,Google Chrome.app,10.001385
+1791730882.817523,chrome-chatgpt,3,Google Chrome.app,10.039355
+1791730892.893087,chrome-chatgpt,3,Google Chrome.app,8.287429
+1791730902.956532,chrome-chatgpt,3,Google Chrome.app,12.404764
+1791730913.028311,chrome-chatgpt,3,Google Chrome.app,108.378569
+1791730923.102991,chrome-chatgpt,3,Google Chrome.app,8.831226
+1791730933.183444,chrome-chatgpt,3,Google Chrome.app,8.777483
+1791730943.263917,chrome-chatgpt,3,Google Chrome.app,9.220742
+1791730953.334985,chrome-chatgpt,3,Google Chrome.app,8744.470379
+1791730963.387328,chrome-chatgpt,3,Google Chrome.app,4081.188850
+1791730973.439686,chrome-chatgpt,3,Google Chrome.app,3187.096856
+1791730983.506258,chrome-chatgpt,3,Google Chrome.app,1869.738756
+1791730993.569183,chrome-chatgpt,3,Google Chrome.app,1821.927718
+1791731003.624438,chrome-chatgpt,3,Google Chrome.app,838.223503
+1791731013.706865,chrome-chatgpt,3,Google Chrome.app,1437.832771
+1791731023.769541,chrome-chatgpt,3,Google Chrome.app,8.828274
+1791731033.843154,chrome-chatgpt,3,Google Chrome.app,9.566539
+1791731043.920264,chrome-chatgpt,3,Google Chrome.app,7.708422
+1791731054.000034,chrome-chatgpt,3,Google Chrome.app,8.717934
+1791731064.074882,chrome-chatgpt,3,Google Chrome.app,8.328146
+1791731074.151464,chrome-chatgpt,3,Google Chrome.app,17.456739
+1791731084.223642,chrome-chatgpt,3,Google Chrome.app,7.526228
+1791731094.291145,chrome-chatgpt,3,Google Chrome.app,13.584634
+1791731104.344413,chrome-chatgpt,3,Google Chrome.app,8.501791
+1791731114.412869,chrome-chatgpt,3,Google Chrome.app,9322.679684
+1791731124.468514,chrome-chatgpt,3,Google Chrome.app,8467.707890
+1791731134.529564,chrome-chatgpt,3,Google Chrome.app,8430.774960
+1791731144.577697,chrome-chatgpt,3,Google Chrome.app,3792.866364
+1791731154.641057,chrome-chatgpt,3,Google Chrome.app,1176.131642
+1791731164.700878,chrome-chatgpt,3,Google Chrome.app,4077.827348
+1791731174.757393,chrome-chatgpt,3,Google Chrome.app,20481.662167
+1791731184.828988,chrome-chatgpt,3,Google Chrome.app,21.565508
+1791731194.893132,chrome-chatgpt,3,Google Chrome.app,926.467872
+1791731204.965537,chrome-chatgpt,3,Google Chrome.app,712.328539
+1791731215.041366,chrome-chatgpt,3,Google Chrome.app,6.491936
+1791731225.111018,chrome-chatgpt,3,Google Chrome.app,6.638554
+1791731235.180964,chrome-chatgpt,3,Google Chrome.app,26.688767
+1791731245.255790,chrome-chatgpt,3,Google Chrome.app,7.167337
+1791731255.335841,chrome-chatgpt,3,Google Chrome.app,13.437880
+1791731265.411110,chrome-chatgpt,3,Google Chrome.app,0.000000
+1791731275.471878,chrome-chatgpt,3,Google Chrome.app,0.000000
+1791732022.863111,chrome-chatgpt,5,Google Chrome.app,10729.730154
+1791732032.945082,chrome-chatgpt,5,Google Chrome.app,4784.108159
+1791732042.995455,chrome-chatgpt,5,Google Chrome.app,2487.336593
+1791732053.047129,chrome-chatgpt,5,Google Chrome.app,2302.356630
+1791732063.111018,chrome-chatgpt,5,Google Chrome.app,2536.485701
+1791732073.180348,chrome-chatgpt,5,Google Chrome.app,1758.972846
+1791732083.240021,chrome-chatgpt,5,Google Chrome.app,1968.461489
+1791732093.319739,chrome-chatgpt,5,Google Chrome.app,1576.918669
+1791732103.397765,chrome-chatgpt,5,Google Chrome.app,9.237405
+1791732113.472570,chrome-chatgpt,5,Google Chrome.app,11.519342
+1791732123.539197,chrome-chatgpt,5,Google Chrome.app,8.602575
+1791732133.606546,chrome-chatgpt,5,Google Chrome.app,12.661451
+1791732143.662749,chrome-chatgpt,5,Google Chrome.app,28.072648
+1791732153.736819,chrome-chatgpt,5,Google Chrome.app,11.152755
+1791732163.800807,chrome-chatgpt,5,Google Chrome.app,8.201278
+1791732173.882417,chrome-chatgpt,5,Google Chrome.app,8.578095
+1791732183.956335,chrome-chatgpt,5,Google Chrome.app,8569.743029
+1791732194.027143,chrome-chatgpt,5,Google Chrome.app,2131.838862
+1791732204.094863,chrome-chatgpt,5,Google Chrome.app,2950.497051
+1791732214.157579,chrome-chatgpt,5,Google Chrome.app,1898.669545
+1791732224.219618,chrome-chatgpt,5,Google Chrome.app,2631.650847
+1791732234.289523,chrome-chatgpt,5,Google Chrome.app,1319.613131
+1791732244.365870,chrome-chatgpt,5,Google Chrome.app,691.782308
+1791732254.437136,chrome-chatgpt,5,Google Chrome.app,12.208979
+1791732264.501203,chrome-chatgpt,5,Google Chrome.app,23.693425
+1791732274.572388,chrome-chatgpt,5,Google Chrome.app,6.938340
+1791732284.646208,chrome-chatgpt,5,Google Chrome.app,1265.386094
+1791732294.723398,chrome-chatgpt,5,Google Chrome.app,7.038470
+1791732304.790445,chrome-chatgpt,5,Google Chrome.app,15.814153
+1791732314.867561,chrome-chatgpt,5,Google Chrome.app,6.286974
+1791732324.931846,chrome-chatgpt,5,Google Chrome.app,15.480209
+1791732334.996960,chrome-chatgpt,5,Google Chrome.app,10.422791
+1791732345.062072,chrome-chatgpt,5,Google Chrome.app,8849.584803
+1791732355.131771,chrome-chatgpt,5,Google Chrome.app,3910.330986
+1791732365.177036,chrome-chatgpt,5,Google Chrome.app,1690.668396
+1791732375.243989,chrome-chatgpt,5,Google Chrome.app,1953.254579
+1791732385.293917,chrome-chatgpt,5,Google Chrome.app,2082.173134
+1791732395.356674,chrome-chatgpt,5,Google Chrome.app,1395.015933
+1791732405.432903,chrome-chatgpt,5,Google Chrome.app,760.965912
+1791732415.510893,chrome-chatgpt,5,Google Chrome.app,13.964052
+1791732425.582871,chrome-chatgpt,5,Google Chrome.app,1339.196578
+1791732435.647057,chrome-chatgpt,5,Google Chrome.app,9.278684
+1791732445.719749,chrome-chatgpt,5,Google Chrome.app,8.519366
+1791732455.791105,chrome-chatgpt,5,Google Chrome.app,9.333010
+1791732465.865483,chrome-chatgpt,5,Google Chrome.app,17.258461
+1791732475.942931,chrome-chatgpt,5,Google Chrome.app,8.320284
+1791732486.011214,chrome-chatgpt,5,Google Chrome.app,16.328889
+1791732496.076905,chrome-chatgpt,5,Google Chrome.app,9.407422
+1791732506.155787,chrome-chatgpt,5,Google Chrome.app,0.000000
+1791732516.207483,chrome-chatgpt,5,Google Chrome.app,0.000000
+1791732546.402739,safari-chatgpt,6,Safari.app,3499.091115
+1791732556.451236,safari-chatgpt,6,Safari.app,917.143776
+1791732566.495452,safari-chatgpt,6,Safari.app,771.673737
+1791732576.542009,safari-chatgpt,6,Safari.app,799.408516
+1791732586.592086,safari-chatgpt,6,Safari.app,12.645570
+1791732596.664080,safari-chatgpt,6,Safari.app,19.235360
+1791732606.737200,safari-chatgpt,6,Safari.app,9.502459
+1791732616.796572,safari-chatgpt,6,Safari.app,8.478127
+1791732626.863676,safari-chatgpt,6,Safari.app,7.819522
+1791732636.925823,safari-chatgpt,6,Safari.app,7.746646
+1791732646.994625,safari-chatgpt,6,Safari.app,7.849632
+1791732657.077229,safari-chatgpt,6,Safari.app,7.790741
+1791732667.151544,safari-chatgpt,6,Safari.app,183.314784
+1791732677.275253,safari-chatgpt,6,Safari.app,8.514121
+1791732687.389099,safari-chatgpt,6,Safari.app,7.931930
+1791732697.496896,safari-chatgpt,6,Safari.app,529.493630
+1791732707.555829,safari-chatgpt,6,Safari.app,992.167455
+1791732717.630199,safari-chatgpt,6,Safari.app,821.622143
+1791732727.707618,safari-chatgpt,6,Safari.app,1202.011960
+1791732737.807621,safari-chatgpt,6,Safari.app,9.683163
+1791732747.908779,safari-chatgpt,6,Safari.app,7.681009
+1791732758.022790,safari-chatgpt,6,Safari.app,13.883230
+1791732768.141388,safari-chatgpt,6,Safari.app,8.584063
+1791732778.265236,safari-chatgpt,6,Safari.app,8.204010
+1791732788.364635,safari-chatgpt,6,Safari.app,10.646914
+1791732798.465781,safari-chatgpt,6,Safari.app,417.697498
+1791732808.564018,safari-chatgpt,6,Safari.app,8.789666
+1791732818.651047,safari-chatgpt,6,Safari.app,11.121712
+1791732828.740660,safari-chatgpt,6,Safari.app,8.757438
+1791732838.832302,safari-chatgpt,6,Safari.app,20.427777
+1791732848.939325,safari-chatgpt,6,Safari.app,300.015953
+1791732859.015640,safari-chatgpt,6,Safari.app,279.580252
+1791732869.092936,safari-chatgpt,6,Safari.app,119.226639
+1791732879.194727,safari-chatgpt,6,Safari.app,102.542758
+1791732889.266361,safari-chatgpt,6,Safari.app,104.206603
+1791732899.380163,safari-chatgpt,6,Safari.app,9.201136
+1791732909.465362,safari-chatgpt,6,Safari.app,15.229303
+1791732919.567144,safari-chatgpt,6,Safari.app,209.874996
+1791732929.659543,safari-chatgpt,6,Safari.app,8.766440
+1791732939.754225,safari-chatgpt,6,Safari.app,11.971520
+1791732949.868743,safari-chatgpt,6,Safari.app,9.025797
+1791732959.980531,safari-chatgpt,6,Safari.app,8.842378
+1791732970.054956,safari-chatgpt,6,Safari.app,12.358348
+1791732980.150507,safari-chatgpt,6,Safari.app,9.212648
+1791732990.262877,safari-chatgpt,6,Safari.app,8.960168
+1791733000.370376,safari-chatgpt,6,Safari.app,11.222501
+1791733010.488731,safari-chatgpt,6,Safari.app,8.736950
+1791733020.595284,safari-chatgpt,6,Safari.app,0.000000
+1791733030.713225,safari-chatgpt,6,Safari.app,0.000000
+1791733061.031904,chatgptstream-front,7,ChatGPT.app,27413.398634
+1791733071.104820,chatgptstream-front,7,ChatGPT.app,11392.445184
+1791733081.161930,chatgptstream-front,7,ChatGPT.app,11231.246822
+1791733091.203489,chatgptstream-front,7,ChatGPT.app,11426.344218
+1791733101.250914,chatgptstream-front,7,ChatGPT.app,11418.889637
+1791733111.321619,chatgptstream-front,7,ChatGPT.app,2263.601580
+1791733121.397628,chatgptstream-front,7,ChatGPT.app,521.151998
+1791733131.465598,chatgptstream-front,7,ChatGPT.app,103.428412
+1791733141.540523,chatgptstream-front,7,ChatGPT.app,82.452840
+1791733151.614470,chatgptstream-front,7,ChatGPT.app,177.737136
+1791733161.690503,chatgptstream-front,7,ChatGPT.app,85.438989
+1791733171.760143,chatgptstream-front,7,ChatGPT.app,91.121646
+1791733181.825763,chatgptstream-front,7,ChatGPT.app,1095.996934
+1791733191.892406,chatgptstream-front,7,ChatGPT.app,90.888011
+1791733201.949711,chatgptstream-front,7,ChatGPT.app,79.718244
+1791733212.007699,chatgptstream-front,7,ChatGPT.app,96.129965
+1791733222.085198,chatgptstream-front,7,ChatGPT.app,81.625694
+1791733232.147685,chatgptstream-front,7,ChatGPT.app,4964.467724
+1791733242.194765,chatgptstream-front,7,ChatGPT.app,11102.859249
+1791733252.249839,chatgptstream-front,7,ChatGPT.app,8294.288115
+1791733262.299088,chatgptstream-front,7,ChatGPT.app,10422.343397
+1791733272.344150,chatgptstream-front,7,ChatGPT.app,13684.852927
+1791733282.388601,chatgptstream-front,7,ChatGPT.app,7391.562911
+1791733292.455113,chatgptstream-front,7,ChatGPT.app,2047.967169
+1791733302.515515,chatgptstream-front,7,ChatGPT.app,281.338447
+1791733312.570871,chatgptstream-front,7,ChatGPT.app,100.446522
+1791733322.644489,chatgptstream-front,7,ChatGPT.app,90.081000
+1791733332.720675,chatgptstream-front,7,ChatGPT.app,94.531645
+1791733342.796146,chatgptstream-front,7,ChatGPT.app,93.417157
+1791733352.865314,chatgptstream-front,7,ChatGPT.app,87.759454
+1791733362.937715,chatgptstream-front,7,ChatGPT.app,259.386643
+1791733373.002792,chatgptstream-front,7,ChatGPT.app,95.624344
+1791733383.070364,chatgptstream-front,7,ChatGPT.app,1904.416942
+1791733393.120812,chatgptstream-front,7,ChatGPT.app,9018.212132
+1791733403.169517,chatgptstream-front,7,ChatGPT.app,13832.734772
+1791733413.216240,chatgptstream-front,7,ChatGPT.app,10048.219970
+1791733423.275948,chatgptstream-front,7,ChatGPT.app,2440.766493
+1791733433.334773,chatgptstream-front,7,ChatGPT.app,94.846867
+1791733443.395572,chatgptstream-front,7,ChatGPT.app,116.541854
+1791733453.469177,chatgptstream-front,7,ChatGPT.app,95.224526
+1791733463.549046,chatgptstream-front,7,ChatGPT.app,85.285800
+1791733473.618379,chatgptstream-front,7,ChatGPT.app,83.818221
+1791733483.690973,chatgptstream-front,7,ChatGPT.app,227.058235
+1791733493.766014,chatgptstream-front,7,ChatGPT.app,132.864320
+1791733503.825178,chatgptstream-front,7,ChatGPT.app,83.960060
+1791733513.895921,chatgptstream-front,7,ChatGPT.app,92.627072
+1791733523.970368,chatgptstream-front,7,ChatGPT.app,83.142404
+1791733534.043094,chatgptstream-front,7,ChatGPT.app,84.094622
+1791733544.111679,chatgptstream-front,7,ChatGPT.app,1164.951406
+1791733554.170132,chatgptstream-front,7,ChatGPT.app,0.000000
+1791733564.237970,chatgptstream-front,7,ChatGPT.app,0.000000

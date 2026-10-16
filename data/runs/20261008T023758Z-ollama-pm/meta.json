@@ -1,0 +1,22 @@
+{
+ "series": "20261008T023758Z-ollama-pm",
+ "machine": "M1 Pro, macOS 14",
+ "used_by_page_sections": [
+  "ollama"
+ ],
+ "dropped_runs": [],
+ "note": "Other dropped arms and prompts (Chrome and some Safari runs, two Cursor tasks) are marked in the note column of results/ai-battery-usage-mac.csv.",
+ "macos_build": [
+  "23C71"
+ ],
+ "battery": {
+  "cycles": [
+   1047
+  ],
+  "full_charge_capacity_mah": [
+   4747,
+   4752,
+   4754
+  ]
+ }
+}

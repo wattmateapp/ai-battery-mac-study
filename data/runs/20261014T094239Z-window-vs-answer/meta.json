@@ -1,0 +1,33 @@
+{
+ "series": "20261014T094239Z-window-vs-answer",
+ "machine": "M1, macOS 26",
+ "used_by_page_sections": [
+  "window-vs-answer"
+ ],
+ "dropped_runs": [
+  {
+   "arm": "chatgpt-front-static",
+   "reason": "the window was not drawing the answers: ChatGPT's renderer at 0.003 W, the GPU flat at 0.58 W in every ChatGPT run, and ChatGPT updated itself mid-series (dropped after the data, LAB_DESIGN 17.29)"
+  },
+  {
+   "arm": "chatgptstream-front",
+   "reason": "the window was not drawing the answers: ChatGPT's renderer at 0.003 W, the GPU flat at 0.58 W in every ChatGPT run, and ChatGPT updated itself mid-series (dropped after the data, LAB_DESIGN 17.29)"
+  }
+ ],
+ "note": "Other dropped arms and prompts (Chrome and some Safari runs, two Cursor tasks) are marked in the note column of results/ai-battery-usage-mac.csv.",
+ "macos_build": [
+  "25G241"
+ ],
+ "battery": {
+  "cycles": [
+   534
+  ],
+  "full_charge_capacity_mah": [
+   4243,
+   4245,
+   4250,
+   4254,
+   4255
+  ]
+ }
+}

@@ -1,0 +1,24 @@
+{
+ "series": "20261008T124538Z-ollama-battery",
+ "machine": "M1, macOS 26",
+ "used_by_page_sections": [
+  "ollama"
+ ],
+ "dropped_runs": [],
+ "note": "Other dropped arms and prompts (Chrome and some Safari runs, two Cursor tasks) are marked in the note column of results/ai-battery-usage-mac.csv.",
+ "macos_build": [
+  "25G241"
+ ],
+ "battery": {
+  "cycles": [
+   533
+  ],
+  "full_charge_capacity_mah": [
+   4006,
+   4029,
+   4266,
+   4267,
+   4268
+  ]
+ }
+}
