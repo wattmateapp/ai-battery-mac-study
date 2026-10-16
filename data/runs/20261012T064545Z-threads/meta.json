@@ -1,0 +1,26 @@
+{
+ "series": "20261012T064545Z-threads",
+ "machine": "M1, macOS 26",
+ "used_by_page_sections": [
+  "threads"
+ ],
+ "dropped_runs": [
+  {
+   "arm": "chatgptthread",
+   "messages": "8-12",
+   "reason": "the test Macs' ChatGPT account hit its daily limit from message 8, no answers"
+  }
+ ],
+ "note": "Other dropped arms and prompts (Chrome and some Safari runs, two Cursor tasks) are marked in the note column of results/ai-battery-usage-mac.csv.",
+ "macos_build": [
+  "25G241"
+ ],
+ "battery": {
+  "cycles": [
+   533
+  ],
+  "full_charge_capacity_mah": [
+   4233
+  ]
+ }
+}

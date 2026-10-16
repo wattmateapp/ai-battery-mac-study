@@ -1,0 +1,34 @@
+{
+ "series": "20261012T071819Z-minutes-battery",
+ "machine": "M1 Pro, macOS 14",
+ "used_by_page_sections": [
+  "minutes"
+ ],
+ "dropped_runs": [
+  {
+   "arm": "chatgptstream-front",
+   "reason": "limit, a hanging GPU animation rather than answers"
+  },
+  {
+   "arm": "chatgptstream-hidden",
+   "reason": "limit, no answers"
+  }
+ ],
+ "note": "Other dropped arms and prompts (Chrome and some Safari runs, two Cursor tasks) are marked in the note column of results/ai-battery-usage-mac.csv.",
+ "macos_build": [
+  "23C71"
+ ],
+ "battery": {
+  "cycles": [
+   1048
+  ],
+  "full_charge_capacity_mah": [
+   4740,
+   4752,
+   4758,
+   4762,
+   4768,
+   4773
+  ]
+ }
+}

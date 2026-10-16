@@ -1,0 +1,21 @@
+{
+ "series": "20261007T233521Z-ai-night-2",
+ "machine": "M1 Pro, macOS 14",
+ "used_by_page_sections": [
+  "ollama-idle"
+ ],
+ "dropped_runs": [],
+ "note": "Other dropped arms and prompts (Chrome and some Safari runs, two Cursor tasks) are marked in the note column of results/ai-battery-usage-mac.csv.",
+ "macos_build": [
+  "23C71"
+ ],
+ "battery": {
+  "cycles": [
+   1047
+  ],
+  "full_charge_capacity_mah": [
+   4747,
+   4753
+  ]
+ }
+}

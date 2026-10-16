@@ -1,0 +1,7 @@
+arm,index,t_measure_start,t_measure_end,soc_start,soc_end,source_start,source_end,fcc_mah,raw_max_mah,nominal_mah,cycles,brightness,lowpowermode,temperature_c,build
+control,0,1791947445.622268,1791949245.621818,70,70,Battery,Battery,5228,,,617,0.6875,,,26A428
+chatgptstream-front,1,1791949258.118438,1791951058.1182091,70,64,Battery,Battery,5239,,,617,0.6875,,,26A428
+chatgptstream-hidden,2,1791951109.0732968,1791952909.073987,64,61,Battery,Battery,5213,,,617,0.6875,,,26A428
+chatgptstream-hidden,3,1791952929.806368,1791954729.807429,61,58,Battery,Battery,5234,,,617,0.6875,,,26A428
+chatgptstream-front,4,1791954750.434979,1791956550.434434,58,51,Battery,Battery,5234,,,617,0.6875,,,26A428
+control,5,1791956709.266355,1791958509.267342,51,49,Battery,Battery,5210,,,617,0.6875,,,26A428

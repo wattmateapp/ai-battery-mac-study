@@ -1,0 +1,26 @@
+{
+ "series": "20261011T212003Z-multi",
+ "machine": "M1, macOS 26",
+ "used_by_page_sections": [
+  "agents",
+  "idle"
+ ],
+ "dropped_runs": [
+  {
+   "arm": "codex-x4-task",
+   "reason": "the test Macs' Codex account hit its usage limit, no edits made"
+  }
+ ],
+ "note": "Other dropped arms and prompts (Chrome and some Safari runs, two Cursor tasks) are marked in the note column of results/ai-battery-usage-mac.csv.",
+ "macos_build": [
+  "25G241"
+ ],
+ "battery": {
+  "cycles": [
+   533
+  ],
+  "full_charge_capacity_mah": [
+   4233
+  ]
+ }
+}

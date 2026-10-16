@@ -1,0 +1,306 @@
+t,arm,index,subject,energy_mj_since_previous_tick
+1791794304.726372,claudestream-front,1,Claude.app,19405.760056
+1791794314.813009,claudestream-front,1,Claude.app,355.117012
+1791794324.878298,claudestream-front,1,Claude.app,3752.851330
+1791794334.929007,claudestream-front,1,Claude.app,2110.877991
+1791794344.969805,claudestream-front,1,Claude.app,2185.538003
+1791794355.023594,claudestream-front,1,Claude.app,2707.514538
+1791794365.078152,claudestream-front,1,Claude.app,52.279011
+1791794375.144654,claudestream-front,1,Claude.app,13.908404
+1791794385.208207,claudestream-front,1,Claude.app,12.945198
+1791794395.269464,claudestream-front,1,Claude.app,15.916600
+1791794405.318541,claudestream-front,1,Claude.app,11.676713
+1791794415.374081,claudestream-front,1,Claude.app,14.074265
+1791794425.428430,claudestream-front,1,Claude.app,20.563929
+1791794435.485390,claudestream-front,1,Claude.app,11.332382
+1791794445.549763,claudestream-front,1,Claude.app,10.875059
+1791794455.608824,claudestream-front,1,Claude.app,14.526159
+1791794465.669929,claudestream-front,1,Claude.app,12.525979
+1791794475.731749,claudestream-front,1,Claude.app,573.327321
+1791794485.800421,claudestream-front,1,Claude.app,2221.217177
+1791794495.853375,claudestream-front,1,Claude.app,1775.432856
+1791794505.898820,claudestream-front,1,Claude.app,1696.679907
+1791794515.953241,claudestream-front,1,Claude.app,1211.529607
+1791794526.022194,claudestream-front,1,Claude.app,11.387123
+1791794536.089505,claudestream-front,1,Claude.app,18.005328
+1791794546.151582,claudestream-front,1,Claude.app,20.492252
+1791794556.219218,claudestream-front,1,Claude.app,34.177815
+1791794566.279331,claudestream-front,1,Claude.app,10.931289
+1791794576.336300,claudestream-front,1,Claude.app,12.691195
+1791794586.400737,claudestream-front,1,Claude.app,12.055339
+1791794596.463762,claudestream-front,1,Claude.app,16.721265
+1791794606.528540,claudestream-front,1,Claude.app,33.434953
+1791794616.597726,claudestream-front,1,Claude.app,25.945555
+1791794626.655909,claudestream-front,1,Claude.app,10.897429
+1791794636.725742,claudestream-front,1,Claude.app,591.881140
+1791794646.786656,claudestream-front,1,Claude.app,1869.769092
+1791794656.838109,claudestream-front,1,Claude.app,2213.765156
+1791794666.883612,claudestream-front,1,Claude.app,1671.278534
+1791794676.924932,claudestream-front,1,Claude.app,1841.043090
+1791794686.979186,claudestream-front,1,Claude.app,30.072949
+1791794697.041349,claudestream-front,1,Claude.app,13.077224
+1791794707.108304,claudestream-front,1,Claude.app,17.811442
+1791794717.178271,claudestream-front,1,Claude.app,10.871115
+1791794727.243717,claudestream-front,1,Claude.app,15.493815
+1791794737.306388,claudestream-front,1,Claude.app,13.048598
+1791794747.374905,claudestream-front,1,Claude.app,11.130529
+1791794757.452014,claudestream-front,1,Claude.app,11.732959
+1791794767.523956,claudestream-front,1,Claude.app,16.217326
+1791794777.597279,claudestream-front,1,Claude.app,15.301604
+1791794787.671808,claudestream-front,1,Claude.app,15.353477
+1791794797.743968,claudestream-front,1,Claude.app,0.000000
+1791794807.803140,claudestream-front,1,Claude.app,0.000000
+1791794837.972558,safari-claude,2,Safari.app,1906.757608
+1791794848.026921,safari-claude,2,Safari.app,185.886024
+1791794858.089071,safari-claude,2,Safari.app,256.872529
+1791794868.144992,safari-claude,2,Safari.app,189.046202
+1791794878.203700,safari-claude,2,Safari.app,152.866879
+1791794888.263628,safari-claude,2,Safari.app,5.789030
+1791794898.330114,safari-claude,2,Safari.app,6.519116
+1791794908.393781,safari-claude,2,Safari.app,6.561510
+1791794918.453953,safari-claude,2,Safari.app,6.272692
+1791794928.508903,safari-claude,2,Safari.app,6.244479
+1791794938.574276,safari-claude,2,Safari.app,6.385068
+1791794948.634082,safari-claude,2,Safari.app,5.717165
+1791794958.705011,safari-claude,2,Safari.app,5.913996
+1791794968.759264,safari-claude,2,Safari.app,5.651366
+1791794978.824391,safari-claude,2,Safari.app,6.248709
+1791794988.883276,safari-claude,2,Safari.app,6.174704
+1791794998.942202,safari-claude,2,Safari.app,323.743003
+1791795008.997397,safari-claude,2,Safari.app,99.812389
+1791795019.054956,safari-claude,2,Safari.app,245.694978
+1791795029.114368,safari-claude,2,Safari.app,197.159453
+1791795039.167857,safari-claude,2,Safari.app,169.680175
+1791795049.230047,safari-claude,2,Safari.app,24.855739
+1791795059.288146,safari-claude,2,Safari.app,6.264955
+1791795069.355778,safari-claude,2,Safari.app,6.439762
+1791795079.421867,safari-claude,2,Safari.app,6.348234
+1791795089.490818,safari-claude,2,Safari.app,6.430937
+1791795099.559482,safari-claude,2,Safari.app,6.248827
+1791795109.612740,safari-claude,2,Safari.app,5.734434
+1791795119.676507,safari-claude,2,Safari.app,6.036171
+1791795129.739829,safari-claude,2,Safari.app,5.940819
+1791795139.802185,safari-claude,2,Safari.app,6.061405
+1791795149.869447,safari-claude,2,Safari.app,6.314646
+1791795159.934764,safari-claude,2,Safari.app,263.743385
+1791795169.996102,safari-claude,2,Safari.app,102.796515
+1791795180.056532,safari-claude,2,Safari.app,245.683804
+1791795190.106619,safari-claude,2,Safari.app,200.476512
+1791795200.162578,safari-claude,2,Safari.app,165.230449
+1791795210.228425,safari-claude,2,Safari.app,6.756205
+1791795220.287181,safari-claude,2,Safari.app,7.117335
+1791795230.350001,safari-claude,2,Safari.app,6.207247
+1791795240.402903,safari-claude,2,Safari.app,6.493884
+1791795250.465128,safari-claude,2,Safari.app,6.573996
+1791795260.526099,safari-claude,2,Safari.app,6.381361
+1791795270.590791,safari-claude,2,Safari.app,6.232503
+1791795280.652222,safari-claude,2,Safari.app,6.543930
+1791795290.721802,safari-claude,2,Safari.app,6.160391
+1791795300.787461,safari-claude,2,Safari.app,6.057922
+1791795310.846475,safari-claude,2,Safari.app,6.151174
+1791795320.906553,safari-claude,2,Safari.app,6.431534
+1791795330.968010,safari-claude,2,Safari.app,0.000000
+1791795341.033807,safari-claude,2,Safari.app,0.000000
+1791795361.155157,chrome-claude,3,Google Chrome.app,2.509754
+1791795371.199959,chrome-claude,3,Google Chrome.app,15855.164222
+1791795381.262229,chrome-claude,3,Google Chrome.app,3793.977204
+1791795391.311577,chrome-claude,3,Google Chrome.app,1218.687642
+1791795401.368672,chrome-claude,3,Google Chrome.app,2342.107511
+1791795411.421995,chrome-claude,3,Google Chrome.app,1405.492051
+1791795421.486580,chrome-claude,3,Google Chrome.app,10.728631
+1791795431.553973,chrome-claude,3,Google Chrome.app,21.328193
+1791795441.618082,chrome-claude,3,Google Chrome.app,12.960493
+1791795451.683655,chrome-claude,3,Google Chrome.app,10.164882
+1791795461.747107,chrome-claude,3,Google Chrome.app,10.540742
+1791795471.806035,chrome-claude,3,Google Chrome.app,11.852850
+1791795481.866171,chrome-claude,3,Google Chrome.app,12.011257
+1791795491.934512,chrome-claude,3,Google Chrome.app,13.072111
+1791795502.002861,chrome-claude,3,Google Chrome.app,9.835959
+1791795512.073241,chrome-claude,3,Google Chrome.app,9.739369
+1791795522.140606,chrome-claude,3,Google Chrome.app,10.555648
+1791795532.211744,chrome-claude,3,Google Chrome.app,9620.651150
+1791795542.267965,chrome-claude,3,Google Chrome.app,3017.867533
+1791795552.319784,chrome-claude,3,Google Chrome.app,1522.495961
+1791795562.362115,chrome-claude,3,Google Chrome.app,1785.036196
+1791795572.414817,chrome-claude,3,Google Chrome.app,1994.598249
+1791795582.482533,chrome-claude,3,Google Chrome.app,312.057631
+1791795592.533563,chrome-claude,3,Google Chrome.app,18.689099
+1791795602.599314,chrome-claude,3,Google Chrome.app,15.174510
+1791795612.667861,chrome-claude,3,Google Chrome.app,10.173070
+1791795622.736780,chrome-claude,3,Google Chrome.app,104.855637
+1791795632.795745,chrome-claude,3,Google Chrome.app,17.064110
+1791795642.862907,chrome-claude,3,Google Chrome.app,9.332833
+1791795652.918922,chrome-claude,3,Google Chrome.app,33.078751
+1791795662.979873,chrome-claude,3,Google Chrome.app,10.802977
+1791795673.047171,chrome-claude,3,Google Chrome.app,11.967767
+1791795683.116948,chrome-claude,3,Google Chrome.app,12.820639
+1791795693.177224,chrome-claude,3,Google Chrome.app,8860.689859
+1791795703.250101,chrome-claude,3,Google Chrome.app,3142.888823
+1791795713.294605,chrome-claude,3,Google Chrome.app,1490.089233
+1791795723.339013,chrome-claude,3,Google Chrome.app,2163.186676
+1791795733.387302,chrome-claude,3,Google Chrome.app,1677.225544
+1791795743.455127,chrome-claude,3,Google Chrome.app,10.729950
+1791795753.520835,chrome-claude,3,Google Chrome.app,20.837146
+1791795763.580417,chrome-claude,3,Google Chrome.app,12.784566
+1791795773.643544,chrome-claude,3,Google Chrome.app,9.559167
+1791795783.717353,chrome-claude,3,Google Chrome.app,10.206001
+1791795793.786154,chrome-claude,3,Google Chrome.app,15.210418
+1791795803.843371,chrome-claude,3,Google Chrome.app,104.287940
+1791795813.903293,chrome-claude,3,Google Chrome.app,15.929868
+1791795823.969601,chrome-claude,3,Google Chrome.app,10.094182
+1791795834.038413,chrome-claude,3,Google Chrome.app,10.396415
+1791795844.099635,chrome-claude,3,Google Chrome.app,11.665892
+1791795854.165834,chrome-claude,3,Google Chrome.app,0.000000
+1791795864.229852,chrome-claude,3,Google Chrome.app,0.000000
+1791796580.514472,chrome-claude,5,Google Chrome.app,14493.287319
+1791796590.601975,chrome-claude,5,Google Chrome.app,464.318645
+1791796600.642418,chrome-claude,5,Google Chrome.app,3573.660034
+1791796610.695318,chrome-claude,5,Google Chrome.app,1937.578718
+1791796620.743477,chrome-claude,5,Google Chrome.app,2148.060355
+1791796630.789422,chrome-claude,5,Google Chrome.app,1341.896075
+1791796640.845730,chrome-claude,5,Google Chrome.app,170.085025
+1791796650.895929,chrome-claude,5,Google Chrome.app,166.170765
+1791796660.938821,chrome-claude,5,Google Chrome.app,161.531706
+1791796670.983684,chrome-claude,5,Google Chrome.app,157.085223
+1791796681.036344,chrome-claude,5,Google Chrome.app,160.244946
+1791796691.083865,chrome-claude,5,Google Chrome.app,163.750110
+1791796701.129588,chrome-claude,5,Google Chrome.app,163.716085
+1791796711.188579,chrome-claude,5,Google Chrome.app,157.441391
+1791796721.233561,chrome-claude,5,Google Chrome.app,155.875432
+1791796731.279859,chrome-claude,5,Google Chrome.app,158.369833
+1791796741.309801,chrome-claude,5,Google Chrome.app,2721.393593
+1791796751.360477,chrome-claude,5,Google Chrome.app,6448.894973
+1791796761.423054,chrome-claude,5,Google Chrome.app,3602.771915
+1791796771.479596,chrome-claude,5,Google Chrome.app,1524.091872
+1791796781.539321,chrome-claude,5,Google Chrome.app,2814.491065
+1791796791.593781,chrome-claude,5,Google Chrome.app,45.729373
+1791796801.646994,chrome-claude,5,Google Chrome.app,14.267469
+1791796811.707508,chrome-claude,5,Google Chrome.app,28.714585
+1791796821.771364,chrome-claude,5,Google Chrome.app,12.869734
+1791796831.839709,chrome-claude,5,Google Chrome.app,10.545180
+1791796841.907406,chrome-claude,5,Google Chrome.app,48.486034
+1791796851.979885,chrome-claude,5,Google Chrome.app,10.373638
+1791796862.051341,chrome-claude,5,Google Chrome.app,9.759678
+1791796872.108537,chrome-claude,5,Google Chrome.app,10.853119
+1791796882.166034,chrome-claude,5,Google Chrome.app,105.503306
+1791796892.229942,chrome-claude,5,Google Chrome.app,11.335407
+1791796902.293187,chrome-claude,5,Google Chrome.app,2161.637650
+1791796912.351835,chrome-claude,5,Google Chrome.app,6853.557614
+1791796922.408830,chrome-claude,5,Google Chrome.app,3615.311967
+1791796932.458617,chrome-claude,5,Google Chrome.app,1439.044994
+1791796942.503662,chrome-claude,5,Google Chrome.app,1465.384008
+1791796952.567243,chrome-claude,5,Google Chrome.app,1671.416492
+1791796962.634266,chrome-claude,5,Google Chrome.app,262.412538
+1791796972.697413,chrome-claude,5,Google Chrome.app,21.470986
+1791796982.754530,chrome-claude,5,Google Chrome.app,15.194245
+1791796992.816349,chrome-claude,5,Google Chrome.app,10.282046
+1791797002.880911,chrome-claude,5,Google Chrome.app,11.049871
+1791797012.944269,chrome-claude,5,Google Chrome.app,10.959421
+1791797023.006495,chrome-claude,5,Google Chrome.app,10.572672
+1791797033.078274,chrome-claude,5,Google Chrome.app,13.475265
+1791797043.151291,chrome-claude,5,Google Chrome.app,10.532715
+1791797053.223928,chrome-claude,5,Google Chrome.app,107.405143
+1791797063.290707,chrome-claude,5,Google Chrome.app,13.358189
+1791797073.357641,chrome-claude,5,Google Chrome.app,0.000000
+1791797083.403155,chrome-claude,5,Google Chrome.app,0.000000
+1791797083.403155,safari-claude,6,Safari.app,1913.384101
+1791797093.469233,safari-claude,6,Safari.app,265.804346
+1791797103.514131,safari-claude,6,Safari.app,222.167892
+1791797113.561861,safari-claude,6,Safari.app,177.497698
+1791797123.624286,safari-claude,6,Safari.app,31.372992
+1791797133.688126,safari-claude,6,Safari.app,6.371425
+1791797143.753418,safari-claude,6,Safari.app,6.444921
+1791797153.810093,safari-claude,6,Safari.app,6.434525
+1791797163.871468,safari-claude,6,Safari.app,6.175286
+1791797173.939941,safari-claude,6,Safari.app,5.905722
+1791797183.992529,safari-claude,6,Safari.app,5.988214
+1791797194.055634,safari-claude,6,Safari.app,5.950176
+1791797204.121974,safari-claude,6,Safari.app,6.499451
+1791797214.189234,safari-claude,6,Safari.app,5.913783
+1791797224.252493,safari-claude,6,Safari.app,6.299442
+1791797234.313089,safari-claude,6,Safari.app,6.147615
+1791797244.372995,safari-claude,6,Safari.app,335.920447
+1791797254.435934,safari-claude,6,Safari.app,193.188725
+1791797264.490076,safari-claude,6,Safari.app,205.938957
+1791797274.537692,safari-claude,6,Safari.app,178.010746
+1791797284.593664,safari-claude,6,Safari.app,75.692058
+1791797294.662893,safari-claude,6,Safari.app,5.581483
+1791797304.728798,safari-claude,6,Safari.app,6.427575
+1791797314.786090,safari-claude,6,Safari.app,6.412935
+1791797324.850374,safari-claude,6,Safari.app,6.309786
+1791797334.912572,safari-claude,6,Safari.app,6.155023
+1791797344.975288,safari-claude,6,Safari.app,6.186722
+1791797355.029527,safari-claude,6,Safari.app,5.605355
+1791797365.098273,safari-claude,6,Safari.app,5.980103
+1791797375.152325,safari-claude,6,Safari.app,6.030869
+1791797385.216700,safari-claude,6,Safari.app,6.330248
+1791797395.283303,safari-claude,6,Safari.app,6.501595
+1791797405.348000,safari-claude,6,Safari.app,286.217878
+1791797415.410492,safari-claude,6,Safari.app,201.439824
+1791797425.465901,safari-claude,6,Safari.app,203.944968
+1791797435.522253,safari-claude,6,Safari.app,184.017736
+1791797445.580051,safari-claude,6,Safari.app,60.804453
+1791797455.642517,safari-claude,6,Safari.app,6.412896
+1791797465.702707,safari-claude,6,Safari.app,6.444622
+1791797475.771374,safari-claude,6,Safari.app,6.240437
+1791797485.824647,safari-claude,6,Safari.app,6.115059
+1791797495.893069,safari-claude,6,Safari.app,6.310478
+1791797505.963376,safari-claude,6,Safari.app,6.210315
+1791797516.019782,safari-claude,6,Safari.app,5.565218
+1791797526.071343,safari-claude,6,Safari.app,6.365214
+1791797536.131955,safari-claude,6,Safari.app,5.799609
+1791797546.193977,safari-claude,6,Safari.app,6.044807
+1791797556.251471,safari-claude,6,Safari.app,6.480405
+1791797566.319134,safari-claude,6,Safari.app,0.000000
+1791797576.380377,safari-claude,6,Safari.app,0.000000
+1791797606.564682,claudestream-front,7,Claude.app,19290.078505
+1791797616.626600,claudestream-front,7,Claude.app,423.800479
+1791797626.663184,claudestream-front,7,Claude.app,4683.849634
+1791797636.714426,claudestream-front,7,Claude.app,2779.778336
+1791797646.767054,claudestream-front,7,Claude.app,1823.663530
+1791797656.802610,claudestream-front,7,Claude.app,2105.663954
+1791797666.860576,claudestream-front,7,Claude.app,400.927144
+1791797676.926526,claudestream-front,7,Claude.app,12.580217
+1791797686.993290,claudestream-front,7,Claude.app,14.763298
+1791797697.065472,claudestream-front,7,Claude.app,11.770097
+1791797707.133335,claudestream-front,7,Claude.app,11.604964
+1791797717.201366,claudestream-front,7,Claude.app,10.319682
+1791797727.270749,claudestream-front,7,Claude.app,23.393689
+1791797737.326149,claudestream-front,7,Claude.app,15.228358
+1791797747.390730,claudestream-front,7,Claude.app,13.918870
+1791797757.452446,claudestream-front,7,Claude.app,14.587597
+1791797767.516656,claudestream-front,7,Claude.app,10.854774
+1791797777.582226,claudestream-front,7,Claude.app,617.432040
+1791797787.638875,claudestream-front,7,Claude.app,2508.259860
+1791797797.688065,claudestream-front,7,Claude.app,1785.450126
+1791797807.733144,claudestream-front,7,Claude.app,1715.364536
+1791797817.791080,claudestream-front,7,Claude.app,1367.895790
+1791797827.851618,claudestream-front,7,Claude.app,12.871190
+1791797837.920214,claudestream-front,7,Claude.app,12.209075
+1791797847.980415,claudestream-front,7,Claude.app,19.872280
+1791797858.044214,claudestream-front,7,Claude.app,15.946050
+1791797868.106053,claudestream-front,7,Claude.app,9.796946
+1791797878.172986,claudestream-front,7,Claude.app,11.494627
+1791797888.236145,claudestream-front,7,Claude.app,11.112900
+1791797898.297008,claudestream-front,7,Claude.app,11.279633
+1791797908.353948,claudestream-front,7,Claude.app,45.373762
+1791797918.414693,claudestream-front,7,Claude.app,20.020001
+1791797928.478515,claudestream-front,7,Claude.app,10.767667
+1791797938.548976,claudestream-front,7,Claude.app,628.927248
+1791797948.614302,claudestream-front,7,Claude.app,2232.172304
+1791797958.677947,claudestream-front,7,Claude.app,2270.645138
+1791797968.721319,claudestream-front,7,Claude.app,1942.281622
+1791797978.773027,claudestream-front,7,Claude.app,1160.284506
+1791797988.841228,claudestream-front,7,Claude.app,413.117244
+1791797998.898766,claudestream-front,7,Claude.app,13.206468
+1791798008.962383,claudestream-front,7,Claude.app,16.467163
+1791798019.021126,claudestream-front,7,Claude.app,36.012666
+1791798029.085058,claudestream-front,7,Claude.app,14.994119
+1791798039.153178,claudestream-front,7,Claude.app,12.184311
+1791798049.219330,claudestream-front,7,Claude.app,12.668463
+1791798059.285199,claudestream-front,7,Claude.app,10.537544
+1791798069.353477,claudestream-front,7,Claude.app,13.038725
+1791798079.422602,claudestream-front,7,Claude.app,51.177782
+1791798089.482876,claudestream-front,7,Claude.app,12.990746
+1791798099.543393,claudestream-front,7,Claude.app,0.000000
+1791798109.608420,claudestream-front,7,Claude.app,0.000000

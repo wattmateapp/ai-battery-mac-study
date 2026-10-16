@@ -1,0 +1,2054 @@
+t,arm,index,process,energy_mj_since_previous_tick
+1791971002.000515,control,0,WattMate.app,8.584557
+1791971012.065322,control,0,WattMate.app,8.153588
+1791971022.135626,control,0,WattMate.app,13.806622
+1791971032.200913,control,0,WattMate.app,0.660926
+1791971042.253641,control,0,WattMate.app,0.576730
+1791971052.323744,control,0,WattMate.app,2.283571
+1791971062.379796,control,0,WattMate.app,11.420666
+1791971072.445302,control,0,WattMate.app,0.544719
+1791971082.505176,control,0,WattMate.app,0.541408
+1791971092.563399,control,0,WattMate.app,11.253456
+1791971102.632407,control,0,WattMate.app,0.543466
+1791971112.693618,control,0,WattMate.app,3.216226
+1791971122.761736,control,0,WattMate.app,34.969411
+1791971132.827577,control,0,WattMate.app,0.546722
+1791971142.893388,control,0,WattMate.app,0.645629
+1791971152.956975,control,0,WattMate.app,10.669223
+1791971163.012717,control,0,WattMate.app,0.557105
+1791971173.057681,control,0,WattMate.app,2.845548
+1791971183.115566,control,0,WattMate.app,12.756687
+1791971193.171958,control,0,WattMate.app,0.658096
+1791971203.230661,control,0,WattMate.app,0.546023
+1791971213.273003,control,0,WattMate.app,33.309951
+1791971223.344556,control,0,WattMate.app,0.555281
+1791971233.399354,control,0,WattMate.app,2.729579
+1791971243.465607,control,0,WattMate.app,0.550504
+1791971253.532987,control,0,WattMate.app,11.647747
+1791971263.598146,control,0,WattMate.app,0.547022
+1791971273.685098,control,0,WattMate.app,0.645909
+1791971283.761628,control,0,WattMate.app,10.943628
+1791971293.848274,control,0,WattMate.app,0.536862
+1791971303.959372,control,0,WattMate.app,0.540845
+1791971314.035544,control,0,WattMate.app,42.649291
+1791971324.125017,control,0,WattMate.app,0.579197
+1791971334.219417,control,0,WattMate.app,0.566530
+1791971344.298448,control,0,WattMate.app,11.044585
+1791971354.356474,control,0,WattMate.app,2.086488
+1791971364.447475,control,0,WattMate.app,0.703283
+1791971374.535955,control,0,WattMate.app,0.073714
+1791971384.633951,control,0,WattMate.app,34.221322
+1791971394.725288,control,0,WattMate.app,0.551574
+1791971404.809982,control,0,WattMate.app,0.541444
+1791971414.910336,control,0,WattMate.app,12.959750
+1791971425.007748,control,0,WattMate.app,0.545275
+1791971435.108818,control,0,WattMate.app,0.631477
+1791971445.201821,control,0,WattMate.app,11.527784
+1791971455.305740,control,0,WattMate.app,0.558511
+1791971465.394242,control,0,WattMate.app,0.572526
+1791971475.468368,control,0,WattMate.app,40.575684
+1791971485.566462,control,0,WattMate.app,0.667543
+1791971495.654500,control,0,WattMate.app,0.564065
+1791971505.754987,control,0,WattMate.app,11.503886
+1791971515.857876,control,0,WattMate.app,0.559318
+1791971525.938525,control,0,WattMate.app,0.564425
+1791971536.019121,control,0,WattMate.app,0.088371
+1791971546.114680,control,0,WattMate.app,11.341412
+1791971556.203332,control,0,WattMate.app,0.693575
+1791971566.303700,control,0,WattMate.app,0.554642
+1791971576.399281,control,0,WattMate.app,50.388856
+1791971586.512097,control,0,WattMate.app,0.589964
+1791971596.606429,control,0,WattMate.app,2.266521
+1791971606.712765,control,0,WattMate.app,15.039631
+1791971616.831482,control,0,WattMate.app,0.562536
+1791971626.936073,control,0,WattMate.app,0.551202
+1791971637.031890,control,0,WattMate.app,10.837409
+1791971647.143378,control,0,WattMate.app,0.558047
+1791971657.245003,control,0,WattMate.app,0.562395
+1791971667.336773,control,0,WattMate.app,38.988278
+1791971677.447732,control,0,WattMate.app,0.554674
+1791971687.530579,control,0,WattMate.app,0.552919
+1791971697.623155,control,0,WattMate.app,10.897949
+1791971707.701055,control,0,WattMate.app,2.842540
+1791971717.814600,control,0,WattMate.app,0.674708
+1791971727.904678,control,0,WattMate.app,11.268103
+1791971738.001801,control,0,WattMate.app,0.553155
+1791971748.066398,control,0,WattMate.app,0.576929
+1791971758.164407,control,0,WattMate.app,3.696572
+1791971768.261764,control,0,WattMate.app,49.253605
+1791971778.369331,control,0,WattMate.app,0.092263
+1791971788.448676,control,0,WattMate.app,0.547438
+1791971798.528949,control,0,WattMate.app,11.082908
+1791971808.637744,control,0,WattMate.app,0.558837
+1791971818.714484,control,0,WattMate.app,0.555739
+1791971828.817289,control,0,WattMate.app,41.842591
+1791971838.912764,control,0,WattMate.app,0.554286
+1791971849.020946,control,0,WattMate.app,0.561707
+1791971859.102571,control,0,WattMate.app,11.332828
+1791971869.191580,control,0,WattMate.app,0.518582
+1791971879.301470,control,0,WattMate.app,0.659691
+1791971889.400348,control,0,WattMate.app,12.717846
+1791971899.497817,control,0,WattMate.app,0.568804
+1791971909.595096,control,0,WattMate.app,0.551472
+1791971919.681350,control,0,WattMate.app,43.043617
+1791971929.778951,control,0,WattMate.app,0.544143
+1791971939.870754,control,0,WattMate.app,0.664356
+1791971949.969260,control,0,WattMate.app,14.450121
+1791971960.067295,control,0,WattMate.app,0.082403
+1791971970.158905,control,0,WattMate.app,0.542582
+1791971980.252986,control,0,WattMate.app,0.588435
+1791971990.365975,control,0,WattMate.app,11.936792
+1791972000.454994,control,0,WattMate.app,0.654043
+1791972010.550104,control,0,WattMate.app,2.777507
+1791972020.658890,control,0,WattMate.app,55.847500
+1791972030.762948,control,0,WattMate.app,0.538065
+1791972040.867006,control,0,WattMate.app,0.530974
+1791972050.964227,control,0,WattMate.app,11.655653
+1791972061.059834,control,0,WattMate.app,0.542646
+1791972071.160422,control,0,WattMate.app,2.979023
+1791972081.268627,control,0,WattMate.app,11.222390
+1791972091.371963,control,0,WattMate.app,0.534553
+1791972101.468989,control,0,WattMate.app,0.675826
+1791972111.572935,control,0,WattMate.app,40.749840
+1791972121.644326,control,0,WattMate.app,0.530847
+1791972131.724859,control,0,WattMate.app,2.343507
+1791972141.824785,control,0,WattMate.app,10.785624
+1791972151.925450,control,0,WattMate.app,0.582852
+1791972161.990734,control,0,WattMate.app,0.539475
+1791972172.070465,control,0,WattMate.app,10.045813
+1791972182.160529,control,0,WattMate.app,0.540709
+1791972192.263090,control,0,WattMate.app,2.448984
+1791972202.365392,control,0,WattMate.app,0.561376
+1791972212.461260,control,0,WattMate.app,66.477546
+1791972222.555375,control,0,WattMate.app,0.554824
+1791972232.629966,control,0,WattMate.app,0.591904
+1791972242.721793,control,0,WattMate.app,10.724381
+1791972252.813911,control,0,WattMate.app,2.600045
+1791972262.894266,control,0,WattMate.app,0.653950
+1791972272.990123,control,0,WattMate.app,11.475522
+1791972283.079578,control,0,WattMate.app,0.552111
+1791972293.179372,control,0,WattMate.app,0.525788
+1791972303.272797,control,0,WattMate.app,42.827773
+1791972313.361012,control,0,WattMate.app,3.248443
+1791972323.449895,control,0,WattMate.app,0.533950
+1791972333.557873,control,0,WattMate.app,11.046090
+1791972343.662545,control,0,WattMate.app,0.530657
+1791972353.769693,control,0,WattMate.app,0.566295
+1791972363.885045,control,0,WattMate.app,43.862458
+1791972373.960629,control,0,WattMate.app,2.494443
+1791972384.066265,control,0,WattMate.app,0.561557
+1791972394.160518,control,0,WattMate.app,11.525063
+1791972404.270560,control,0,WattMate.app,0.542469
+1791972414.361312,control,0,WattMate.app,0.552143
+1791972424.434563,control,0,WattMate.app,11.151102
+1791972434.526363,control,0,WattMate.app,7.784149
+1791972444.610939,control,0,WattMate.app,0.086500
+1791972454.703119,control,0,WattMate.app,0.540951
+1791972464.793764,control,0,WattMate.app,67.157036
+1791972474.896715,control,0,WattMate.app,0.658284
+1791972484.989496,control,0,WattMate.app,0.615876
+1791972495.091909,control,0,WattMate.app,14.208268
+1791972505.183754,control,0,WattMate.app,0.551573
+1791972515.267851,control,0,WattMate.app,0.526277
+1791972525.364085,control,0,WattMate.app,10.352653
+1791972535.458198,control,0,WattMate.app,0.604416
+1791972545.562952,control,0,WattMate.app,0.539499
+1791972555.649077,control,0,WattMate.app,51.300908
+1791972565.739283,control,0,WattMate.app,0.548806
+1791972575.823898,control,0,WattMate.app,0.536172
+1791972585.927075,control,0,WattMate.app,11.514520
+1791972596.010283,control,0,WattMate.app,0.538968
+1791972606.101350,control,0,WattMate.app,0.545268
+1791972616.183074,control,0,WattMate.app,10.776377
+1791972626.291616,control,0,WattMate.app,0.547377
+1791972636.380229,control,0,WattMate.app,0.542336
+1791972646.463330,control,0,WattMate.app,64.858979
+1791972656.559899,control,0,WattMate.app,0.535028
+1791972666.655840,control,0,WattMate.app,2.242712
+1791972676.753239,control,0,WattMate.app,10.701667
+1791972686.857044,control,0,WattMate.app,0.503690
+1791972696.931686,control,0,WattMate.app,0.642485
+1791972707.029676,control,0,WattMate.app,0.079692
+1791972717.143666,control,0,WattMate.app,9.699880
+1791972727.236939,control,0,WattMate.app,2.946586
+1791972737.342700,control,0,WattMate.app,3.563834
+1791972747.450286,control,0,WattMate.app,49.221522
+1791972757.541707,control,0,WattMate.app,0.536252
+1791972767.624493,control,0,WattMate.app,0.537279
+1791972777.733741,control,0,WattMate.app,10.811767
+1791972787.831723,control,0,WattMate.app,0.538255
+1791972797.927895,control,0,WattMate.app,0.524231
+1791972808.013855,control,0,WattMate.app,11.787976
+1791972818.117224,control,0,WattMate.app,0.545574
+1791972828.205162,control,0,WattMate.app,0.561028
+1791972838.276473,control,0,WattMate.app,75.773624
+1791972848.338778,control,0,WattMate.app,0.513198
+1791972858.419223,control,0,WattMate.app,2.749816
+1791972868.499332,control,0,WattMate.app,11.057914
+1791972878.590584,control,0,WattMate.app,0.534446
+1791972888.665590,control,0,WattMate.app,0.531279
+1791972898.745466,control,0,WattMate.app,0.079906
+1791972908.837899,control,0,WattMate.app,50.424268
+1791972918.929974,control,0,WattMate.app,0.497124
+1791972929.035067,control,0,WattMate.app,0.657844
+1791972939.131943,control,0,WattMate.app,10.901949
+1791972949.224170,control,0,WattMate.app,0.535080
+1791972959.296614,control,0,WattMate.app,0.531119
+1791972969.413327,control,0,WattMate.app,10.835159
+1791972979.499899,control,0,WattMate.app,0.544990
+1791972989.582432,control,0,WattMate.app,0.657008
+1791972999.662125,control,0,WattMate.app,48.991503
+1791973009.750964,control,0,WattMate.app,0.561450
+1791973019.853801,control,0,WattMate.app,0.547978
+1791973029.961488,control,0,WattMate.app,13.830211
+1791973040.039082,control,0,WattMate.app,22.025840
+1791973040.039082,chatgpt-front-static,1,Codex (Renderer),9666.541033
+1791973040.039082,chatgpt-front-static,1,WattMate.app,22.025840
+1791973050.098113,chatgpt-front-static,1,Codex (Renderer),6500.659172
+1791973050.098113,chatgpt-front-static,1,WattMate.app,16.185610
+1791973060.151400,chatgpt-front-static,1,Codex (Renderer),11159.607826
+1791973060.151400,chatgpt-front-static,1,WattMate.app,54.056940
+1791973070.193195,chatgpt-front-static,1,Codex (Renderer),8311.693205
+1791973070.193195,chatgpt-front-static,1,WattMate.app,0.103118
+1791973080.243843,chatgpt-front-static,1,Codex (Renderer),9849.813412
+1791973080.243843,chatgpt-front-static,1,WattMate.app,0.785525
+1791973090.294417,chatgpt-front-static,1,Codex (Renderer),11215.194360
+1791973090.294417,chatgpt-front-static,1,WattMate.app,129.972287
+1791973100.345468,chatgpt-front-static,1,Codex (Renderer),12371.134074
+1791973100.345468,chatgpt-front-static,1,WattMate.app,0.838283
+1791973110.395013,chatgpt-front-static,1,Codex (Renderer),3577.860602
+1791973110.395013,chatgpt-front-static,1,WattMate.app,13.853963
+1791973120.459711,chatgpt-front-static,1,Codex (Renderer),40.849984
+1791973120.459711,chatgpt-front-static,1,WattMate.app,12.103418
+1791973130.528241,chatgpt-front-static,1,Codex (Renderer),39.462997
+1791973130.528241,chatgpt-front-static,1,WattMate.app,24.129836
+1791973140.595597,chatgpt-front-static,1,Codex (Renderer),132.227707
+1791973140.595597,chatgpt-front-static,1,WattMate.app,17.820630
+1791973150.662282,chatgpt-front-static,1,Codex (Renderer),37.909944
+1791973150.662282,chatgpt-front-static,1,WattMate.app,14.065710
+1791973160.732636,chatgpt-front-static,1,Codex (Renderer),196.328958
+1791973160.732636,chatgpt-front-static,1,WattMate.app,3.951434
+1791973170.804585,chatgpt-front-static,1,Codex (Renderer),51.579288
+1791973170.804585,chatgpt-front-static,1,WattMate.app,0.639401
+1791973180.871009,chatgpt-front-static,1,Codex (Renderer),34.991552
+1791973180.871009,chatgpt-front-static,1,WattMate.app,58.290274
+1791973190.946766,chatgpt-front-static,1,Codex (Renderer),37.090180
+1791973190.946766,chatgpt-front-static,1,WattMate.app,1.162939
+1791973201.024208,chatgpt-front-static,1,Codex (Renderer),39.879316
+1791973201.024208,chatgpt-front-static,1,WattMate.app,0.566191
+1791973211.091674,chatgpt-front-static,1,Codex (Renderer),38.935628
+1791973211.091674,chatgpt-front-static,1,WattMate.app,0.107705
+1791973221.157310,chatgpt-front-static,1,Codex (Renderer),202.868070
+1791973221.157310,chatgpt-front-static,1,WattMate.app,15.273715
+1791973231.223077,chatgpt-front-static,1,Codex (Renderer),43.652112
+1791973231.223077,chatgpt-front-static,1,WattMate.app,0.842323
+1791973241.278692,chatgpt-front-static,1,Codex (Renderer),38.239615
+1791973241.278692,chatgpt-front-static,1,WattMate.app,0.569994
+1791973251.336422,chatgpt-front-static,1,Codex (Renderer),37.113445
+1791973251.336422,chatgpt-front-static,1,WattMate.app,12.910002
+1791973261.401878,chatgpt-front-static,1,Codex (Renderer),43.319323
+1791973261.401878,chatgpt-front-static,1,WattMate.app,0.658716
+1791973271.471088,chatgpt-front-static,1,Codex (Renderer),39.783161
+1791973271.471088,chatgpt-front-static,1,WattMate.app,0.629243
+1791973281.524681,chatgpt-front-static,1,Codex (Renderer),1057.484376
+1791973281.524681,chatgpt-front-static,1,WattMate.app,85.473236
+1791973291.573106,chatgpt-front-static,1,Codex (Renderer),43.991113
+1791973291.573106,chatgpt-front-static,1,WattMate.app,1.059591
+1791973301.631551,chatgpt-front-static,1,Codex (Renderer),38.287880
+1791973301.631551,chatgpt-front-static,1,WattMate.app,0.692165
+1791973311.677753,chatgpt-front-static,1,Codex (Renderer),40.498197
+1791973311.677753,chatgpt-front-static,1,WattMate.app,0.113189
+1791973321.733455,chatgpt-front-static,1,Codex (Renderer),36.838849
+1791973321.733455,chatgpt-front-static,1,WattMate.app,12.166943
+1791973331.787502,chatgpt-front-static,1,Codex (Renderer),37.758213
+1791973331.787502,chatgpt-front-static,1,WattMate.app,0.753934
+1791973341.845317,chatgpt-front-static,1,Codex (Renderer),178.523906
+1791973341.845317,chatgpt-front-static,1,WattMate.app,3.280786
+1791973351.924794,chatgpt-front-static,1,Codex (Renderer),44.093012
+1791973351.924794,chatgpt-front-static,1,WattMate.app,12.550592
+1791973362.026332,chatgpt-front-static,1,Codex (Renderer),37.571233
+1791973362.026332,chatgpt-front-static,1,WattMate.app,3.479353
+1791973372.139638,chatgpt-front-static,1,Codex (Renderer),39.194522
+1791973372.139638,chatgpt-front-static,1,WattMate.app,1.072396
+1791973382.232425,chatgpt-front-static,1,Codex (Renderer),36.134731
+1791973382.232425,chatgpt-front-static,1,WattMate.app,58.379293
+1791973392.323293,chatgpt-front-static,1,Codex (Renderer),38.980780
+1791973392.323293,chatgpt-front-static,1,WattMate.app,1.123675
+1791973402.430601,chatgpt-front-static,1,Codex (Renderer),202.816798
+1791973402.430601,chatgpt-front-static,1,WattMate.app,5.093618
+1791973412.535953,chatgpt-front-static,1,Codex (Renderer),45.525634
+1791973412.535953,chatgpt-front-static,1,WattMate.app,19.335093
+1791973422.640810,chatgpt-front-static,1,Codex (Renderer),39.873259
+1791973422.640810,chatgpt-front-static,1,WattMate.app,1.156751
+1791973432.761312,chatgpt-front-static,1,Codex (Renderer),40.122300
+1791973432.761312,chatgpt-front-static,1,WattMate.app,0.968716
+1791973442.852705,chatgpt-front-static,1,Codex (Renderer),38.551088
+1791973442.852705,chatgpt-front-static,1,WattMate.app,0.142174
+1791973452.965264,chatgpt-front-static,1,Codex (Renderer),36.621525
+1791973452.965264,chatgpt-front-static,1,WattMate.app,68.357616
+1791973463.072572,chatgpt-front-static,1,Codex (Renderer),149.124222
+1791973463.072572,chatgpt-front-static,1,WattMate.app,1.005032
+1791973473.156914,chatgpt-front-static,1,Codex (Renderer),44.607466
+1791973473.156914,chatgpt-front-static,1,WattMate.app,6.152664
+1791973483.258715,chatgpt-front-static,1,Codex (Renderer),39.741572
+1791973483.258715,chatgpt-front-static,1,WattMate.app,15.464283
+1791973493.369533,chatgpt-front-static,1,Codex (Renderer),36.881771
+1791973493.369533,chatgpt-front-static,1,WattMate.app,1.459728
+1791973503.482544,chatgpt-front-static,1,Codex (Renderer),37.215181
+1791973503.482544,chatgpt-front-static,1,WattMate.app,0.987904
+1791973513.578361,chatgpt-front-static,1,Codex (Renderer),35.438135
+1791973513.578361,chatgpt-front-static,1,WattMate.app,12.654837
+1791973523.683487,chatgpt-front-static,1,Codex (Renderer),148.648193
+1791973523.683487,chatgpt-front-static,1,WattMate.app,2.565300
+1791973533.781514,chatgpt-front-static,1,Codex (Renderer),835.335327
+1791973533.781514,chatgpt-front-static,1,WattMate.app,2.609620
+1791973543.864674,chatgpt-front-static,1,Codex (Renderer),35.537301
+1791973543.864674,chatgpt-front-static,1,WattMate.app,79.213689
+1791973553.963766,chatgpt-front-static,1,Codex (Renderer),35.193721
+1791973553.963766,chatgpt-front-static,1,WattMate.app,0.818581
+1791973564.054948,chatgpt-front-static,1,Codex (Renderer),33.551248
+1791973564.054948,chatgpt-front-static,1,WattMate.app,0.807264
+1791973574.163232,chatgpt-front-static,1,Codex (Renderer),34.676866
+1791973574.163232,chatgpt-front-static,1,WattMate.app,12.293003
+1791973584.266466,chatgpt-front-static,1,Codex (Renderer),142.379438
+1791973584.266466,chatgpt-front-static,1,WattMate.app,0.756018
+1791973594.384210,chatgpt-front-static,1,Codex (Renderer),52.978155
+1791973594.384210,chatgpt-front-static,1,WattMate.app,5.008479
+1791973604.477206,chatgpt-front-static,1,Codex (Renderer),36.304923
+1791973604.477206,chatgpt-front-static,1,WattMate.app,0.125380
+1791973614.553415,chatgpt-front-static,1,Codex (Renderer),38.081342
+1791973614.553415,chatgpt-front-static,1,WattMate.app,17.950824
+1791973624.650990,chatgpt-front-static,1,Codex (Renderer),36.665158
+1791973624.650990,chatgpt-front-static,1,WattMate.app,0.975648
+1791973634.742138,chatgpt-front-static,1,Codex (Renderer),36.137584
+1791973634.742138,chatgpt-front-static,1,WattMate.app,1.169772
+1791973644.843754,chatgpt-front-static,1,Codex (Renderer),1124.668825
+1791973644.843754,chatgpt-front-static,1,WattMate.app,63.678632
+1791973654.954571,chatgpt-front-static,1,Codex (Renderer),55.430387
+1791973654.954571,chatgpt-front-static,1,WattMate.app,0.876358
+1791973665.059959,chatgpt-front-static,1,Codex (Renderer),36.683104
+1791973665.059959,chatgpt-front-static,1,WattMate.app,0.782156
+1791973675.164582,chatgpt-front-static,1,Codex (Renderer),35.121202
+1791973675.164582,chatgpt-front-static,1,WattMate.app,21.306593
+1791973685.260311,chatgpt-front-static,1,Codex (Renderer),34.488562
+1791973685.260311,chatgpt-front-static,1,WattMate.app,0.860112
+1791973695.339377,chatgpt-front-static,1,Codex (Renderer),37.820115
+1791973695.339377,chatgpt-front-static,1,WattMate.app,0.666541
+1791973705.428583,chatgpt-front-static,1,Codex (Renderer),135.908271
+1791973705.428583,chatgpt-front-static,1,WattMate.app,14.560452
+1791973715.531204,chatgpt-front-static,1,Codex (Renderer),43.130946
+1791973715.531204,chatgpt-front-static,1,WattMate.app,0.971289
+1791973725.644464,chatgpt-front-static,1,Codex (Renderer),40.272573
+1791973725.644464,chatgpt-front-static,1,WattMate.app,0.759018
+1791973735.743461,chatgpt-front-static,1,Codex (Renderer),37.758986
+1791973735.743461,chatgpt-front-static,1,WattMate.app,83.632657
+1791973745.850018,chatgpt-front-static,1,Codex (Renderer),36.863941
+1791973745.850018,chatgpt-front-static,1,WattMate.app,0.121951
+1791973755.960316,chatgpt-front-static,1,Codex (Renderer),34.568144
+1791973755.960316,chatgpt-front-static,1,WattMate.app,0.938828
+1791973766.062953,chatgpt-front-static,1,Codex (Renderer),142.421767
+1791973766.062953,chatgpt-front-static,1,WattMate.app,20.088349
+1791973776.144459,chatgpt-front-static,1,Codex (Renderer),45.126799
+1791973776.144459,chatgpt-front-static,1,WattMate.app,0.768799
+1791973786.239035,chatgpt-front-static,1,Codex (Renderer),41.528808
+1791973786.239035,chatgpt-front-static,1,WattMate.app,0.834122
+1791973796.339147,chatgpt-front-static,1,Codex (Renderer),35.025954
+1791973796.339147,chatgpt-front-static,1,WattMate.app,0.960741
+1791973806.436415,chatgpt-front-static,1,Codex (Renderer),36.342711
+1791973806.436415,chatgpt-front-static,1,WattMate.app,57.835310
+1791973816.539841,chatgpt-front-static,1,Codex (Renderer),41.146909
+1791973816.539841,chatgpt-front-static,1,WattMate.app,0.962168
+1791973826.637689,chatgpt-front-static,1,Codex (Renderer),156.627054
+1791973826.637689,chatgpt-front-static,1,WattMate.app,2.974373
+1791973836.751721,chatgpt-front-static,1,Codex (Renderer),39.939411
+1791973836.751721,chatgpt-front-static,1,WattMate.app,16.906688
+1791973846.854441,chatgpt-front-static,1,Codex (Renderer),36.889824
+1791973846.854441,chatgpt-front-static,1,WattMate.app,1.909906
+1791973856.977027,chatgpt-front-static,1,Codex (Renderer),34.328480
+1791973856.977027,chatgpt-front-static,1,WattMate.app,0.843455
+1791973867.067303,chatgpt-front-static,1,Codex (Renderer),33.293310
+1791973867.067303,chatgpt-front-static,1,WattMate.app,13.115073
+1791973877.167587,chatgpt-front-static,1,Codex (Renderer),35.686068
+1791973877.167587,chatgpt-front-static,1,WattMate.app,5.825591
+1791973887.264580,chatgpt-front-static,1,Codex (Renderer),139.764378
+1791973887.264580,chatgpt-front-static,1,WattMate.app,0.735966
+1791973897.362093,chatgpt-front-static,1,Codex (Renderer),40.558045
+1791973897.362093,chatgpt-front-static,1,WattMate.app,59.419862
+1791973907.477427,chatgpt-front-static,1,Codex (Renderer),37.413364
+1791973907.477427,chatgpt-front-static,1,WattMate.app,1.155939
+1791973917.554256,chatgpt-front-static,1,Codex (Renderer),34.853419
+1791973917.554256,chatgpt-front-static,1,WattMate.app,0.081504
+1791973927.661985,chatgpt-front-static,1,Codex (Renderer),35.143543
+1791973927.661985,chatgpt-front-static,1,WattMate.app,0.553038
+1791973937.764383,chatgpt-front-static,1,Codex (Renderer),38.042620
+1791973937.764383,chatgpt-front-static,1,WattMate.app,14.422216
+1791973947.878715,chatgpt-front-static,1,Codex (Renderer),1020.399841
+1791973947.878715,chatgpt-front-static,1,WattMate.app,0.699235
+1791973958.000945,chatgpt-front-static,1,Codex (Renderer),39.536101
+1791973958.000945,chatgpt-front-static,1,WattMate.app,0.879127
+1791973968.118518,chatgpt-front-static,1,Codex (Renderer),36.797413
+1791973968.118518,chatgpt-front-static,1,WattMate.app,12.081487
+1791973978.229223,chatgpt-front-static,1,Codex (Renderer),35.048046
+1791973978.229223,chatgpt-front-static,1,WattMate.app,0.822900
+1791973988.327792,chatgpt-front-static,1,Codex (Renderer),34.077695
+1791973988.327792,chatgpt-front-static,1,WattMate.app,0.637575
+1791973998.431906,chatgpt-front-static,1,Codex (Renderer),47.445396
+1791973998.431906,chatgpt-front-static,1,WattMate.app,86.222705
+1791974008.537491,chatgpt-front-static,1,Codex (Renderer),170.504918
+1791974008.537491,chatgpt-front-static,1,WattMate.app,0.958243
+1791974018.634961,chatgpt-front-static,1,Codex (Renderer),39.678968
+1791974018.634961,chatgpt-front-static,1,WattMate.app,0.676045
+1791974028.741601,chatgpt-front-static,1,Codex (Renderer),33.135541
+1791974028.741601,chatgpt-front-static,1,WattMate.app,11.661297
+1791974038.837230,chatgpt-front-static,1,Codex (Renderer),35.246204
+1791974038.837230,chatgpt-front-static,1,WattMate.app,1.067050
+1791974048.927358,chatgpt-front-static,1,Codex (Renderer),35.061843
+1791974048.927358,chatgpt-front-static,1,WattMate.app,0.574737
+1791974059.011355,chatgpt-front-static,1,Codex (Renderer),37.141429
+1791974059.011355,chatgpt-front-static,1,WattMate.app,21.479476
+1791974069.110260,chatgpt-front-static,1,Codex (Renderer),142.745339
+1791974069.110260,chatgpt-front-static,1,WattMate.app,0.857548
+1791974079.222147,chatgpt-front-static,1,Codex (Renderer),44.434138
+1791974079.222147,chatgpt-front-static,1,WattMate.app,0.081920
+1791974089.311657,chatgpt-front-static,1,Codex (Renderer),35.688237
+1791974089.311657,chatgpt-front-static,1,WattMate.app,0.976249
+1791974099.427064,chatgpt-front-static,1,Codex (Renderer),34.901714
+1791974099.427064,chatgpt-front-static,1,WattMate.app,57.910443
+1791974109.509930,chatgpt-front-static,1,Codex (Renderer),33.550118
+1791974109.509930,chatgpt-front-static,1,WattMate.app,0.726257
+1791974119.608276,chatgpt-front-static,1,Codex (Renderer),192.361202
+1791974119.608276,chatgpt-front-static,1,WattMate.app,4.947846
+1791974129.707712,chatgpt-front-static,1,Codex (Renderer),41.109006
+1791974129.707712,chatgpt-front-static,1,WattMate.app,13.577529
+1791974139.811118,chatgpt-front-static,1,Codex (Renderer),40.057139
+1791974139.811118,chatgpt-front-static,1,WattMate.app,0.774706
+1791974149.902126,chatgpt-front-static,1,Codex (Renderer),34.831516
+1791974149.902126,chatgpt-front-static,1,WattMate.app,0.587006
+1791974160.011871,chatgpt-front-static,1,Codex (Renderer),35.789533
+1791974160.011871,chatgpt-front-static,1,WattMate.app,14.910788
+1791974170.119083,chatgpt-front-static,1,Codex (Renderer),36.867143
+1791974170.119083,chatgpt-front-static,1,WattMate.app,1.037360
+1791974180.209569,chatgpt-front-static,1,Codex (Renderer),159.294146
+1791974180.209569,chatgpt-front-static,1,WattMate.app,5.154666
+1791974190.311222,chatgpt-front-static,1,Codex (Renderer),36.375906
+1791974190.311222,chatgpt-front-static,1,WattMate.app,94.286841
+1791974200.415065,chatgpt-front-static,1,Codex (Renderer),40.739129
+1791974200.415065,chatgpt-front-static,1,WattMate.app,1.340261
+1791974210.528703,chatgpt-front-static,1,Codex (Renderer),39.137627
+1791974210.528703,chatgpt-front-static,1,WattMate.app,0.951007
+1791974220.632699,chatgpt-front-static,1,Codex (Renderer),40.642717
+1791974220.632699,chatgpt-front-static,1,WattMate.app,18.635981
+1791974230.738204,chatgpt-front-static,1,Codex (Renderer),40.026835
+1791974230.738204,chatgpt-front-static,1,WattMate.app,1.329792
+1791974240.831723,chatgpt-front-static,1,Codex (Renderer),1048.760502
+1791974240.831723,chatgpt-front-static,1,WattMate.app,2.279102
+1791974250.926649,chatgpt-front-static,1,Codex (Renderer),43.214525
+1791974250.926649,chatgpt-front-static,1,WattMate.app,1.094063
+1791974261.036331,chatgpt-front-static,1,Codex (Renderer),43.129583
+1791974261.036331,chatgpt-front-static,1,WattMate.app,76.711930
+1791974271.146412,chatgpt-front-static,1,Codex (Renderer),37.667448
+1791974271.146412,chatgpt-front-static,1,WattMate.app,1.150257
+1791974281.241065,chatgpt-front-static,1,Codex (Renderer),34.234318
+1791974281.241065,chatgpt-front-static,1,WattMate.app,0.989689
+1791974291.324836,chatgpt-front-static,1,Codex (Renderer),34.712596
+1791974291.324836,chatgpt-front-static,1,WattMate.app,12.971260
+1791974301.437815,chatgpt-front-static,1,Codex (Renderer),159.828671
+1791974301.437815,chatgpt-front-static,1,WattMate.app,5.379364
+1791974311.548142,chatgpt-front-static,1,Codex (Renderer),36.459307
+1791974311.548142,chatgpt-front-static,1,WattMate.app,0.749720
+1791974321.644791,chatgpt-front-static,1,Codex (Renderer),40.883799
+1791974321.644791,chatgpt-front-static,1,WattMate.app,14.480247
+1791974331.754536,chatgpt-front-static,1,Codex (Renderer),35.699906
+1791974331.754536,chatgpt-front-static,1,WattMate.app,1.032340
+1791974341.851118,chatgpt-front-static,1,Codex (Renderer),34.316192
+1791974341.851118,chatgpt-front-static,1,WattMate.app,0.957704
+1791974351.968384,chatgpt-front-static,1,Codex (Renderer),36.709334
+1791974351.968384,chatgpt-front-static,1,WattMate.app,68.328747
+1791974362.058537,chatgpt-front-static,1,Codex (Renderer),126.877995
+1791974362.058537,chatgpt-front-static,1,WattMate.app,0.922058
+1791974372.159870,chatgpt-front-static,1,Codex (Renderer),40.219007
+1791974372.159870,chatgpt-front-static,1,WattMate.app,1.039325
+1791974382.256736,chatgpt-front-static,1,Codex (Renderer),40.301825
+1791974382.256736,chatgpt-front-static,1,WattMate.app,12.528105
+1791974392.338671,chatgpt-front-static,1,Codex (Renderer),36.840528
+1791974392.338671,chatgpt-front-static,1,WattMate.app,1.343766
+1791974402.443854,chatgpt-front-static,1,Codex (Renderer),38.464598
+1791974402.443854,chatgpt-front-static,1,WattMate.app,0.602947
+1791974412.557883,chatgpt-front-static,1,Codex (Renderer),34.946154
+1791974412.557883,chatgpt-front-static,1,WattMate.app,11.930970
+1791974422.651212,chatgpt-front-static,1,Codex (Renderer),148.998153
+1791974422.651212,chatgpt-front-static,1,WattMate.app,0.980022
+1791974432.744095,chatgpt-front-static,1,Codex (Renderer),42.685757
+1791974432.744095,chatgpt-front-static,1,WattMate.app,0.125580
+1791974442.833128,chatgpt-front-static,1,Codex (Renderer),39.811053
+1791974442.833128,chatgpt-front-static,1,WattMate.app,0.575857
+1791974452.937941,chatgpt-front-static,1,Codex (Renderer),37.977858
+1791974452.937941,chatgpt-front-static,1,WattMate.app,82.751615
+1791974463.026043,chatgpt-front-static,1,Codex (Renderer),37.478204
+1791974463.026043,chatgpt-front-static,1,WattMate.app,0.742244
+1791974473.128401,chatgpt-front-static,1,Codex (Renderer),36.057244
+1791974473.128401,chatgpt-front-static,1,WattMate.app,3.937096
+1791974483.241330,chatgpt-front-static,1,Codex (Renderer),155.306199
+1791974483.241330,chatgpt-front-static,1,WattMate.app,13.517177
+1791974493.350659,chatgpt-front-static,1,Codex (Renderer),37.160543
+1791974493.350659,chatgpt-front-static,1,WattMate.app,1.030400
+1791974503.444741,chatgpt-front-static,1,Codex (Renderer),39.845148
+1791974503.444741,chatgpt-front-static,1,WattMate.app,0.918279
+1791974513.543631,chatgpt-front-static,1,Codex (Renderer),39.405411
+1791974513.543631,chatgpt-front-static,1,WattMate.app,12.502781
+1791974523.645986,chatgpt-front-static,1,Codex (Renderer),35.450894
+1791974523.645986,chatgpt-front-static,1,WattMate.app,1.208346
+1791974533.741054,chatgpt-front-static,1,Codex (Renderer),36.917345
+1791974533.741054,chatgpt-front-static,1,WattMate.app,0.912364
+1791974543.849397,chatgpt-front-static,1,Codex (Renderer),1005.054920
+1791974543.849397,chatgpt-front-static,1,WattMate.app,58.303195
+1791974553.935267,chatgpt-front-static,1,Codex (Renderer),37.595322
+1791974553.935267,chatgpt-front-static,1,WattMate.app,1.351205
+1791974564.041195,chatgpt-front-static,1,Codex (Renderer),40.294054
+1791974564.041195,chatgpt-front-static,1,WattMate.app,0.925890
+1791974574.131880,chatgpt-front-static,1,Codex (Renderer),35.753421
+1791974574.131880,chatgpt-front-static,1,WattMate.app,12.457452
+1791974584.236682,chatgpt-front-static,1,Codex (Renderer),38.945052
+1791974584.236682,chatgpt-front-static,1,WattMate.app,5.610422
+1791974594.341702,chatgpt-front-static,1,Codex (Renderer),34.421304
+1791974594.341702,chatgpt-front-static,1,WattMate.app,0.581037
+1791974604.424942,chatgpt-front-static,1,Codex (Renderer),160.306818
+1791974604.424942,chatgpt-front-static,1,WattMate.app,12.485618
+1791974614.517539,chatgpt-front-static,1,Codex (Renderer),38.143151
+1791974614.517539,chatgpt-front-static,1,WattMate.app,0.889339
+1791974624.623790,chatgpt-front-static,1,Codex (Renderer),43.593652
+1791974624.623790,chatgpt-front-static,1,WattMate.app,0.805535
+1791974634.728235,chatgpt-front-static,1,Codex (Renderer),38.854994
+1791974634.728235,chatgpt-front-static,1,WattMate.app,77.626989
+1791974644.835415,chatgpt-front-static,1,Codex (Renderer),37.428954
+1791974644.835415,chatgpt-front-static,1,WattMate.app,0.780102
+1791974654.938980,chatgpt-front-static,1,Codex (Renderer),34.582681
+1791974654.938980,chatgpt-front-static,1,WattMate.app,0.131184
+1791974665.056273,chatgpt-front-static,1,Codex (Renderer),163.170517
+1791974665.056273,chatgpt-front-static,1,WattMate.app,1.018893
+1791974675.153987,chatgpt-front-static,1,Codex (Renderer),36.952239
+1791974675.153987,chatgpt-front-static,1,WattMate.app,26.562143
+1791974685.257111,chatgpt-front-static,1,Codex (Renderer),39.380935
+1791974685.257111,chatgpt-front-static,1,WattMate.app,0.777868
+1791974695.357645,chatgpt-front-static,1,Codex (Renderer),34.280277
+1791974695.357645,chatgpt-front-static,1,WattMate.app,0.957596
+1791974705.468789,chatgpt-front-static,1,Codex (Renderer),35.225486
+1791974705.468789,chatgpt-front-static,1,WattMate.app,16.071906
+1791974715.567396,chatgpt-front-static,1,Codex (Renderer),34.974539
+1791974715.567396,chatgpt-front-static,1,WattMate.app,1.365779
+1791974725.676624,chatgpt-front-static,1,Codex (Renderer),147.848429
+1791974725.676624,chatgpt-front-static,1,WattMate.app,0.578090
+1791974735.793711,chatgpt-front-static,1,Codex (Renderer),36.796127
+1791974735.793711,chatgpt-front-static,1,WattMate.app,57.993101
+1791974745.881603,chatgpt-front-static,1,Codex (Renderer),39.053083
+1791974745.881603,chatgpt-front-static,1,WattMate.app,2.556136
+1791974755.975368,chatgpt-front-static,1,Codex (Renderer),38.447780
+1791974755.975368,chatgpt-front-static,1,WattMate.app,0.608872
+1791974766.080271,chatgpt-front-static,1,Codex (Renderer),37.506065
+1791974766.080271,chatgpt-front-static,1,WattMate.app,19.645075
+1791974776.185923,chatgpt-front-static,1,Codex (Renderer),42.388463
+1791974776.185923,chatgpt-front-static,1,WattMate.app,0.723592
+1791974786.285361,chatgpt-front-static,1,Codex (Renderer),1007.733635
+1791974786.285361,chatgpt-front-static,1,WattMate.app,1.368681
+1791974796.383227,chatgpt-front-static,1,Codex (Renderer),36.745375
+1791974796.383227,chatgpt-front-static,1,WattMate.app,52.333268
+1791974806.472278,chatgpt-front-static,1,Codex (Renderer),41.104581
+1791974806.472278,chatgpt-front-static,1,WattMate.app,0.087467
+1791974816.569276,chatgpt-front-static,1,Codex (Renderer),35.320625
+1791974816.569276,chatgpt-front-static,1,WattMate.app,0.657046
+1791974826.665938,chatgpt-front-static,1,Codex (Renderer),35.913884
+1791974826.665938,chatgpt-front-static,1,WattMate.app,7.374673
+1791974836.762190,chatgpt-front-static,1,Codex (Renderer),39.776238
+1791974836.762190,chatgpt-front-static,1,WattMate.app,16.099400
+1791974846.850128,chatgpt-front-static,1,Codex (Renderer),146.487452
+1791974846.850128,chatgpt-front-static,1,WattMate.app,1.116722
+1791974856.949613,chatgpt-front-static,1,Codex (Renderer),34.449518
+1791974856.949613,chatgpt-front-static,1,WattMate.app,0.695818
+1791974867.060678,chatgpt-front-static,1,Codex (Renderer),60.620407
+1791974867.060678,chatgpt-front-static,1,WattMate.app,15.388151
+1791974877.150941,chatgpt-front-static,1,Codex (Renderer),34.091021
+1791974877.150941,chatgpt-front-static,1,WattMate.app,0.839845
+1791974887.256321,chatgpt-front-static,1,Codex (Renderer),35.270104
+1791974887.256321,chatgpt-front-static,1,WattMate.app,0.909633
+1791974897.361184,chatgpt-front-static,1,Codex (Renderer),45.113650
+1791974897.361184,chatgpt-front-static,1,WattMate.app,68.880261
+1791974907.464970,chatgpt-front-static,1,Codex (Renderer),201.207424
+1791974907.464970,chatgpt-front-static,1,WattMate.app,1.254880
+1791974917.547430,chatgpt-front-static,1,Codex (Renderer),34.569028
+1791974917.547430,chatgpt-front-static,1,WattMate.app,0.709190
+1791974927.652040,chatgpt-front-static,1,Codex (Renderer),43.324107
+1791974927.652040,chatgpt-front-static,1,WattMate.app,12.603099
+1791974937.751925,chatgpt-front-static,1,Codex (Renderer),37.607735
+1791974937.751925,chatgpt-front-static,1,WattMate.app,0.686151
+1791974947.835177,chatgpt-front-static,1,Codex (Renderer),34.500735
+1791974947.835177,chatgpt-front-static,1,WattMate.app,4.084113
+1791974957.922535,chatgpt-front-static,1,Codex (Renderer),42.509599
+1791974957.922535,chatgpt-front-static,1,WattMate.app,0.114963
+1791974968.002941,chatgpt-front-static,1,Codex (Renderer),146.821284
+1791974968.002941,chatgpt-front-static,1,WattMate.app,12.789178
+1791974978.119000,chatgpt-front-static,1,Codex (Renderer),36.827711
+1791974978.119000,chatgpt-front-static,1,WattMate.app,1.467994
+1791974988.212485,chatgpt-front-static,1,Codex (Renderer),40.364976
+1791974988.212485,chatgpt-front-static,1,WattMate.app,0.963568
+1791974998.315884,chatgpt-front-static,1,Codex (Renderer),34.158041
+1791974998.315884,chatgpt-front-static,1,WattMate.app,57.238638
+1791975008.421389,chatgpt-front-static,1,Codex (Renderer),39.960077
+1791975008.421389,chatgpt-front-static,1,WattMate.app,4.882939
+1791975018.522137,chatgpt-front-static,1,Codex (Renderer),38.946077
+1791975018.522137,chatgpt-front-static,1,WattMate.app,0.583679
+1791975028.620659,chatgpt-front-static,1,Codex (Renderer),1037.409099
+1791975028.620659,chatgpt-front-static,1,WattMate.app,17.656725
+1791975038.733126,chatgpt-front-static,1,Codex (Renderer),41.352797
+1791975038.733126,chatgpt-front-static,1,WattMate.app,0.978591
+1791975048.825219,chatgpt-front-static,1,Codex (Renderer),98.655843
+1791975048.825219,chatgpt-front-static,1,WattMate.app,0.585900
+1791975058.922039,chatgpt-front-static,1,Codex (Renderer),35.933144
+1791975058.922039,chatgpt-front-static,1,WattMate.app,17.862806
+1791975069.018640,chatgpt-front-static,1,Codex (Renderer),35.691620
+1791975069.018640,chatgpt-front-static,1,WattMate.app,0.955195
+1791975079.133912,chatgpt-front-static,1,Codex (Renderer),56.355359
+1791975079.133912,chatgpt-front-static,1,WattMate.app,0.750664
+1791975089.220182,chatgpt-front-static,1,Codex (Renderer),0.000000
+1791975089.220182,chatgpt-front-static,1,WattMate.app,130.023208
+1791975099.315568,chatgpt-front-static,1,Codex (Renderer),0.000000
+1791975099.315568,chatgpt-front-static,1,WattMate.app,0.083746
+1791975109.408720,chatgpt-front-static,1,Codex (Renderer),0.000000
+1791975109.408720,chatgpt-front-static,1,WattMate.app,0.655587
+1791975129.582712,chatgptstream-front,2,Codex (Renderer),3599.101815
+1791975129.582712,chatgptstream-front,2,WattMate.app,20.240654
+1791975139.657648,chatgptstream-front,2,Codex (Renderer),10678.677129
+1791975139.657648,chatgptstream-front,2,WattMate.app,17.664246
+1791975149.712951,chatgptstream-front,2,Codex (Renderer),8788.573907
+1791975149.712951,chatgptstream-front,2,WattMate.app,16.547157
+1791975159.745198,chatgptstream-front,2,Codex (Renderer),5709.256571
+1791975159.745198,chatgptstream-front,2,WattMate.app,80.912861
+1791975169.788042,chatgptstream-front,2,Codex (Renderer),6106.369104
+1791975169.788042,chatgptstream-front,2,WattMate.app,1.141986
+1791975179.820730,chatgptstream-front,2,Codex (Renderer),7117.258446
+1791975179.820730,chatgptstream-front,2,WattMate.app,19.495381
+1791975189.860455,chatgptstream-front,2,Codex (Renderer),9970.295496
+1791975189.860455,chatgptstream-front,2,WattMate.app,1.095537
+1791975199.904315,chatgptstream-front,2,Codex (Renderer),9551.554107
+1791975199.904315,chatgptstream-front,2,WattMate.app,30.315821
+1791975209.946415,chatgptstream-front,2,Codex (Renderer),2355.015869
+1791975209.946415,chatgptstream-front,2,WattMate.app,0.879888
+1791975220.008889,chatgptstream-front,2,Codex (Renderer),38.766434
+1791975220.008889,chatgptstream-front,2,WattMate.app,12.073793
+1791975230.074406,chatgptstream-front,2,Codex (Renderer),39.833865
+1791975230.074406,chatgptstream-front,2,WattMate.app,0.701205
+1791975240.154245,chatgptstream-front,2,Codex (Renderer),38.720754
+1791975240.154245,chatgptstream-front,2,WattMate.app,60.613408
+1791975250.219070,chatgptstream-front,2,Codex (Renderer),187.079886
+1791975250.219070,chatgptstream-front,2,WattMate.app,0.101993
+1791975260.271365,chatgptstream-front,2,Codex (Renderer),67.561229
+1791975260.271365,chatgptstream-front,2,WattMate.app,3.336815
+1791975270.344836,chatgptstream-front,2,Codex (Renderer),130.386552
+1791975270.344836,chatgptstream-front,2,WattMate.app,0.741907
+1791975280.407821,chatgptstream-front,2,Codex (Renderer),38.825557
+1791975280.407821,chatgptstream-front,2,WattMate.app,15.286684
+1791975290.463885,chatgptstream-front,2,Codex (Renderer),36.170218
+1791975290.463885,chatgptstream-front,2,WattMate.app,0.573432
+1791975300.532565,chatgptstream-front,2,Codex (Renderer),1487.155808
+1791975300.532565,chatgptstream-front,2,WattMate.app,16.937347
+1791975310.574593,chatgptstream-front,2,Codex (Renderer),7216.763378
+1791975310.574593,chatgptstream-front,2,WattMate.app,22.876834
+1791975320.630644,chatgptstream-front,2,Codex (Renderer),6658.929944
+1791975320.630644,chatgptstream-front,2,WattMate.app,1.931078
+1791975330.674504,chatgptstream-front,2,Codex (Renderer),7781.001108
+1791975330.674504,chatgptstream-front,2,WattMate.app,14.833982
+1791975340.723178,chatgptstream-front,2,Codex (Renderer),9626.163079
+1791975340.723178,chatgptstream-front,2,WattMate.app,0.072142
+1791975350.762707,chatgptstream-front,2,Codex (Renderer),8793.430382
+1791975350.762707,chatgptstream-front,2,WattMate.app,0.515292
+1791975360.829198,chatgptstream-front,2,Codex (Renderer),4992.869849
+1791975360.829198,chatgptstream-front,2,WattMate.app,96.523308
+1791975370.900997,chatgptstream-front,2,Codex (Renderer),2210.821567
+1791975370.900997,chatgptstream-front,2,WattMate.app,0.683201
+1791975380.972037,chatgptstream-front,2,Codex (Renderer),47.044724
+1791975380.972037,chatgptstream-front,2,WattMate.app,27.811687
+1791975391.043049,chatgptstream-front,2,Codex (Renderer),38.164317
+1791975391.043049,chatgptstream-front,2,WattMate.app,0.737558
+1791975401.109300,chatgptstream-front,2,Codex (Renderer),37.899185
+1791975401.109300,chatgptstream-front,2,WattMate.app,1.074474
+1791975411.178631,chatgptstream-front,2,Codex (Renderer),35.114338
+1791975411.178631,chatgptstream-front,2,WattMate.app,19.131626
+1791975421.248893,chatgptstream-front,2,Codex (Renderer),35.472619
+1791975421.248893,chatgptstream-front,2,WattMate.app,0.674800
+1791975431.313363,chatgptstream-front,2,Codex (Renderer),159.829711
+1791975431.313363,chatgptstream-front,2,WattMate.app,0.789199
+1791975441.383092,chatgptstream-front,2,Codex (Renderer),58.478998
+1791975441.383092,chatgptstream-front,2,WattMate.app,78.239091
+1791975451.447522,chatgptstream-front,2,Codex (Renderer),75.358324
+1791975451.447522,chatgptstream-front,2,WattMate.app,0.130681
+1791975461.508754,chatgptstream-front,2,Codex (Renderer),4186.496291
+1791975461.508754,chatgptstream-front,2,WattMate.app,19.765231
+1791975471.555832,chatgptstream-front,2,Codex (Renderer),7526.343367
+1791975471.555832,chatgptstream-front,2,WattMate.app,0.643256
+1791975481.599963,chatgptstream-front,2,Codex (Renderer),5861.070751
+1791975481.599963,chatgptstream-front,2,WattMate.app,18.423247
+1791975491.638173,chatgptstream-front,2,Codex (Renderer),8488.344405
+1791975491.638173,chatgptstream-front,2,WattMate.app,0.515820
+1791975501.677831,chatgptstream-front,2,Codex (Renderer),7797.348192
+1791975501.677831,chatgptstream-front,2,WattMate.app,16.938243
+1791975511.707421,chatgptstream-front,2,Codex (Renderer),7287.849519
+1791975511.707421,chatgptstream-front,2,WattMate.app,0.605683
+1791975521.774897,chatgptstream-front,2,Codex (Renderer),44.260588
+1791975521.774897,chatgptstream-front,2,WattMate.app,61.138590
+1791975531.844357,chatgptstream-front,2,Codex (Renderer),40.208276
+1791975531.844357,chatgptstream-front,2,WattMate.app,0.814398
+1791975541.899403,chatgptstream-front,2,Codex (Renderer),38.655301
+1791975541.899403,chatgptstream-front,2,WattMate.app,11.614065
+1791975551.972014,chatgptstream-front,2,Codex (Renderer),179.485923
+1791975551.972014,chatgptstream-front,2,WattMate.app,0.577020
+1791975562.040730,chatgptstream-front,2,Codex (Renderer),47.870121
+1791975562.040730,chatgptstream-front,2,WattMate.app,3.670791
+1791975572.115046,chatgptstream-front,2,Codex (Renderer),37.583736
+1791975572.115046,chatgptstream-front,2,WattMate.app,14.445243
+1791975582.190748,chatgptstream-front,2,Codex (Renderer),38.485734
+1791975582.190748,chatgptstream-front,2,WattMate.app,0.107999
+1791975592.258383,chatgptstream-front,2,Codex (Renderer),40.486638
+1791975592.258383,chatgptstream-front,2,WattMate.app,0.664644
+1791975602.324210,chatgptstream-front,2,Codex (Renderer),38.071883
+1791975602.324210,chatgptstream-front,2,WattMate.app,0.803592
+1791975612.393889,chatgptstream-front,2,Codex (Renderer),1476.943429
+1791975612.393889,chatgptstream-front,2,WattMate.app,91.127518
+1791975622.458394,chatgptstream-front,2,Codex (Renderer),7037.979649
+1791975622.458394,chatgptstream-front,2,WattMate.app,35.512682
+1791975632.512273,chatgptstream-front,2,Codex (Renderer),7835.699483
+1791975632.512273,chatgptstream-front,2,WattMate.app,0.787416
+1791975642.556718,chatgptstream-front,2,Codex (Renderer),9009.193756
+1791975642.556718,chatgptstream-front,2,WattMate.app,16.477184
+1791975652.601155,chatgptstream-front,2,Codex (Renderer),10448.637951
+1791975652.601155,chatgptstream-front,2,WattMate.app,11.628144
+1791975662.659518,chatgptstream-front,2,Codex (Renderer),2860.665254
+1791975662.659518,chatgptstream-front,2,WattMate.app,12.270228
+1791975672.723680,chatgptstream-front,2,Codex (Renderer),216.124210
+1791975672.723680,chatgptstream-front,2,WattMate.app,11.391869
+1791975682.799676,chatgptstream-front,2,Codex (Renderer),53.945914
+1791975682.799676,chatgptstream-front,2,WattMate.app,13.946147
+1791975692.860004,chatgptstream-front,2,Codex (Renderer),41.215591
+1791975692.860004,chatgptstream-front,2,WattMate.app,0.820484
+1791975702.928852,chatgptstream-front,2,Codex (Renderer),41.128902
+1791975702.928852,chatgptstream-front,2,WattMate.app,0.564497
+1791975713.001057,chatgptstream-front,2,Codex (Renderer),40.794047
+1791975713.001057,chatgptstream-front,2,WattMate.app,60.075356
+1791975723.069592,chatgptstream-front,2,Codex (Renderer),42.098827
+1791975723.069592,chatgptstream-front,2,WattMate.app,0.729432
+1791975733.142643,chatgptstream-front,2,Codex (Renderer),1256.638157
+1791975733.142643,chatgptstream-front,2,WattMate.app,0.639102
+1791975743.209877,chatgptstream-front,2,Codex (Renderer),54.684433
+1791975743.209877,chatgptstream-front,2,WattMate.app,18.678136
+1791975753.269944,chatgptstream-front,2,Codex (Renderer),42.164724
+1791975753.269944,chatgptstream-front,2,WattMate.app,0.128059
+1791975763.335780,chatgptstream-front,2,Codex (Renderer),39.105539
+1791975763.335780,chatgptstream-front,2,WattMate.app,0.814869
+1791975773.421506,chatgptstream-front,2,Codex (Renderer),2935.757402
+1791975773.421506,chatgptstream-front,2,WattMate.app,19.396129
+1791975783.476760,chatgptstream-front,2,Codex (Renderer),8329.256748
+1791975783.476760,chatgptstream-front,2,WattMate.app,16.486965
+1791975793.515567,chatgptstream-front,2,Codex (Renderer),9157.236359
+1791975793.515567,chatgptstream-front,2,WattMate.app,0.589165
+1791975803.557023,chatgptstream-front,2,Codex (Renderer),8749.329060
+1791975803.557023,chatgptstream-front,2,WattMate.app,100.856945
+1791975813.592513,chatgptstream-front,2,Codex (Renderer),10862.378086
+1791975813.592513,chatgptstream-front,2,WattMate.app,1.104683
+1791975823.642962,chatgptstream-front,2,Codex (Renderer),12789.223244
+1791975823.642962,chatgptstream-front,2,WattMate.app,13.582997
+1791975833.707027,chatgptstream-front,2,Codex (Renderer),2048.572745
+1791975833.707027,chatgptstream-front,2,WattMate.app,0.601667
+1791975843.773847,chatgptstream-front,2,Codex (Renderer),38.223892
+1791975843.773847,chatgptstream-front,2,WattMate.app,12.033193
+1791975853.838146,chatgptstream-front,2,Codex (Renderer),211.902711
+1791975853.838146,chatgptstream-front,2,WattMate.app,0.758765
+1791975863.906247,chatgptstream-front,2,Codex (Renderer),48.982768
+1791975863.906247,chatgptstream-front,2,WattMate.app,3.121916
+1791975873.977986,chatgptstream-front,2,Codex (Renderer),37.967056
+1791975873.977986,chatgptstream-front,2,WattMate.app,12.436319
+1791975884.044073,chatgptstream-front,2,Codex (Renderer),42.023769
+1791975884.044073,chatgptstream-front,2,WattMate.app,0.826110
+1791975894.115304,chatgptstream-front,2,Codex (Renderer),39.940497
+1791975894.115304,chatgptstream-front,2,WattMate.app,0.570333
+1791975904.190871,chatgptstream-front,2,Codex (Renderer),36.973800
+1791975904.190871,chatgptstream-front,2,WattMate.app,70.777366
+1791975914.248367,chatgptstream-front,2,Codex (Renderer),181.578726
+1791975914.248367,chatgptstream-front,2,WattMate.app,0.903326
+1791975924.315246,chatgptstream-front,2,Codex (Renderer),1413.021504
+1791975924.315246,chatgptstream-front,2,WattMate.app,13.035546
+1791975934.375929,chatgptstream-front,2,Codex (Renderer),4781.434014
+1791975934.375929,chatgptstream-front,2,WattMate.app,9.555260
+1791975944.412520,chatgptstream-front,2,Codex (Renderer),7900.532465
+1791975944.412520,chatgptstream-front,2,WattMate.app,16.673700
+1791975954.452944,chatgptstream-front,2,Codex (Renderer),9446.895742
+1791975954.452944,chatgptstream-front,2,WattMate.app,1.104753
+1791975964.489499,chatgptstream-front,2,Codex (Renderer),9414.835224
+1791975964.489499,chatgptstream-front,2,WattMate.app,0.547522
+1791975974.534448,chatgptstream-front,2,Codex (Renderer),4729.002201
+1791975974.534448,chatgptstream-front,2,WattMate.app,87.603018
+1791975984.596716,chatgptstream-front,2,Codex (Renderer),1033.901685
+1791975984.596716,chatgptstream-front,2,WattMate.app,3.179171
+1791975994.662105,chatgptstream-front,2,Codex (Renderer),38.911287
+1791975994.662105,chatgptstream-front,2,WattMate.app,0.762459
+1791976004.739104,chatgptstream-front,2,Codex (Renderer),48.536352
+1791976004.739104,chatgptstream-front,2,WattMate.app,13.230985
+1791976014.808360,chatgptstream-front,2,Codex (Renderer),38.521567
+1791976014.808360,chatgptstream-front,2,WattMate.app,0.898199
+1791976024.878352,chatgptstream-front,2,Codex (Renderer),40.528797
+1791976024.878352,chatgptstream-front,2,WattMate.app,7.166885
+1791976034.946110,chatgptstream-front,2,Codex (Renderer),190.106031
+1791976034.946110,chatgptstream-front,2,WattMate.app,12.822596
+1791976045.006113,chatgptstream-front,2,Codex (Renderer),51.297085
+1791976045.006113,chatgptstream-front,2,WattMate.app,0.650852
+1791976055.067270,chatgptstream-front,2,Codex (Renderer),40.816997
+1791976055.067270,chatgptstream-front,2,WattMate.app,0.880821
+1791976065.132838,chatgptstream-front,2,Codex (Renderer),42.510008
+1791976065.132838,chatgptstream-front,2,WattMate.app,81.086866
+1791976075.196541,chatgptstream-front,2,Codex (Renderer),38.842284
+1791976075.196541,chatgptstream-front,2,WattMate.app,1.228874
+1791976085.257506,chatgptstream-front,2,Codex (Renderer),1989.717290
+1791976085.257506,chatgptstream-front,2,WattMate.app,20.709629
+1791976095.325630,chatgptstream-front,2,Codex (Renderer),6542.814558
+1791976095.325630,chatgptstream-front,2,WattMate.app,17.863180
+1791976105.367519,chatgptstream-front,2,Codex (Renderer),7993.610413
+1791976105.367519,chatgptstream-front,2,WattMate.app,0.736033
+1791976115.417379,chatgptstream-front,2,Codex (Renderer),9006.595160
+1791976115.417379,chatgptstream-front,2,WattMate.app,0.993016
+1791976125.463739,chatgptstream-front,2,Codex (Renderer),7119.349202
+1791976125.463739,chatgptstream-front,2,WattMate.app,0.096886
+1791976135.536506,chatgptstream-front,2,Codex (Renderer),38.551418
+1791976135.536506,chatgptstream-front,2,WattMate.app,17.288844
+1791976145.608970,chatgptstream-front,2,Codex (Renderer),37.371793
+1791976145.608970,chatgptstream-front,2,WattMate.app,5.342327
+1791976155.677257,chatgptstream-front,2,Codex (Renderer),189.752218
+1791976155.677257,chatgptstream-front,2,WattMate.app,0.877740
+1791976165.741804,chatgptstream-front,2,Codex (Renderer),43.040999
+1791976165.741804,chatgptstream-front,2,WattMate.app,62.896465
+1791976175.808751,chatgptstream-front,2,Codex (Renderer),37.359375
+1791976175.808751,chatgptstream-front,2,WattMate.app,1.219648
+1791976185.877985,chatgptstream-front,2,Codex (Renderer),44.258714
+1791976185.877985,chatgptstream-front,2,WattMate.app,0.755019
+1791976195.952102,chatgptstream-front,2,Codex (Renderer),36.457809
+1791976195.952102,chatgptstream-front,2,WattMate.app,14.642311
+1791976206.009907,chatgptstream-front,2,Codex (Renderer),39.698465
+1791976206.009907,chatgptstream-front,2,WattMate.app,7.032516
+1791976216.085877,chatgptstream-front,2,Codex (Renderer),161.566730
+1791976216.085877,chatgptstream-front,2,WattMate.app,0.681575
+1791976226.151907,chatgptstream-front,2,Codex (Renderer),42.728762
+1791976226.151907,chatgptstream-front,2,WattMate.app,13.769357
+1791976236.222104,chatgptstream-front,2,Codex (Renderer),39.418773
+1791976236.222104,chatgptstream-front,2,WattMate.app,5.694058
+1791976246.256837,chatgptstream-front,2,Codex (Renderer),5366.088717
+1791976246.256837,chatgptstream-front,2,WattMate.app,21.730269
+1791976256.308501,chatgptstream-front,2,Codex (Renderer),7908.867574
+1791976256.308501,chatgptstream-front,2,WattMate.app,0.650643
+1791976266.361081,chatgptstream-front,2,Codex (Renderer),8317.688882
+1791976266.361081,chatgptstream-front,2,WattMate.app,83.218029
+1791976276.399428,chatgptstream-front,2,Codex (Renderer),9688.619200
+1791976276.399428,chatgptstream-front,2,WattMate.app,0.666922
+1791976286.443902,chatgptstream-front,2,Codex (Renderer),11191.351240
+1791976286.443902,chatgptstream-front,2,WattMate.app,0.908469
+1791976296.500847,chatgptstream-front,2,Codex (Renderer),3593.854073
+1791976296.500847,chatgptstream-front,2,WattMate.app,13.199685
+1791976306.567906,chatgptstream-front,2,Codex (Renderer),39.769902
+1791976306.567906,chatgptstream-front,2,WattMate.app,5.915823
+1791976316.612955,chatgptstream-front,2,Codex (Renderer),36.124108
+1791976316.612955,chatgptstream-front,2,WattMate.app,1.092146
+1791976326.684901,chatgptstream-front,2,Codex (Renderer),37.376197
+1791976326.684901,chatgptstream-front,2,WattMate.app,64.250414
+1791976336.745127,chatgptstream-front,2,Codex (Renderer),197.389271
+1791976336.745127,chatgptstream-front,2,WattMate.app,1.002038
+1791976346.815748,chatgptstream-front,2,Codex (Renderer),46.766406
+1791976346.815748,chatgptstream-front,2,WattMate.app,0.779093
+1791976356.893190,chatgptstream-front,2,Codex (Renderer),38.805853
+1791976356.893190,chatgptstream-front,2,WattMate.app,11.984092
+1791976366.958250,chatgptstream-front,2,Codex (Renderer),41.601360
+1791976366.958250,chatgptstream-front,2,WattMate.app,4.484606
+1791976377.023727,chatgptstream-front,2,Codex (Renderer),36.521113
+1791976377.023727,chatgptstream-front,2,WattMate.app,0.774822
+1791976387.080120,chatgptstream-front,2,Codex (Renderer),37.838623
+1791976387.080120,chatgptstream-front,2,WattMate.app,12.683705
+1791976397.151421,chatgptstream-front,2,Codex (Renderer),1595.505207
+1791976397.151421,chatgptstream-front,2,WattMate.app,21.383545
+1791976407.213225,chatgptstream-front,2,Codex (Renderer),7347.013194
+1791976407.213225,chatgptstream-front,2,WattMate.app,7.531719
+1791976417.269149,chatgptstream-front,2,Codex (Renderer),8019.427971
+1791976417.269149,chatgptstream-front,2,WattMate.app,21.758543
+1791976427.309237,chatgptstream-front,2,Codex (Renderer),9265.883923
+1791976427.309237,chatgptstream-front,2,WattMate.app,1.957471
+1791976437.354791,chatgptstream-front,2,Codex (Renderer),7330.477229
+1791976437.354791,chatgptstream-front,2,WattMate.app,66.512842
+1791976447.416681,chatgptstream-front,2,Codex (Renderer),2164.538385
+1791976447.416681,chatgptstream-front,2,WattMate.app,0.890358
+1791976457.477818,chatgptstream-front,2,Codex (Renderer),236.217655
+1791976457.477818,chatgptstream-front,2,WattMate.app,12.814983
+1791976467.546975,chatgptstream-front,2,Codex (Renderer),53.299647
+1791976467.546975,chatgptstream-front,2,WattMate.app,0.900529
+1791976477.610188,chatgptstream-front,2,Codex (Renderer),40.518813
+1791976477.610188,chatgptstream-front,2,WattMate.app,3.335563
+1791976487.673344,chatgptstream-front,2,Codex (Renderer),38.846361
+1791976487.673344,chatgptstream-front,2,WattMate.app,12.759397
+1791976497.746909,chatgptstream-front,2,Codex (Renderer),37.818333
+1791976497.746909,chatgptstream-front,2,WattMate.app,0.789145
+1791976507.813596,chatgptstream-front,2,Codex (Renderer),41.648321
+1791976507.813596,chatgptstream-front,2,WattMate.app,0.634325
+1791976517.881512,chatgptstream-front,2,Codex (Renderer),150.015010
+1791976517.881512,chatgptstream-front,2,WattMate.app,86.116081
+1791976527.951958,chatgptstream-front,2,Codex (Renderer),42.018870
+1791976527.951958,chatgptstream-front,2,WattMate.app,0.701678
+1791976538.023231,chatgptstream-front,2,Codex (Renderer),41.101985
+1791976538.023231,chatgptstream-front,2,WattMate.app,2.518338
+1791976548.086350,chatgptstream-front,2,Codex (Renderer),39.351525
+1791976548.086350,chatgptstream-front,2,WattMate.app,3.029399
+1791976558.121670,chatgptstream-front,2,Codex (Renderer),4176.654091
+1791976558.121670,chatgptstream-front,2,WattMate.app,30.147705
+1791976568.154675,chatgptstream-front,2,Codex (Renderer),8224.225236
+1791976568.154675,chatgptstream-front,2,WattMate.app,1.011556
+1791976578.201777,chatgptstream-front,2,Codex (Renderer),8164.763172
+1791976578.201777,chatgptstream-front,2,WattMate.app,0.982769
+1791976588.249477,chatgptstream-front,2,Codex (Renderer),8986.291109
+1791976588.249477,chatgptstream-front,2,WattMate.app,23.172800
+1791976598.296557,chatgptstream-front,2,Codex (Renderer),5906.910415
+1791976598.296557,chatgptstream-front,2,WattMate.app,0.717301
+1791976608.360381,chatgptstream-front,2,Codex (Renderer),38.504655
+1791976608.360381,chatgptstream-front,2,WattMate.app,60.863231
+1791976618.433728,chatgptstream-front,2,Codex (Renderer),39.897762
+1791976618.433728,chatgptstream-front,2,WattMate.app,0.681592
+1791976628.506576,chatgptstream-front,2,Codex (Renderer),40.213561
+1791976628.506576,chatgptstream-front,2,WattMate.app,12.433808
+1791976638.574664,chatgptstream-front,2,Codex (Renderer),182.285371
+1791976638.574664,chatgptstream-front,2,WattMate.app,0.562015
+1791976648.648278,chatgptstream-front,2,Codex (Renderer),43.544763
+1791976648.648278,chatgptstream-front,2,WattMate.app,13.965683
+1791976658.725215,chatgptstream-front,2,Codex (Renderer),35.876743
+1791976658.725215,chatgptstream-front,2,WattMate.app,1.070666
+1791976668.777563,chatgptstream-front,2,Codex (Renderer),36.182700
+1791976668.777563,chatgptstream-front,2,WattMate.app,0.643867
+1791976678.850315,chatgptstream-front,2,Codex (Renderer),37.411419
+1791976678.850315,chatgptstream-front,2,WattMate.app,12.213418
+1791976688.911024,chatgptstream-front,2,Codex (Renderer),38.048723
+1791976688.911024,chatgptstream-front,2,WattMate.app,0.855593
+1791976698.983805,chatgptstream-front,2,Codex (Renderer),165.627994
+1791976698.983805,chatgptstream-front,2,WattMate.app,0.106484
+1791976709.050056,chatgptstream-front,2,Codex (Renderer),1484.672844
+1791976709.050056,chatgptstream-front,2,WattMate.app,104.117399
+1791976719.116562,chatgptstream-front,2,Codex (Renderer),7063.815299
+1791976719.116562,chatgptstream-front,2,WattMate.app,9.433218
+1791976729.160556,chatgptstream-front,2,Codex (Renderer),7736.788312
+1791976729.160556,chatgptstream-front,2,WattMate.app,1.106209
+1791976739.206724,chatgptstream-front,2,Codex (Renderer),7296.535234
+1791976739.206724,chatgptstream-front,2,WattMate.app,0.968271
+1791976749.240887,chatgptstream-front,2,Codex (Renderer),9576.303449
+1791976749.240887,chatgptstream-front,2,WattMate.app,18.608097
+1791976759.295134,chatgptstream-front,2,Codex (Renderer),9128.136144
+1791976759.295134,chatgptstream-front,2,WattMate.app,0.756806
+1791976769.366463,chatgptstream-front,2,Codex (Renderer),2478.318309
+1791976769.366463,chatgptstream-front,2,WattMate.app,2.967597
+1791976779.442068,chatgptstream-front,2,Codex (Renderer),48.867175
+1791976779.442068,chatgptstream-front,2,WattMate.app,65.516491
+1791976789.500155,chatgptstream-front,2,Codex (Renderer),38.915074
+1791976789.500155,chatgptstream-front,2,WattMate.app,0.999491
+1791976799.571769,chatgptstream-front,2,Codex (Renderer),37.329918
+1791976799.571769,chatgptstream-front,2,WattMate.app,0.598252
+1791976809.637785,chatgptstream-front,2,Codex (Renderer),45.463587
+1791976809.637785,chatgptstream-front,2,WattMate.app,13.408562
+1791976819.712775,chatgptstream-front,2,Codex (Renderer),175.772654
+1791976819.712775,chatgptstream-front,2,WattMate.app,9.352612
+1791976829.782986,chatgptstream-front,2,Codex (Renderer),46.485041
+1791976829.782986,chatgptstream-front,2,WattMate.app,1.592968
+1791976839.846300,chatgptstream-front,2,Codex (Renderer),41.447436
+1791976839.846300,chatgptstream-front,2,WattMate.app,0.122387
+1791976849.907794,chatgptstream-front,2,Codex (Renderer),37.833180
+1791976849.907794,chatgptstream-front,2,WattMate.app,12.937296
+1791976859.974819,chatgptstream-front,2,Codex (Renderer),37.730712
+1791976859.974819,chatgptstream-front,2,WattMate.app,1.089895
+1791976870.043282,chatgptstream-front,2,Codex (Renderer),3847.139064
+1791976870.043282,chatgptstream-front,2,WattMate.app,19.580317
+1791976880.111763,chatgptstream-front,2,Codex (Renderer),6718.141950
+1791976880.111763,chatgptstream-front,2,WattMate.app,75.253779
+1791976890.157620,chatgptstream-front,2,Codex (Renderer),8907.128647
+1791976890.157620,chatgptstream-front,2,WattMate.app,0.996030
+1791976900.204884,chatgptstream-front,2,Codex (Renderer),8397.980956
+1791976900.204884,chatgptstream-front,2,WattMate.app,17.829990
+1791976910.251704,chatgptstream-front,2,Codex (Renderer),10246.023631
+1791976910.251704,chatgptstream-front,2,WattMate.app,0.607961
+1791976920.311129,chatgptstream-front,2,Codex (Renderer),4306.658792
+1791976920.311129,chatgptstream-front,2,WattMate.app,13.368168
+1791976930.373499,chatgptstream-front,2,Codex (Renderer),44.745958
+1791976930.373499,chatgptstream-front,2,WattMate.app,0.911837
+1791976940.431004,chatgptstream-front,2,Codex (Renderer),197.670379
+1791976940.431004,chatgptstream-front,2,WattMate.app,19.538204
+1791976950.500711,chatgptstream-front,2,Codex (Renderer),41.738030
+1791976950.500711,chatgptstream-front,2,WattMate.app,1.128752
+1791976960.569482,chatgptstream-front,2,Codex (Renderer),45.091446
+1791976960.569482,chatgptstream-front,2,WattMate.app,0.682271
+1791976970.637278,chatgptstream-front,2,Codex (Renderer),37.797624
+1791976970.637278,chatgptstream-front,2,WattMate.app,70.226025
+1791976980.704659,chatgptstream-front,2,Codex (Renderer),99.944922
+1791976980.704659,chatgptstream-front,2,WattMate.app,0.890239
+1791976990.775352,chatgptstream-front,2,Codex (Renderer),40.826309
+1791976990.775352,chatgptstream-front,2,WattMate.app,0.932547
+1791977000.839056,chatgptstream-front,2,Codex (Renderer),157.406118
+1791977000.839056,chatgptstream-front,2,WattMate.app,14.363129
+1791977010.904962,chatgptstream-front,2,Codex (Renderer),42.354593
+1791977010.904962,chatgptstream-front,2,WattMate.app,0.957312
+1791977020.968395,chatgptstream-front,2,Codex (Renderer),1510.498509
+1791977020.968395,chatgptstream-front,2,WattMate.app,17.606917
+1791977031.026963,chatgptstream-front,2,Codex (Renderer),5626.745554
+1791977031.026963,chatgptstream-front,2,WattMate.app,28.061573
+1791977041.074284,chatgptstream-front,2,Codex (Renderer),7972.674471
+1791977041.074284,chatgptstream-front,2,WattMate.app,1.146950
+1791977051.109216,chatgptstream-front,2,Codex (Renderer),9660.002080
+1791977051.109216,chatgptstream-front,2,WattMate.app,0.118255
+1791977061.150110,chatgptstream-front,2,Codex (Renderer),7859.561558
+1791977061.150110,chatgptstream-front,2,WattMate.app,0.547452
+1791977071.216208,chatgptstream-front,2,Codex (Renderer),2277.927588
+1791977071.216208,chatgptstream-front,2,WattMate.app,62.013108
+1791977081.282168,chatgptstream-front,2,Codex (Renderer),63.417761
+1791977081.282168,chatgptstream-front,2,WattMate.app,2.633869
+1791977091.356530,chatgptstream-front,2,Codex (Renderer),38.703812
+1791977091.356530,chatgptstream-front,2,WattMate.app,0.928056
+1791977101.431199,chatgptstream-front,2,Codex (Renderer),36.736140
+1791977101.431199,chatgptstream-front,2,WattMate.app,12.815418
+1791977111.485264,chatgptstream-front,2,Codex (Renderer),116.016679
+1791977111.485264,chatgptstream-front,2,WattMate.app,1.094478
+1791977121.530715,chatgptstream-front,2,Codex (Renderer),105.015807
+1791977121.530715,chatgptstream-front,2,WattMate.app,0.592464
+1791977131.605949,chatgptstream-front,2,Codex (Renderer),38.223062
+1791977131.605949,chatgptstream-front,2,WattMate.app,15.944795
+1791977141.670767,chatgptstream-front,2,Codex (Renderer),46.363756
+1791977141.670767,chatgptstream-front,2,WattMate.app,4.985985
+1791977151.739894,chatgptstream-front,2,Codex (Renderer),41.809342
+1791977151.739894,chatgptstream-front,2,WattMate.app,1.157550
+1791977161.809971,chatgptstream-front,2,Codex (Renderer),39.889763
+1791977161.809971,chatgptstream-front,2,WattMate.app,72.344081
+1791977171.874847,chatgptstream-front,2,Codex (Renderer),145.985545
+1791977171.874847,chatgptstream-front,2,WattMate.app,1.142933
+1791977181.945223,chatgptstream-front,2,Codex (Renderer),0.000000
+1791977181.945223,chatgptstream-front,2,WattMate.app,55.484729
+1791977192.007085,chatgptstream-front,2,Codex (Renderer),0.000000
+1791977192.007085,chatgptstream-front,2,WattMate.app,0.227711
+1791977222.185061,chatgptstream-front,3,Codex (Renderer),5164.463970
+1791977222.185061,chatgptstream-front,3,WattMate.app,4.769821
+1791977232.239865,chatgptstream-front,3,Codex (Renderer),11169.662672
+1791977232.239865,chatgptstream-front,3,WattMate.app,152.536067
+1791977242.316436,chatgptstream-front,3,Codex (Renderer),11583.712223
+1791977242.316436,chatgptstream-front,3,WattMate.app,45.662497
+1791977252.366172,chatgptstream-front,3,Codex (Renderer),6114.213475
+1791977252.366172,chatgptstream-front,3,WattMate.app,16.425021
+1791977262.410224,chatgptstream-front,3,Codex (Renderer),7800.642180
+1791977262.410224,chatgptstream-front,3,WattMate.app,12.406889
+1791977272.460246,chatgptstream-front,3,Codex (Renderer),8843.874412
+1791977272.460246,chatgptstream-front,3,WattMate.app,13.699503
+1791977282.502163,chatgptstream-front,3,Codex (Renderer),6609.264470
+1791977282.502163,chatgptstream-front,3,WattMate.app,13.468431
+1791977292.573743,chatgptstream-front,3,Codex (Renderer),1058.099794
+1791977292.573743,chatgptstream-front,3,WattMate.app,3.069246
+1791977302.641131,chatgptstream-front,3,Codex (Renderer),40.809236
+1791977302.641131,chatgptstream-front,3,WattMate.app,1.945435
+1791977312.696056,chatgptstream-front,3,Codex (Renderer),42.283369
+1791977312.696056,chatgptstream-front,3,WattMate.app,17.147014
+1791977322.775587,chatgptstream-front,3,Codex (Renderer),36.989378
+1791977322.775587,chatgptstream-front,3,WattMate.app,0.919798
+1791977332.843013,chatgptstream-front,3,Codex (Renderer),40.354689
+1791977332.843013,chatgptstream-front,3,WattMate.app,0.829365
+1791977342.903249,chatgptstream-front,3,Codex (Renderer),227.214647
+1791977342.903249,chatgptstream-front,3,WattMate.app,76.903067
+1791977352.976492,chatgptstream-front,3,Codex (Renderer),48.089473
+1791977352.976492,chatgptstream-front,3,WattMate.app,3.488039
+1791977363.051134,chatgptstream-front,3,Codex (Renderer),672.316644
+1791977363.051134,chatgptstream-front,3,WattMate.app,0.909793
+1791977373.115965,chatgptstream-front,3,Codex (Renderer),40.082206
+1791977373.115965,chatgptstream-front,3,WattMate.app,1.094217
+1791977383.186707,chatgptstream-front,3,Codex (Renderer),40.159976
+1791977383.186707,chatgptstream-front,3,WattMate.app,13.051768
+1791977393.249565,chatgptstream-front,3,Codex (Renderer),1502.161466
+1791977393.249565,chatgptstream-front,3,WattMate.app,15.040232
+1791977403.289144,chatgptstream-front,3,Codex (Renderer),8421.192948
+1791977403.289144,chatgptstream-front,3,WattMate.app,94.816827
+1791977413.341606,chatgptstream-front,3,Codex (Renderer),8116.475766
+1791977413.341606,chatgptstream-front,3,WattMate.app,0.864048
+1791977423.386290,chatgptstream-front,3,Codex (Renderer),10039.882556
+1791977423.386290,chatgptstream-front,3,WattMate.app,14.240937
+1791977433.429968,chatgptstream-front,3,Codex (Renderer),9701.843325
+1791977433.429968,chatgptstream-front,3,WattMate.app,16.654203
+1791977443.477741,chatgptstream-front,3,Codex (Renderer),11322.034912
+1791977443.477741,chatgptstream-front,3,WattMate.app,9.540576
+1791977453.547879,chatgptstream-front,3,Codex (Renderer),2066.543841
+1791977453.547879,chatgptstream-front,3,WattMate.app,11.534463
+1791977463.617668,chatgptstream-front,3,Codex (Renderer),199.729502
+1791977463.617668,chatgptstream-front,3,WattMate.app,13.816062
+1791977473.687145,chatgptstream-front,3,Codex (Renderer),48.836261
+1791977473.687145,chatgptstream-front,3,WattMate.app,0.764863
+1791977483.753718,chatgptstream-front,3,Codex (Renderer),39.142005
+1791977483.753718,chatgptstream-front,3,WattMate.app,0.862165
+1791977493.823030,chatgptstream-front,3,Codex (Renderer),42.181900
+1791977493.823030,chatgptstream-front,3,WattMate.app,63.521697
+1791977503.877049,chatgptstream-front,3,Codex (Renderer),40.388600
+1791977503.877049,chatgptstream-front,3,WattMate.app,0.138005
+1791977513.948817,chatgptstream-front,3,Codex (Renderer),39.255379
+1791977513.948817,chatgptstream-front,3,WattMate.app,0.710796
+1791977524.023470,chatgptstream-front,3,Codex (Renderer),189.725378
+1791977524.023470,chatgptstream-front,3,WattMate.app,20.745421
+1791977534.093334,chatgptstream-front,3,Codex (Renderer),53.103074
+1791977534.093334,chatgptstream-front,3,WattMate.app,0.848048
+1791977544.166424,chatgptstream-front,3,Codex (Renderer),37.866054
+1791977544.166424,chatgptstream-front,3,WattMate.app,7.037784
+1791977554.230086,chatgptstream-front,3,Codex (Renderer),4680.465682
+1791977554.230086,chatgptstream-front,3,WattMate.app,14.655795
+1791977564.271705,chatgptstream-front,3,Codex (Renderer),7574.150319
+1791977564.271705,chatgptstream-front,3,WattMate.app,23.204965
+1791977574.318028,chatgptstream-front,3,Codex (Renderer),7145.214897
+1791977574.318028,chatgptstream-front,3,WattMate.app,0.957277
+1791977584.370932,chatgptstream-front,3,Codex (Renderer),10358.773750
+1791977584.370932,chatgptstream-front,3,WattMate.app,14.650696
+1791977594.419447,chatgptstream-front,3,Codex (Renderer),5269.598101
+1791977594.419447,chatgptstream-front,3,WattMate.app,1.016761
+1791977604.491107,chatgptstream-front,3,Codex (Renderer),2029.938469
+1791977604.491107,chatgptstream-front,3,WattMate.app,82.340414
+1791977614.567961,chatgptstream-front,3,Codex (Renderer),46.936973
+1791977614.567961,chatgptstream-front,3,WattMate.app,0.773045
+1791977624.648175,chatgptstream-front,3,Codex (Renderer),39.395776
+1791977624.648175,chatgptstream-front,3,WattMate.app,4.335779
+1791977634.712741,chatgptstream-front,3,Codex (Renderer),37.178502
+1791977634.712741,chatgptstream-front,3,WattMate.app,14.123814
+1791977644.777841,chatgptstream-front,3,Codex (Renderer),219.805110
+1791977644.777841,chatgptstream-front,3,WattMate.app,0.153968
+1791977654.845549,chatgptstream-front,3,Codex (Renderer),45.778520
+1791977654.845549,chatgptstream-front,3,WattMate.app,0.626984
+1791977664.914808,chatgptstream-front,3,Codex (Renderer),38.043733
+1791977664.914808,chatgptstream-front,3,WattMate.app,0.779135
+1791977674.984425,chatgptstream-front,3,Codex (Renderer),43.485473
+1791977674.984425,chatgptstream-front,3,WattMate.app,12.662671
+1791977685.052480,chatgptstream-front,3,Codex (Renderer),39.654283
+1791977685.052480,chatgptstream-front,3,WattMate.app,3.580869
+1791977695.129077,chatgptstream-front,3,Codex (Renderer),36.564942
+1791977695.129077,chatgptstream-front,3,WattMate.app,0.757344
+1791977705.198583,chatgptstream-front,3,Codex (Renderer),1463.680373
+1791977705.198583,chatgptstream-front,3,WattMate.app,81.377973
+1791977715.238107,chatgptstream-front,3,Codex (Renderer),7473.688642
+1791977715.238107,chatgptstream-front,3,WattMate.app,6.969660
+1791977725.293327,chatgptstream-front,3,Codex (Renderer),6898.450725
+1791977725.293327,chatgptstream-front,3,WattMate.app,0.962917
+1791977735.347776,chatgptstream-front,3,Codex (Renderer),8306.354350
+1791977735.347776,chatgptstream-front,3,WattMate.app,16.390320
+1791977745.402386,chatgptstream-front,3,Codex (Renderer),10190.004463
+1791977745.402386,chatgptstream-front,3,WattMate.app,2.072699
+1791977755.480478,chatgptstream-front,3,Codex (Renderer),2743.363205
+1791977755.480478,chatgptstream-front,3,WattMate.app,16.255777
+1791977765.539733,chatgptstream-front,3,Codex (Renderer),232.550228
+1791977765.539733,chatgptstream-front,3,WattMate.app,0.836029
+1791977775.611180,chatgptstream-front,3,Codex (Renderer),57.061757
+1791977775.611180,chatgptstream-front,3,WattMate.app,62.457388
+1791977785.677198,chatgptstream-front,3,Codex (Renderer),40.703873
+1791977785.677198,chatgptstream-front,3,WattMate.app,0.130954
+1791977795.753035,chatgptstream-front,3,Codex (Renderer),41.988407
+1791977795.753035,chatgptstream-front,3,WattMate.app,1.157293
+1791977805.817861,chatgptstream-front,3,Codex (Renderer),39.337811
+1791977805.817861,chatgptstream-front,3,WattMate.app,12.786532
+1791977815.898053,chatgptstream-front,3,Codex (Renderer),44.895660
+1791977815.898053,chatgptstream-front,3,WattMate.app,2.860493
+1791977825.955488,chatgptstream-front,3,Codex (Renderer),1214.915253
+1791977825.955488,chatgptstream-front,3,WattMate.app,0.815649
+1791977836.017765,chatgptstream-front,3,Codex (Renderer),59.159640
+1791977836.017765,chatgptstream-front,3,WattMate.app,13.369084
+1791977846.084342,chatgptstream-front,3,Codex (Renderer),39.143712
+1791977846.084342,chatgptstream-front,3,WattMate.app,0.562673
+1791977856.157767,chatgptstream-front,3,Codex (Renderer),43.923991
+1791977856.157767,chatgptstream-front,3,WattMate.app,1.067334
+1791977866.214485,chatgptstream-front,3,Codex (Renderer),1905.125534
+1791977866.214485,chatgptstream-front,3,WattMate.app,116.818589
+1791977876.273898,chatgptstream-front,3,Codex (Renderer),191.895121
+1791977876.273898,chatgptstream-front,3,WattMate.app,1.780258
+1791977886.338053,chatgptstream-front,3,Codex (Renderer),4121.836949
+1791977886.338053,chatgptstream-front,3,WattMate.app,0.788761
+1791977896.383986,chatgptstream-front,3,Codex (Renderer),7504.787102
+1791977896.383986,chatgptstream-front,3,WattMate.app,15.832254
+1791977906.424619,chatgptstream-front,3,Codex (Renderer),8733.348182
+1791977906.424619,chatgptstream-front,3,WattMate.app,0.873014
+1791977916.469505,chatgptstream-front,3,Codex (Renderer),10935.334024
+1791977916.469505,chatgptstream-front,3,WattMate.app,0.753946
+1791977926.513904,chatgptstream-front,3,Codex (Renderer),8123.586615
+1791977926.513904,chatgptstream-front,3,WattMate.app,22.253040
+1791977936.570193,chatgptstream-front,3,Codex (Renderer),1890.576246
+1791977936.570193,chatgptstream-front,3,WattMate.app,0.932022
+1791977946.632840,chatgptstream-front,3,Codex (Renderer),210.017731
+1791977946.632840,chatgptstream-front,3,WattMate.app,67.851622
+1791977956.699444,chatgptstream-front,3,Codex (Renderer),49.034876
+1791977956.699444,chatgptstream-front,3,WattMate.app,0.158827
+1791977966.758506,chatgptstream-front,3,Codex (Renderer),39.317351
+1791977966.758506,chatgptstream-front,3,WattMate.app,0.765784
+1791977976.826803,chatgptstream-front,3,Codex (Renderer),42.348026
+1791977976.826803,chatgptstream-front,3,WattMate.app,11.744295
+1791977986.894058,chatgptstream-front,3,Codex (Renderer),42.225262
+1791977986.894058,chatgptstream-front,3,WattMate.app,3.468963
+1791977996.968446,chatgptstream-front,3,Codex (Renderer),38.963187
+1791977996.968446,chatgptstream-front,3,WattMate.app,3.251848
+1791978007.029763,chatgptstream-front,3,Codex (Renderer),149.766195
+1791978007.029763,chatgptstream-front,3,WattMate.app,13.875822
+1791978017.089918,chatgptstream-front,3,Codex (Renderer),1415.901723
+1791978017.089918,chatgptstream-front,3,WattMate.app,10.561495
+1791978027.152476,chatgptstream-front,3,Codex (Renderer),5432.068076
+1791978027.152476,chatgptstream-front,3,WattMate.app,10.482221
+1791978037.199527,chatgptstream-front,3,Codex (Renderer),7793.534137
+1791978037.199527,chatgptstream-front,3,WattMate.app,67.089892
+1791978047.235607,chatgptstream-front,3,Codex (Renderer),9495.990355
+1791978047.235607,chatgptstream-front,3,WattMate.app,0.637335
+1791978057.286143,chatgptstream-front,3,Codex (Renderer),9537.927861
+1791978057.286143,chatgptstream-front,3,WattMate.app,21.862526
+1791978067.348976,chatgptstream-front,3,Codex (Renderer),155.404469
+1791978067.348976,chatgptstream-front,3,WattMate.app,0.830002
+1791978077.430181,chatgptstream-front,3,Codex (Renderer),45.319528
+1791978077.430181,chatgptstream-front,3,WattMate.app,15.502134
+1791978087.500513,chatgptstream-front,3,Codex (Renderer),37.630627
+1791978087.500513,chatgptstream-front,3,WattMate.app,0.994913
+1791978097.567002,chatgptstream-front,3,Codex (Renderer),39.837376
+1791978097.567002,chatgptstream-front,3,WattMate.app,13.287354
+1791978107.638865,chatgptstream-front,3,Codex (Renderer),37.577515
+1791978107.638865,chatgptstream-front,3,WattMate.app,1.166042
+1791978117.695419,chatgptstream-front,3,Codex (Renderer),37.369920
+1791978117.695419,chatgptstream-front,3,WattMate.app,8.374325
+1791978127.772001,chatgptstream-front,3,Codex (Renderer),139.080024
+1791978127.772001,chatgptstream-front,3,WattMate.app,81.397043
+1791978137.840083,chatgptstream-front,3,Codex (Renderer),42.934922
+1791978137.840083,chatgptstream-front,3,WattMate.app,1.009770
+1791978147.908011,chatgptstream-front,3,Codex (Renderer),39.997562
+1791978147.908011,chatgptstream-front,3,WattMate.app,0.137226
+1791978157.973824,chatgptstream-front,3,Codex (Renderer),40.964665
+1791978157.973824,chatgptstream-front,3,WattMate.app,0.946061
+1791978168.044581,chatgptstream-front,3,Codex (Renderer),39.279878
+1791978168.044581,chatgptstream-front,3,WattMate.app,12.134539
+1791978178.117232,chatgptstream-front,3,Codex (Renderer),2422.406215
+1791978178.117232,chatgptstream-front,3,WattMate.app,24.018358
+1791978188.177376,chatgptstream-front,3,Codex (Renderer),7985.141973
+1791978188.177376,chatgptstream-front,3,WattMate.app,20.681145
+1791978198.228921,chatgptstream-front,3,Codex (Renderer),8291.237561
+1791978198.228921,chatgptstream-front,3,WattMate.app,0.543363
+1791978208.280991,chatgptstream-front,3,Codex (Renderer),10287.897469
+1791978208.280991,chatgptstream-front,3,WattMate.app,16.212625
+1791978218.322487,chatgptstream-front,3,Codex (Renderer),9643.041109
+1791978218.322487,chatgptstream-front,3,WattMate.app,78.634517
+1791978228.370175,chatgptstream-front,3,Codex (Renderer),3868.020900
+1791978228.370175,chatgptstream-front,3,WattMate.app,11.944650
+1791978238.442998,chatgptstream-front,3,Codex (Renderer),938.458799
+1791978238.442998,chatgptstream-front,3,WattMate.app,12.374230
+1791978248.509021,chatgptstream-front,3,Codex (Renderer),175.554836
+1791978248.509021,chatgptstream-front,3,WattMate.app,3.714527
+1791978258.579930,chatgptstream-front,3,Codex (Renderer),44.865587
+1791978258.579930,chatgptstream-front,3,WattMate.app,0.656738
+1791978268.641863,chatgptstream-front,3,Codex (Renderer),36.958507
+1791978268.641863,chatgptstream-front,3,WattMate.app,13.659519
+1791978278.713663,chatgptstream-front,3,Codex (Renderer),37.684144
+1791978278.713663,chatgptstream-front,3,WattMate.app,0.932625
+1791978288.777888,chatgptstream-front,3,Codex (Renderer),38.730456
+1791978288.777888,chatgptstream-front,3,WattMate.app,1.023671
+1791978298.843046,chatgptstream-front,3,Codex (Renderer),36.481562
+1791978298.843046,chatgptstream-front,3,WattMate.app,13.687335
+1791978308.913577,chatgptstream-front,3,Codex (Renderer),171.051338
+1791978308.913577,chatgptstream-front,3,WattMate.app,4.119801
+1791978318.980287,chatgptstream-front,3,Codex (Renderer),45.247875
+1791978318.980287,chatgptstream-front,3,WattMate.app,0.846333
+1791978329.047675,chatgptstream-front,3,Codex (Renderer),1421.801776
+1791978329.047675,chatgptstream-front,3,WattMate.app,93.560633
+1791978339.117278,chatgptstream-front,3,Codex (Renderer),4249.454945
+1791978339.117278,chatgptstream-front,3,WattMate.app,14.059788
+1791978349.167049,chatgptstream-front,3,Codex (Renderer),6960.433411
+1791978349.167049,chatgptstream-front,3,WattMate.app,0.866973
+1791978359.211750,chatgptstream-front,3,Codex (Renderer),7948.797928
+1791978359.211750,chatgptstream-front,3,WattMate.app,27.671468
+1791978369.252299,chatgptstream-front,3,Codex (Renderer),10281.120921
+1791978369.252299,chatgptstream-front,3,WattMate.app,0.724848
+1791978379.310819,chatgptstream-front,3,Codex (Renderer),5423.657813
+1791978379.310819,chatgptstream-front,3,WattMate.app,0.606467
+1791978389.387492,chatgptstream-front,3,Codex (Renderer),2032.993795
+1791978389.387492,chatgptstream-front,3,WattMate.app,12.666066
+1791978399.451386,chatgptstream-front,3,Codex (Renderer),40.229962
+1791978399.451386,chatgptstream-front,3,WattMate.app,1.428068
+1791978409.521780,chatgptstream-front,3,Codex (Renderer),40.561905
+1791978409.521780,chatgptstream-front,3,WattMate.app,64.269406
+1791978419.585847,chatgptstream-front,3,Codex (Renderer),41.233912
+1791978419.585847,chatgptstream-front,3,WattMate.app,4.802895
+1791978429.654477,chatgptstream-front,3,Codex (Renderer),183.356315
+1791978429.654477,chatgptstream-front,3,WattMate.app,1.110492
+1791978439.734057,chatgptstream-front,3,Codex (Renderer),54.462136
+1791978439.734057,chatgptstream-front,3,WattMate.app,12.677879
+1791978449.801500,chatgptstream-front,3,Codex (Renderer),39.221235
+1791978449.801500,chatgptstream-front,3,WattMate.app,0.973997
+1791978459.873240,chatgptstream-front,3,Codex (Renderer),36.907461
+1791978459.873240,chatgptstream-front,3,WattMate.app,0.708358
+1791978469.944039,chatgptstream-front,3,Codex (Renderer),36.904278
+1791978469.944039,chatgptstream-front,3,WattMate.app,20.939412
+1791978480.012644,chatgptstream-front,3,Codex (Renderer),39.781147
+1791978480.012644,chatgptstream-front,3,WattMate.app,6.449218
+1791978490.074531,chatgptstream-front,3,Codex (Renderer),2028.048384
+1791978490.074531,chatgptstream-front,3,WattMate.app,19.468984
+1791978500.135555,chatgptstream-front,3,Codex (Renderer),3364.231296
+1791978500.135555,chatgptstream-front,3,WattMate.app,71.394852
+1791978510.180313,chatgptstream-front,3,Codex (Renderer),3486.015325
+1791978510.180313,chatgptstream-front,3,WattMate.app,0.562041
+1791978520.234860,chatgptstream-front,3,Codex (Renderer),2564.597107
+1791978520.234860,chatgptstream-front,3,WattMate.app,0.638592
+1791978530.291132,chatgptstream-front,3,Codex (Renderer),4585.215774
+1791978530.291132,chatgptstream-front,3,WattMate.app,0.101062
+1791978540.344012,chatgptstream-front,3,Codex (Renderer),10502.771532
+1791978540.344012,chatgptstream-front,3,WattMate.app,16.555770
+1791978550.400078,chatgptstream-front,3,Codex (Renderer),12402.661379
+1791978550.400078,chatgptstream-front,3,WattMate.app,34.980739
+1791978560.470073,chatgptstream-front,3,Codex (Renderer),2033.882627
+1791978560.470073,chatgptstream-front,3,WattMate.app,1.311643
+1791978570.548509,chatgptstream-front,3,Codex (Renderer),37.896030
+1791978570.548509,chatgptstream-front,3,WattMate.app,12.440176
+1791978580.618753,chatgptstream-front,3,Codex (Renderer),40.913583
+1791978580.618753,chatgptstream-front,3,WattMate.app,81.394357
+1791978590.691994,chatgptstream-front,3,Codex (Renderer),39.430203
+1791978590.691994,chatgptstream-front,3,WattMate.app,12.563496
+1791978600.760698,chatgptstream-front,3,Codex (Renderer),38.299049
+1791978600.760698,chatgptstream-front,3,WattMate.app,12.862268
+1791978610.824208,chatgptstream-front,3,Codex (Renderer),189.545503
+1791978610.824208,chatgptstream-front,3,WattMate.app,1.907038
+1791978620.892641,chatgptstream-front,3,Codex (Renderer),46.152660
+1791978620.892641,chatgptstream-front,3,WattMate.app,1.170402
+1791978630.964415,chatgptstream-front,3,Codex (Renderer),45.509595
+1791978630.964415,chatgptstream-front,3,WattMate.app,14.271594
+1791978641.031326,chatgptstream-front,3,Codex (Renderer),38.661248
+1791978641.031326,chatgptstream-front,3,WattMate.app,7.551919
+1791978651.066562,chatgptstream-front,3,Codex (Renderer),3621.914242
+1791978651.066562,chatgptstream-front,3,WattMate.app,16.066057
+1791978661.112449,chatgptstream-front,3,Codex (Renderer),6982.520954
+1791978661.112449,chatgptstream-front,3,WattMate.app,15.594614
+1791978671.160974,chatgptstream-front,3,Codex (Renderer),8605.497072
+1791978671.160974,chatgptstream-front,3,WattMate.app,2.071216
+1791978681.205807,chatgptstream-front,3,Codex (Renderer),10240.416289
+1791978681.205807,chatgptstream-front,3,WattMate.app,71.442199
+1791978691.258844,chatgptstream-front,3,Codex (Renderer),9457.112204
+1791978691.258844,chatgptstream-front,3,WattMate.app,0.891457
+1791978701.323137,chatgptstream-front,3,Codex (Renderer),2231.835834
+1791978701.323137,chatgptstream-front,3,WattMate.app,12.096378
+1791978711.392581,chatgptstream-front,3,Codex (Renderer),40.982918
+1791978711.392581,chatgptstream-front,3,WattMate.app,0.731031
+1791978721.453127,chatgptstream-front,3,Codex (Renderer),43.491553
+1791978721.453127,chatgptstream-front,3,WattMate.app,0.100925
+1791978731.527401,chatgptstream-front,3,Codex (Renderer),191.498510
+1791978731.527401,chatgptstream-front,3,WattMate.app,13.164926
+1791978741.587742,chatgptstream-front,3,Codex (Renderer),58.542117
+1791978741.587742,chatgptstream-front,3,WattMate.app,0.673613
+1791978751.655120,chatgptstream-front,3,Codex (Renderer),41.199761
+1791978751.655120,chatgptstream-front,3,WattMate.app,1.180712
+1791978761.723419,chatgptstream-front,3,Codex (Renderer),40.119569
+1791978761.723419,chatgptstream-front,3,WattMate.app,78.155286
+1791978771.791732,chatgptstream-front,3,Codex (Renderer),38.285796
+1791978771.791732,chatgptstream-front,3,WattMate.app,7.770950
+1791978781.853745,chatgptstream-front,3,Codex (Renderer),41.471177
+1791978781.853745,chatgptstream-front,3,WattMate.app,1.158244
+1791978791.929704,chatgptstream-front,3,Codex (Renderer),147.852406
+1791978791.929704,chatgptstream-front,3,WattMate.app,12.566721
+1791978802.008892,chatgptstream-front,3,Codex (Renderer),1502.404377
+1791978802.008892,chatgptstream-front,3,WattMate.app,15.136311
+1791978812.062782,chatgptstream-front,3,Codex (Renderer),7525.927534
+1791978812.062782,chatgptstream-front,3,WattMate.app,6.437172
+1791978822.107820,chatgptstream-front,3,Codex (Renderer),6762.369593
+1791978822.107820,chatgptstream-front,3,WattMate.app,13.353534
+1791978832.153302,chatgptstream-front,3,Codex (Renderer),9400.930560
+1791978832.153302,chatgptstream-front,3,WattMate.app,2.004906
+1791978842.195509,chatgptstream-front,3,Codex (Renderer),9763.026860
+1791978842.195509,chatgptstream-front,3,WattMate.app,19.695465
+1791978852.245883,chatgptstream-front,3,Codex (Renderer),7179.696187
+1791978852.245883,chatgptstream-front,3,WattMate.app,1.023611
+1791978862.308056,chatgptstream-front,3,Codex (Renderer),2257.568332
+1791978862.308056,chatgptstream-front,3,WattMate.app,97.472562
+1791978872.376619,chatgptstream-front,3,Codex (Renderer),45.591174
+1791978872.376619,chatgptstream-front,3,WattMate.app,0.742128
+1791978882.445069,chatgptstream-front,3,Codex (Renderer),40.272070
+1791978882.445069,chatgptstream-front,3,WattMate.app,11.857644
+1791978892.513331,chatgptstream-front,3,Codex (Renderer),42.073270
+1791978892.513331,chatgptstream-front,3,WattMate.app,3.559655
+1791978902.580527,chatgptstream-front,3,Codex (Renderer),42.933862
+1791978902.580527,chatgptstream-front,3,WattMate.app,1.392436
+1791978912.646127,chatgptstream-front,3,Codex (Renderer),163.912687
+1791978912.646127,chatgptstream-front,3,WattMate.app,13.431431
+1791978922.719390,chatgptstream-front,3,Codex (Renderer),47.987839
+1791978922.719390,chatgptstream-front,3,WattMate.app,0.152934
+1791978932.796353,chatgptstream-front,3,Codex (Renderer),45.743601
+1791978932.796353,chatgptstream-front,3,WattMate.app,0.909194
+1791978942.861553,chatgptstream-front,3,Codex (Renderer),37.028024
+1791978942.861553,chatgptstream-front,3,WattMate.app,1.205952
+1791978952.924164,chatgptstream-front,3,Codex (Renderer),45.997930
+1791978952.924164,chatgptstream-front,3,WattMate.app,83.999649
+1791978962.969799,chatgptstream-front,3,Codex (Renderer),3894.329197
+1791978962.969799,chatgptstream-front,3,WattMate.app,21.434071
+1791978973.014722,chatgptstream-front,3,Codex (Renderer),6876.502069
+1791978973.014722,chatgptstream-front,3,WattMate.app,33.224766
+1791978983.055859,chatgptstream-front,3,Codex (Renderer),7815.169664
+1791978983.055859,chatgptstream-front,3,WattMate.app,0.705971
+1791978993.101534,chatgptstream-front,3,Codex (Renderer),8679.567355
+1791978993.101534,chatgptstream-front,3,WattMate.app,15.359230
+1791979003.154626,chatgptstream-front,3,Codex (Renderer),6531.117901
+1791979003.154626,chatgptstream-front,3,WattMate.app,1.194447
+1791979013.224772,chatgptstream-front,3,Codex (Renderer),2160.551710
+1791979013.224772,chatgptstream-front,3,WattMate.app,12.776832
+1791979023.300898,chatgptstream-front,3,Codex (Renderer),184.757573
+1791979023.300898,chatgptstream-front,3,WattMate.app,2.875534
+1791979033.358413,chatgptstream-front,3,Codex (Renderer),48.360663
+1791979033.358413,chatgptstream-front,3,WattMate.app,1.315280
+1791979043.432706,chatgptstream-front,3,Codex (Renderer),57.849217
+1791979043.432706,chatgptstream-front,3,WattMate.app,63.795206
+1791979053.499722,chatgptstream-front,3,Codex (Renderer),42.885810
+1791979053.499722,chatgptstream-front,3,WattMate.app,1.023506
+1791979063.568834,chatgptstream-front,3,Codex (Renderer),41.702353
+1791979063.568834,chatgptstream-front,3,WattMate.app,1.187984
+1791979073.629905,chatgptstream-front,3,Codex (Renderer),38.133472
+1791979073.629905,chatgptstream-front,3,WattMate.app,12.982020
+1791979083.698849,chatgptstream-front,3,Codex (Renderer),149.614308
+1791979083.698849,chatgptstream-front,3,WattMate.app,3.623731
+1791979093.771797,chatgptstream-front,3,Codex (Renderer),38.922775
+1791979093.771797,chatgptstream-front,3,WattMate.app,1.157675
+1791979103.848049,chatgptstream-front,3,Codex (Renderer),44.126764
+1791979103.848049,chatgptstream-front,3,WattMate.app,12.779324
+1791979113.919711,chatgptstream-front,3,Codex (Renderer),1480.620599
+1791979113.919711,chatgptstream-front,3,WattMate.app,10.287669
+1791979123.981415,chatgptstream-front,3,Codex (Renderer),5308.651765
+1791979123.981415,chatgptstream-front,3,WattMate.app,10.141582
+1791979134.032870,chatgptstream-front,3,Codex (Renderer),7564.373696
+1791979134.032870,chatgptstream-front,3,WattMate.app,85.481831
+1791979144.068868,chatgptstream-front,3,Codex (Renderer),9012.963513
+1791979144.068868,chatgptstream-front,3,WattMate.app,12.811512
+1791979154.115569,chatgptstream-front,3,Codex (Renderer),10037.584267
+1791979154.115569,chatgptstream-front,3,WattMate.app,13.844158
+1791979164.166603,chatgptstream-front,3,Codex (Renderer),1512.072668
+1791979164.166603,chatgptstream-front,3,WattMate.app,15.562781
+1791979174.233263,chatgptstream-front,3,Codex (Renderer),47.291485
+1791979174.233263,chatgptstream-front,3,WattMate.app,0.116265
+1791979184.299331,chatgptstream-front,3,Codex (Renderer),51.665271
+1791979184.299331,chatgptstream-front,3,WattMate.app,11.661616
+1791979194.362901,chatgptstream-front,3,Codex (Renderer),45.364310
+1791979194.362901,chatgptstream-front,3,WattMate.app,1.199125
+1791979204.432527,chatgptstream-front,3,Codex (Renderer),123.199688
+1791979204.432527,chatgptstream-front,3,WattMate.app,0.708337
+1791979214.503513,chatgptstream-front,3,Codex (Renderer),42.769179
+1791979214.503513,chatgptstream-front,3,WattMate.app,60.630676
+1791979224.569307,chatgptstream-front,3,Codex (Renderer),42.585227
+1791979224.569307,chatgptstream-front,3,WattMate.app,0.796063
+1791979234.640549,chatgptstream-front,3,Codex (Renderer),45.235576
+1791979234.640549,chatgptstream-front,3,WattMate.app,0.859794
+1791979244.708106,chatgptstream-front,3,Codex (Renderer),37.533280
+1791979244.708106,chatgptstream-front,3,WattMate.app,12.561754
+1791979254.778008,chatgptstream-front,3,Codex (Renderer),41.764377
+1791979254.778008,chatgptstream-front,3,WattMate.app,3.425502
+1791979264.856945,chatgptstream-front,3,Codex (Renderer),1264.950264
+1791979264.856945,chatgptstream-front,3,WattMate.app,0.577126
+1791979274.927263,chatgptstream-front,3,Codex (Renderer),0.000000
+1791979274.927263,chatgptstream-front,3,WattMate.app,53.646006
+1791979284.995173,chatgptstream-front,3,Codex (Renderer),0.000000
+1791979284.995173,chatgptstream-front,3,WattMate.app,0.776397
+1791979315.156916,chatgpt-front-static,4,Codex (Renderer),10029.243214
+1791979315.156916,chatgpt-front-static,4,WattMate.app,13.529599
+1791979325.214273,chatgpt-front-static,4,Codex (Renderer),6267.624164
+1791979325.214273,chatgpt-front-static,4,WattMate.app,13.452326
+1791979335.277712,chatgpt-front-static,4,Codex (Renderer),11147.664962
+1791979335.277712,chatgpt-front-static,4,WattMate.app,31.438129
+1791979345.331738,chatgpt-front-static,4,Codex (Renderer),6183.464818
+1791979345.331738,chatgpt-front-static,4,WattMate.app,1.257659
+1791979355.377737,chatgpt-front-static,4,Codex (Renderer),8303.121763
+1791979355.377737,chatgpt-front-static,4,WattMate.app,0.610912
+1791979365.418934,chatgpt-front-static,4,Codex (Renderer),8637.720867
+1791979365.418934,chatgpt-front-static,4,WattMate.app,16.186090
+1791979375.472803,chatgpt-front-static,4,Codex (Renderer),4137.618203
+1791979375.472803,chatgpt-front-static,4,WattMate.app,1.092235
+1791979385.543610,chatgpt-front-static,4,Codex (Renderer),2698.333053
+1791979385.543610,chatgpt-front-static,4,WattMate.app,2.960966
+1791979395.607804,chatgpt-front-static,4,Codex (Renderer),43.621731
+1791979395.607804,chatgpt-front-static,4,WattMate.app,0.398636
+1791979405.673421,chatgpt-front-static,4,Codex (Renderer),47.391766
+1791979405.673421,chatgpt-front-static,4,WattMate.app,89.353339
+1791979415.734963,chatgpt-front-static,4,Codex (Renderer),36.841562
+1791979415.734963,chatgpt-front-static,4,WattMate.app,0.944363
+1791979425.805835,chatgpt-front-static,4,Codex (Renderer),38.085402
+1791979425.805835,chatgpt-front-static,4,WattMate.app,0.631171
+1791979435.887834,chatgpt-front-static,4,Codex (Renderer),247.874766
+1791979435.887834,chatgpt-front-static,4,WattMate.app,11.952464
+1791979445.948546,chatgpt-front-static,4,Codex (Renderer),44.477836
+1791979445.948546,chatgpt-front-static,4,WattMate.app,9.994182
+1791979456.019490,chatgpt-front-static,4,Codex (Renderer),40.535379
+1791979456.019490,chatgpt-front-static,4,WattMate.app,0.762787
+1791979466.097239,chatgpt-front-static,4,Codex (Renderer),41.483336
+1791979466.097239,chatgpt-front-static,4,WattMate.app,14.573293
+1791979476.159079,chatgpt-front-static,4,Codex (Renderer),42.300440
+1791979476.159079,chatgpt-front-static,4,WattMate.app,1.129658
+1791979486.230588,chatgpt-front-static,4,Codex (Renderer),42.417617
+1791979486.230588,chatgpt-front-static,4,WattMate.app,0.799501
+1791979496.294310,chatgpt-front-static,4,Codex (Renderer),186.875761
+1791979496.294310,chatgpt-front-static,4,WattMate.app,65.972016
+1791979506.360289,chatgpt-front-static,4,Codex (Renderer),45.720458
+1791979506.360289,chatgpt-front-static,4,WattMate.app,2.857988
+1791979516.420140,chatgpt-front-static,4,Codex (Renderer),37.254785
+1791979516.420140,chatgpt-front-static,4,WattMate.app,1.161786
+1791979526.488391,chatgpt-front-static,4,Codex (Renderer),42.583806
+1791979526.488391,chatgpt-front-static,4,WattMate.app,12.267238
+1791979536.553375,chatgpt-front-static,4,Codex (Renderer),39.560076
+1791979536.553375,chatgpt-front-static,4,WattMate.app,1.105854
+1791979546.622463,chatgpt-front-static,4,Codex (Renderer),39.349043
+1791979546.622463,chatgpt-front-static,4,WattMate.app,0.609261
+1791979556.688693,chatgpt-front-static,4,Codex (Renderer),163.016703
+1791979556.688693,chatgpt-front-static,4,WattMate.app,29.451373
+1791979566.751251,chatgpt-front-static,4,Codex (Renderer),43.947348
+1791979566.751251,chatgpt-front-static,4,WattMate.app,0.959099
+1791979576.823819,chatgpt-front-static,4,Codex (Renderer),40.178325
+1791979576.823819,chatgpt-front-static,4,WattMate.app,1.752665
+1791979586.884528,chatgpt-front-static,4,Codex (Renderer),49.475977
+1791979586.884528,chatgpt-front-static,4,WattMate.app,90.208177
+1791979596.947903,chatgpt-front-static,4,Codex (Renderer),38.510147
+1791979596.947903,chatgpt-front-static,4,WattMate.app,1.220884
+1791979607.014542,chatgpt-front-static,4,Codex (Renderer),42.066888
+1791979607.014542,chatgpt-front-static,4,WattMate.app,0.618752
+1791979617.092450,chatgpt-front-static,4,Codex (Renderer),1108.722859
+1791979617.092450,chatgpt-front-static,4,WattMate.app,17.253041
+1791979627.170562,chatgpt-front-static,4,Codex (Renderer),47.275895
+1791979627.170562,chatgpt-front-static,4,WattMate.app,1.025994
+1791979637.257054,chatgpt-front-static,4,Codex (Renderer),44.817366
+1791979637.257054,chatgpt-front-static,4,WattMate.app,2.982450
+1791979647.361379,chatgpt-front-static,4,Codex (Renderer),46.810807
+1791979647.361379,chatgpt-front-static,4,WattMate.app,13.731838
+1791979657.466346,chatgpt-front-static,4,Codex (Renderer),37.375914
+1791979657.466346,chatgpt-front-static,4,WattMate.app,0.708139
+1791979667.573220,chatgpt-front-static,4,Codex (Renderer),40.717160
+1791979667.573220,chatgpt-front-static,4,WattMate.app,0.601667
+1791979677.680779,chatgpt-front-static,4,Codex (Renderer),185.831563
+1791979677.680779,chatgpt-front-static,4,WattMate.app,69.090181
+1791979687.771636,chatgpt-front-static,4,Codex (Renderer),44.809997
+1791979687.771636,chatgpt-front-static,4,WattMate.app,1.019212
+1791979697.879957,chatgpt-front-static,4,Codex (Renderer),39.862579
+1791979697.879957,chatgpt-front-static,4,WattMate.app,0.584343
+1791979707.973302,chatgpt-front-static,4,Codex (Renderer),40.413031
+1791979707.973302,chatgpt-front-static,4,WattMate.app,12.216493
+1791979718.055961,chatgpt-front-static,4,Codex (Renderer),34.223967
+1791979718.055961,chatgpt-front-static,4,WattMate.app,0.128498
+1791979728.161158,chatgpt-front-static,4,Codex (Renderer),40.021839
+1791979728.161158,chatgpt-front-static,4,WattMate.app,0.742648
+1791979738.271247,chatgpt-front-static,4,Codex (Renderer),168.458124
+1791979738.271247,chatgpt-front-static,4,WattMate.app,1.120723
+1791979748.369200,chatgpt-front-static,4,Codex (Renderer),45.915548
+1791979748.369200,chatgpt-front-static,4,WattMate.app,12.886134
+1791979758.468997,chatgpt-front-static,4,Codex (Renderer),39.345633
+1791979758.468997,chatgpt-front-static,4,WattMate.app,0.733710
+1791979768.576481,chatgpt-front-static,4,Codex (Renderer),41.723037
+1791979768.576481,chatgpt-front-static,4,WattMate.app,0.556457
+1791979778.684668,chatgpt-front-static,4,Codex (Renderer),38.514613
+1791979778.684668,chatgpt-front-static,4,WattMate.app,79.832051
+1791979788.793899,chatgpt-front-static,4,Codex (Renderer),40.357651
+1791979788.793899,chatgpt-front-static,4,WattMate.app,5.220835
+1791979798.887971,chatgpt-front-static,4,Codex (Renderer),143.259644
+1791979798.887971,chatgpt-front-static,4,WattMate.app,0.637847
+1791979808.967531,chatgpt-front-static,4,Codex (Renderer),48.939456
+1791979808.967531,chatgpt-front-static,4,WattMate.app,12.748906
+1791979819.063671,chatgpt-front-static,4,Codex (Renderer),38.037867
+1791979819.063671,chatgpt-front-static,4,WattMate.app,0.636255
+1791979829.166430,chatgpt-front-static,4,Codex (Renderer),39.953575
+1791979829.166430,chatgpt-front-static,4,WattMate.app,0.543180
+1791979839.269261,chatgpt-front-static,4,Codex (Renderer),34.961244
+1791979839.269261,chatgpt-front-static,4,WattMate.app,64.797631
+1791979849.368034,chatgpt-front-static,4,Codex (Renderer),39.231154
+1791979849.368034,chatgpt-front-static,4,WattMate.app,3.044200
+1791979859.451208,chatgpt-front-static,4,Codex (Renderer),185.937953
+1791979859.451208,chatgpt-front-static,4,WattMate.app,0.578709
+1791979869.548547,chatgpt-front-static,4,Codex (Renderer),42.917067
+1791979869.548547,chatgpt-front-static,4,WattMate.app,12.677263
+1791979879.656063,chatgpt-front-static,4,Codex (Renderer),34.518639
+1791979879.656063,chatgpt-front-static,4,WattMate.app,0.704118
+1791979889.760739,chatgpt-front-static,4,Codex (Renderer),40.167894
+1791979889.760739,chatgpt-front-static,4,WattMate.app,0.563991
+1791979899.880008,chatgpt-front-static,4,Codex (Renderer),34.924566
+1791979899.880008,chatgpt-front-static,4,WattMate.app,0.081247
+1791979909.961909,chatgpt-front-static,4,Codex (Renderer),40.386252
+1791979909.961909,chatgpt-front-static,4,WattMate.app,12.404430
+1791979920.072710,chatgpt-front-static,4,Codex (Renderer),1152.623525
+1791979920.072710,chatgpt-front-static,4,WattMate.app,0.833301
+1791979930.176190,chatgpt-front-static,4,Codex (Renderer),59.132526
+1791979930.176190,chatgpt-front-static,4,WattMate.app,0.579259
+1791979940.289309,chatgpt-front-static,4,Codex (Renderer),38.050493
+1791979940.289309,chatgpt-front-static,4,WattMate.app,63.864663
+1791979950.396081,chatgpt-front-static,4,Codex (Renderer),42.078299
+1791979950.396081,chatgpt-front-static,4,WattMate.app,0.639602
+1791979960.488532,chatgpt-front-static,4,Codex (Renderer),37.077378
+1791979960.488532,chatgpt-front-static,4,WattMate.app,16.226231
+1791979970.595575,chatgpt-front-static,4,Codex (Renderer),37.367164
+1791979970.595575,chatgpt-front-static,4,WattMate.app,0.574120
+1791979980.699968,chatgpt-front-static,4,Codex (Renderer),166.509233
+1791979980.699968,chatgpt-front-static,4,WattMate.app,1.665376
+1791979990.805887,chatgpt-front-static,4,Codex (Renderer),39.092340
+1791979990.805887,chatgpt-front-static,4,WattMate.app,13.012892
+1791980000.913385,chatgpt-front-static,4,Codex (Renderer),36.729607
+1791980000.913385,chatgpt-front-static,4,WattMate.app,0.100270
+1791980011.010287,chatgpt-front-static,4,Codex (Renderer),42.910287
+1791980011.010287,chatgpt-front-static,4,WattMate.app,4.003706
+1791980021.134182,chatgpt-front-static,4,Codex (Renderer),39.406823
+1791980021.134182,chatgpt-front-static,4,WattMate.app,0.136891
+1791980031.228931,chatgpt-front-static,4,Codex (Renderer),41.996020
+1791980031.228931,chatgpt-front-static,4,WattMate.app,81.027231
+1791980041.308333,chatgpt-front-static,4,Codex (Renderer),148.165297
+1791980041.308333,chatgpt-front-static,4,WattMate.app,0.509059
+1791980051.414412,chatgpt-front-static,4,Codex (Renderer),41.148726
+1791980051.414412,chatgpt-front-static,4,WattMate.app,0.615239
+1791980061.499467,chatgpt-front-static,4,Codex (Renderer),43.773350
+1791980061.499467,chatgpt-front-static,4,WattMate.app,12.324631
+1791980071.605084,chatgpt-front-static,4,Codex (Renderer),34.063126
+1791980071.605084,chatgpt-front-static,4,WattMate.app,4.487620
+1791980081.718017,chatgpt-front-static,4,Codex (Renderer),35.616970
+1791980081.718017,chatgpt-front-static,4,WattMate.app,0.798430
+1791980091.813872,chatgpt-front-static,4,Codex (Renderer),43.196415
+1791980091.813872,chatgpt-front-static,4,WattMate.app,12.923301
+1791980101.932905,chatgpt-front-static,4,Codex (Renderer),125.150427
+1791980101.932905,chatgpt-front-static,4,WattMate.app,0.567053
+1791980112.034893,chatgpt-front-static,4,Codex (Renderer),40.955679
+1791980112.034893,chatgpt-front-static,4,WattMate.app,0.665202
+1791980122.122142,chatgpt-front-static,4,Codex (Renderer),43.732044
+1791980122.122142,chatgpt-front-static,4,WattMate.app,66.021014
+1791980132.217526,chatgpt-front-static,4,Codex (Renderer),37.204008
+1791980132.217526,chatgpt-front-static,4,WattMate.app,2.370985
+1791980142.318512,chatgpt-front-static,4,Codex (Renderer),36.619517
+1791980142.318512,chatgpt-front-static,4,WattMate.app,0.674137
+1791980152.405654,chatgpt-front-static,4,Codex (Renderer),40.351898
+1791980152.405654,chatgpt-front-static,4,WattMate.app,12.518706
+1791980162.513924,chatgpt-front-static,4,Codex (Renderer),142.986778
+1791980162.513924,chatgpt-front-static,4,WattMate.app,0.572686
+1791980172.626223,chatgpt-front-static,4,Codex (Renderer),44.304512
+1791980172.626223,chatgpt-front-static,4,WattMate.app,0.094983
+1791980182.708594,chatgpt-front-static,4,Codex (Renderer),43.186650
+1791980182.708594,chatgpt-front-static,4,WattMate.app,0.696718
+1791980192.826504,chatgpt-front-static,4,Codex (Renderer),37.527294
+1791980192.826504,chatgpt-front-static,4,WattMate.app,18.662074
+1791980202.923822,chatgpt-front-static,4,Codex (Renderer),33.691729
+1791980202.923822,chatgpt-front-static,4,WattMate.app,0.566748
+1791980213.022136,chatgpt-front-static,4,Codex (Renderer),39.822799
+1791980213.022136,chatgpt-front-static,4,WattMate.app,0.862706
+1791980223.129442,chatgpt-front-static,4,Codex (Renderer),153.376732
+1791980223.129442,chatgpt-front-static,4,WattMate.app,81.578139
+1791980233.241635,chatgpt-front-static,4,Codex (Renderer),46.865725
+1791980233.241635,chatgpt-front-static,4,WattMate.app,0.933479
+1791980243.333699,chatgpt-front-static,4,Codex (Renderer),41.490422
+1791980243.333699,chatgpt-front-static,4,WattMate.app,2.624760
+1791980253.427886,chatgpt-front-static,4,Codex (Renderer),36.432833
+1791980253.427886,chatgpt-front-static,4,WattMate.app,16.529213
+1791980263.511711,chatgpt-front-static,4,Codex (Renderer),36.611390
+1791980263.511711,chatgpt-front-static,4,WattMate.app,0.573004
+1791980273.592394,chatgpt-front-static,4,Codex (Renderer),44.021796
+1791980273.592394,chatgpt-front-static,4,WattMate.app,0.938921
+1791980283.697113,chatgpt-front-static,4,Codex (Renderer),1014.505208
+1791980283.697113,chatgpt-front-static,4,WattMate.app,67.379161
+1791980293.800704,chatgpt-front-static,4,Codex (Renderer),43.453345
+1791980293.800704,chatgpt-front-static,4,WattMate.app,1.115516
+1791980303.907194,chatgpt-front-static,4,Codex (Renderer),42.546691
+1791980303.907194,chatgpt-front-static,4,WattMate.app,2.977076
+1791980314.010666,chatgpt-front-static,4,Codex (Renderer),36.258361
+1791980314.010666,chatgpt-front-static,4,WattMate.app,0.883492
+1791980324.102472,chatgpt-front-static,4,Codex (Renderer),33.884327
+1791980324.102472,chatgpt-front-static,4,WattMate.app,12.560587
+1791980334.215207,chatgpt-front-static,4,Codex (Renderer),40.003637
+1791980334.215207,chatgpt-front-static,4,WattMate.app,0.972820
+1791980344.313826,chatgpt-front-static,4,Codex (Renderer),156.971398
+1791980344.313826,chatgpt-front-static,4,WattMate.app,0.688804
+1791980354.390794,chatgpt-front-static,4,Codex (Renderer),41.295559
+1791980354.390794,chatgpt-front-static,4,WattMate.app,14.312271
+1791980364.475749,chatgpt-front-static,4,Codex (Renderer),39.199503
+1791980364.475749,chatgpt-front-static,4,WattMate.app,0.557383
+1791980374.574476,chatgpt-front-static,4,Codex (Renderer),34.345369
+1791980374.574476,chatgpt-front-static,4,WattMate.app,0.725812
+1791980384.685833,chatgpt-front-static,4,Codex (Renderer),35.038340
+1791980384.685833,chatgpt-front-static,4,WattMate.app,63.607001
+1791980394.797497,chatgpt-front-static,4,Codex (Renderer),149.795420
+1791980394.797497,chatgpt-front-static,4,WattMate.app,0.570309
+1791980404.886453,chatgpt-front-static,4,Codex (Renderer),48.732999
+1791980404.886453,chatgpt-front-static,4,WattMate.app,0.730981
+1791980414.975716,chatgpt-front-static,4,Codex (Renderer),40.751014
+1791980414.975716,chatgpt-front-static,4,WattMate.app,17.708272
+1791980425.084770,chatgpt-front-static,4,Codex (Renderer),41.891439
+1791980425.084770,chatgpt-front-static,4,WattMate.app,2.206679
+1791980435.173930,chatgpt-front-static,4,Codex (Renderer),34.139506
+1791980435.173930,chatgpt-front-static,4,WattMate.app,0.738265
+1791980445.282342,chatgpt-front-static,4,Codex (Renderer),37.409152
+1791980445.282342,chatgpt-front-static,4,WattMate.app,12.778428
+1791980455.393919,chatgpt-front-static,4,Codex (Renderer),128.484577
+1791980455.393919,chatgpt-front-static,4,WattMate.app,1.043472
+1791980465.496230,chatgpt-front-static,4,Codex (Renderer),37.930935
+1791980465.496230,chatgpt-front-static,4,WattMate.app,0.131598
+1791980475.580059,chatgpt-front-static,4,Codex (Renderer),46.331230
+1791980475.580059,chatgpt-front-static,4,WattMate.app,5.568131
+1791980485.680151,chatgpt-front-static,4,Codex (Renderer),39.033302
+1791980485.680151,chatgpt-front-static,4,WattMate.app,82.672632
+1791980495.790834,chatgpt-front-static,4,Codex (Renderer),37.294750
+1791980495.790834,chatgpt-front-static,4,WattMate.app,0.752209
+1791980505.895648,chatgpt-front-static,4,Codex (Renderer),36.266827
+1791980505.895648,chatgpt-front-static,4,WattMate.app,0.746333
+1791980515.997937,chatgpt-front-static,4,Codex (Renderer),160.422581
+1791980515.997937,chatgpt-front-static,4,WattMate.app,18.125053
+1791980526.122216,chatgpt-front-static,4,Codex (Renderer),44.310304
+1791980526.122216,chatgpt-front-static,4,WattMate.app,0.767376
+1791980536.218690,chatgpt-front-static,4,Codex (Renderer),39.654845
+1791980536.218690,chatgpt-front-static,4,WattMate.app,4.659996
+1791980546.309850,chatgpt-front-static,4,Codex (Renderer),41.970016
+1791980546.309850,chatgpt-front-static,4,WattMate.app,12.816178
+1791980556.408568,chatgpt-front-static,4,Codex (Renderer),36.156410
+1791980556.408568,chatgpt-front-static,4,WattMate.app,0.821731
+1791980566.502379,chatgpt-front-static,4,Codex (Renderer),36.089184
+1791980566.502379,chatgpt-front-static,4,WattMate.app,0.665332
+1791980576.614960,chatgpt-front-static,4,Codex (Renderer),1016.257890
+1791980576.614960,chatgpt-front-static,4,WattMate.app,69.440494
+1791980586.706958,chatgpt-front-static,4,Codex (Renderer),38.723114
+1791980586.706958,chatgpt-front-static,4,WattMate.app,0.638213
+1791980596.811673,chatgpt-front-static,4,Codex (Renderer),40.533540
+1791980596.811673,chatgpt-front-static,4,WattMate.app,3.147258
+1791980606.914693,chatgpt-front-static,4,Codex (Renderer),40.421052
+1791980606.914693,chatgpt-front-static,4,WattMate.app,12.715800
+1791980617.008651,chatgpt-front-static,4,Codex (Renderer),37.621736
+1791980617.008651,chatgpt-front-static,4,WattMate.app,0.584556
+1791980627.108981,chatgpt-front-static,4,Codex (Renderer),36.976311
+1791980627.108981,chatgpt-front-static,4,WattMate.app,0.934058
+1791980637.202414,chatgpt-front-static,4,Codex (Renderer),147.165394
+1791980637.202414,chatgpt-front-static,4,WattMate.app,0.098016
+1791980647.317164,chatgpt-front-static,4,Codex (Renderer),41.606625
+1791980647.317164,chatgpt-front-static,4,WattMate.app,12.374709
+1791980657.429195,chatgpt-front-static,4,Codex (Renderer),48.613536
+1791980657.429195,chatgpt-front-static,4,WattMate.app,0.587262
+1791980667.517292,chatgpt-front-static,4,Codex (Renderer),40.969359
+1791980667.517292,chatgpt-front-static,4,WattMate.app,0.851812
+1791980677.621389,chatgpt-front-static,4,Codex (Renderer),36.614185
+1791980677.621389,chatgpt-front-static,4,WattMate.app,82.872572
+1791980687.724865,chatgpt-front-static,4,Codex (Renderer),37.460831
+1791980687.724865,chatgpt-front-static,4,WattMate.app,0.667602
+1791980697.833707,chatgpt-front-static,4,Codex (Renderer),158.760359
+1791980697.833707,chatgpt-front-static,4,WattMate.app,0.834825
+1791980707.935121,chatgpt-front-static,4,Codex (Renderer),41.071527
+1791980707.935121,chatgpt-front-static,4,WattMate.app,12.890360
+1791980718.031841,chatgpt-front-static,4,Codex (Renderer),42.419276
+1791980718.031841,chatgpt-front-static,4,WattMate.app,4.824955
+1791980728.126293,chatgpt-front-static,4,Codex (Renderer),39.300076
+1791980728.126293,chatgpt-front-static,4,WattMate.app,0.824967
+1791980738.221163,chatgpt-front-static,4,Codex (Renderer),36.185055
+1791980738.221163,chatgpt-front-static,4,WattMate.app,63.193898
+1791980748.321790,chatgpt-front-static,4,Codex (Renderer),36.917480
+1791980748.321790,chatgpt-front-static,4,WattMate.app,0.689650
+1791980758.438925,chatgpt-front-static,4,Codex (Renderer),135.010525
+1791980758.438925,chatgpt-front-static,4,WattMate.app,0.745961
+1791980768.546779,chatgpt-front-static,4,Codex (Renderer),40.865168
+1791980768.546779,chatgpt-front-static,4,WattMate.app,12.252975
+1791980778.651325,chatgpt-front-static,4,Codex (Renderer),40.408164
+1791980778.651325,chatgpt-front-static,4,WattMate.app,2.661331
+1791980788.751250,chatgpt-front-static,4,Codex (Renderer),41.691816
+1791980788.751250,chatgpt-front-static,4,WattMate.app,0.746979
+1791980798.860316,chatgpt-front-static,4,Codex (Renderer),37.223471
+1791980798.860316,chatgpt-front-static,4,WattMate.app,16.271935
+1791980808.963211,chatgpt-front-static,4,Codex (Renderer),38.408713
+1791980808.963211,chatgpt-front-static,4,WattMate.app,0.586409
+1791980819.071936,chatgpt-front-static,4,Codex (Renderer),1020.238000
+1791980819.071936,chatgpt-front-static,4,WattMate.app,0.685518
+1791980829.163202,chatgpt-front-static,4,Codex (Renderer),43.128222
+1791980829.163202,chatgpt-front-static,4,WattMate.app,76.848961
+1791980839.253643,chatgpt-front-static,4,Codex (Renderer),46.378261
+1791980839.253643,chatgpt-front-static,4,WattMate.app,0.128678
+1791980849.361026,chatgpt-front-static,4,Codex (Renderer),40.864157
+1791980849.361026,chatgpt-front-static,4,WattMate.app,0.652291
+1791980859.470072,chatgpt-front-static,4,Codex (Renderer),37.780566
+1791980859.470072,chatgpt-front-static,4,WattMate.app,0.733329
+1791980869.578183,chatgpt-front-static,4,Codex (Renderer),38.262932
+1791980869.578183,chatgpt-front-static,4,WattMate.app,12.299894
+1791980879.682441,chatgpt-front-static,4,Codex (Renderer),135.374052
+1791980879.682441,chatgpt-front-static,4,WattMate.app,0.838720
+1791980889.786797,chatgpt-front-static,4,Codex (Renderer),39.940980
+1791980889.786797,chatgpt-front-static,4,WattMate.app,0.644213
+1791980899.890260,chatgpt-front-static,4,Codex (Renderer),49.710227
+1791980899.890260,chatgpt-front-static,4,WattMate.app,12.618876
+1791980910.004962,chatgpt-front-static,4,Codex (Renderer),41.964718
+1791980910.004962,chatgpt-front-static,4,WattMate.app,0.664937
+1791980920.107742,chatgpt-front-static,4,Codex (Renderer),35.943354
+1791980920.107742,chatgpt-front-static,4,WattMate.app,0.822217
+1791980930.215598,chatgpt-front-static,4,Codex (Renderer),35.075309
+1791980930.215598,chatgpt-front-static,4,WattMate.app,84.827056
+1791980940.314773,chatgpt-front-static,4,Codex (Renderer),157.522412
+1791980940.314773,chatgpt-front-static,4,WattMate.app,0.565144
+1791980950.424426,chatgpt-front-static,4,Codex (Renderer),37.555114
+1791980950.424426,chatgpt-front-static,4,WattMate.app,5.159619
+1791980960.519859,chatgpt-front-static,4,Codex (Renderer),44.310054
+1791980960.519859,chatgpt-front-static,4,WattMate.app,12.510914
+1791980970.628523,chatgpt-front-static,4,Codex (Renderer),40.514259
+1791980970.628523,chatgpt-front-static,4,WattMate.app,0.104501
+1791980980.724270,chatgpt-front-static,4,Codex (Renderer),35.745182
+1791980980.724270,chatgpt-front-static,4,WattMate.app,0.721260
+1791980990.833961,chatgpt-front-static,4,Codex (Renderer),35.386557
+1791980990.833961,chatgpt-front-static,4,WattMate.app,0.612971
+1791981000.923798,chatgpt-front-static,4,Codex (Renderer),138.808351
+1791981000.923798,chatgpt-front-static,4,WattMate.app,12.638134
+1791981011.023964,chatgpt-front-static,4,Codex (Renderer),40.633143
+1791981011.023964,chatgpt-front-static,4,WattMate.app,2.896006
+1791981021.135581,chatgpt-front-static,4,Codex (Renderer),42.741801
+1791981021.135581,chatgpt-front-static,4,WattMate.app,0.774156
+1791981031.236397,chatgpt-front-static,4,Codex (Renderer),38.254583
+1791981031.236397,chatgpt-front-static,4,WattMate.app,69.976329
+1791981041.332642,chatgpt-front-static,4,Codex (Renderer),35.415319
+1791981041.332642,chatgpt-front-static,4,WattMate.app,0.586716
+1791981051.430124,chatgpt-front-static,4,Codex (Renderer),38.578705
+1791981051.430124,chatgpt-front-static,4,WattMate.app,0.690053
+1791981061.510932,chatgpt-front-static,4,Codex (Renderer),1000.975634
+1791981061.510932,chatgpt-front-static,4,WattMate.app,12.414380
+1791981071.623486,chatgpt-front-static,4,Codex (Renderer),39.964163
+1791981071.623486,chatgpt-front-static,4,WattMate.app,3.246278
+1791981081.722286,chatgpt-front-static,4,Codex (Renderer),48.037740
+1791981081.722286,chatgpt-front-static,4,WattMate.app,2.143234
+1791981091.828376,chatgpt-front-static,4,Codex (Renderer),38.742383
+1791981091.828376,chatgpt-front-static,4,WattMate.app,62.653096
+1791981101.931737,chatgpt-front-static,4,Codex (Renderer),36.325542
+1791981101.931737,chatgpt-front-static,4,WattMate.app,0.565793
+1791981112.031905,chatgpt-front-static,4,Codex (Renderer),41.700191
+1791981112.031905,chatgpt-front-static,4,WattMate.app,0.710563
+1791981122.132356,chatgpt-front-static,4,Codex (Renderer),147.459790
+1791981122.132356,chatgpt-front-static,4,WattMate.app,11.971131
+1791981132.230217,chatgpt-front-static,4,Codex (Renderer),51.207378
+1791981132.230217,chatgpt-front-static,4,WattMate.app,2.652071
+1791981142.324649,chatgpt-front-static,4,Codex (Renderer),43.994727
+1791981142.324649,chatgpt-front-static,4,WattMate.app,0.088868
+1791981152.443400,chatgpt-front-static,4,Codex (Renderer),37.399855
+1791981152.443400,chatgpt-front-static,4,WattMate.app,0.717512
+1791981162.539797,chatgpt-front-static,4,Codex (Renderer),38.354136
+1791981162.539797,chatgpt-front-static,4,WattMate.app,12.496713
+1791981172.642989,chatgpt-front-static,4,Codex (Renderer),40.935589
+1791981172.642989,chatgpt-front-static,4,WattMate.app,0.721354
+1791981182.724658,chatgpt-front-static,4,Codex (Renderer),174.205413
+1791981182.724658,chatgpt-front-static,4,WattMate.app,5.892824
+1791981192.830554,chatgpt-front-static,4,Codex (Renderer),40.218419
+1791981192.830554,chatgpt-front-static,4,WattMate.app,77.429994
+1791981202.916372,chatgpt-front-static,4,Codex (Renderer),46.291164
+1791981202.916372,chatgpt-front-static,4,WattMate.app,0.554434
+1791981213.006521,chatgpt-front-static,4,Codex (Renderer),40.711144
+1791981213.006521,chatgpt-front-static,4,WattMate.app,0.715357
+1791981223.125287,chatgpt-front-static,4,Codex (Renderer),109.686597
+1791981223.125287,chatgpt-front-static,4,WattMate.app,12.017245
+1791981233.218714,chatgpt-front-static,4,Codex (Renderer),39.968669
+1791981233.218714,chatgpt-front-static,4,WattMate.app,2.555467
+1791981243.330524,chatgpt-front-static,4,Codex (Renderer),1018.651482
+1791981243.330524,chatgpt-front-static,4,WattMate.app,0.896484
+1791981253.415716,chatgpt-front-static,4,Codex (Renderer),43.071241
+1791981253.415716,chatgpt-front-static,4,WattMate.app,12.556086
+1791981263.513987,chatgpt-front-static,4,Codex (Renderer),47.477539
+1791981263.513987,chatgpt-front-static,4,WattMate.app,0.583680
+1791981273.618401,chatgpt-front-static,4,Codex (Renderer),36.026288
+1791981273.618401,chatgpt-front-static,4,WattMate.app,0.634948
+1791981283.718544,chatgpt-front-static,4,Codex (Renderer),42.680751
+1791981283.718544,chatgpt-front-static,4,WattMate.app,48.964644
+1791981293.825548,chatgpt-front-static,4,Codex (Renderer),44.570037
+1791981293.825548,chatgpt-front-static,4,WattMate.app,48.195134
+1791981303.922574,chatgpt-front-static,4,Codex (Renderer),153.169565
+1791981303.922574,chatgpt-front-static,4,WattMate.app,0.586752
+1791981314.001909,chatgpt-front-static,4,Codex (Renderer),41.407087
+1791981314.001909,chatgpt-front-static,4,WattMate.app,1.392985
+1791981324.090299,chatgpt-front-static,4,Codex (Renderer),47.662268
+1791981324.090299,chatgpt-front-static,4,WattMate.app,12.145409
+1791981334.182477,chatgpt-front-static,4,Codex (Renderer),40.932594
+1791981334.182477,chatgpt-front-static,4,WattMate.app,0.682061
+1791981344.276607,chatgpt-front-static,4,Codex (Renderer),38.335820
+1791981344.276607,chatgpt-front-static,4,WattMate.app,0.715976
+1791981354.378309,chatgpt-front-static,4,Codex (Renderer),43.443778
+1791981354.378309,chatgpt-front-static,4,WattMate.app,16.691469
+1791981364.470849,chatgpt-front-static,4,Codex (Renderer),0.000000
+1791981364.470849,chatgpt-front-static,4,WattMate.app,25.044364
+1791981374.571317,chatgpt-front-static,4,Codex (Renderer),0.000000
+1791981374.571317,chatgpt-front-static,4,WattMate.app,2.251103
+1791981384.651798,chatgpt-front-static,4,Codex (Renderer),0.000000
+1791981384.651798,chatgpt-front-static,4,WattMate.app,78.768005
+1791981404.840276,control,5,WattMate.app,0.614444
+1791981414.944102,control,5,WattMate.app,23.981279
+1791981425.057336,control,5,WattMate.app,0.546982
+1791981435.138433,control,5,WattMate.app,0.732795
+1791981445.241094,control,5,WattMate.app,11.257862
+1791981455.326535,control,5,WattMate.app,8.549940
+1791981465.433178,control,5,WattMate.app,0.582969
+1791981475.530957,control,5,WattMate.app,1.001152
+1791981485.609977,control,5,WattMate.app,65.936125
+1791981495.715506,control,5,WattMate.app,0.543955
+1791981505.815942,control,5,WattMate.app,0.711307
+1791981515.915750,control,5,WattMate.app,13.368951
+1791981526.015836,control,5,WattMate.app,0.646295
+1791981536.097920,control,5,WattMate.app,0.727676
+1791981546.173454,control,5,WattMate.app,72.074338
+1791981556.258786,control,5,WattMate.app,0.545434
+1791981566.366106,control,5,WattMate.app,0.604781
+1791981576.470743,control,5,WattMate.app,14.023001
+1791981586.571676,control,5,WattMate.app,0.535650
+1791981596.666003,control,5,WattMate.app,0.722367
+1791981606.754255,control,5,WattMate.app,11.999901
+1791981616.840154,control,5,WattMate.app,0.543490
+1791981626.949009,control,5,WattMate.app,0.388145
+1791981637.055551,control,5,WattMate.app,142.308798
+1791981647.150858,control,5,WattMate.app,0.566195
+1791981657.241473,control,5,WattMate.app,0.490637
+1791981667.326311,control,5,WattMate.app,1.111348
+1791981677.410602,control,5,WattMate.app,12.667592
+1791981687.514360,control,5,WattMate.app,0.529957
+1791981697.615245,control,5,WattMate.app,3.511571
+1791981707.721631,control,5,WattMate.app,12.081027
+1791981717.820972,control,5,WattMate.app,0.528232
+1791981727.910044,control,5,WattMate.app,0.735402
+1791981737.997355,control,5,WattMate.app,77.212250
+1791981748.074699,control,5,WattMate.app,0.515944
+1791981758.177588,control,5,WattMate.app,0.743287
+1791981768.286378,control,5,WattMate.app,11.371527
+1791981778.380737,control,5,WattMate.app,0.197254
+1791981788.489375,control,5,WattMate.app,0.549574
+1791981798.589418,control,5,WattMate.app,5.312344
+1791981808.687301,control,5,WattMate.app,11.450398
+1791981818.795971,control,5,WattMate.app,0.532201
+1791981828.868950,control,5,WattMate.app,0.671657
+1791981838.953781,control,5,WattMate.app,90.441098
+1791981849.061536,control,5,WattMate.app,0.557399
+1791981859.165660,control,5,WattMate.app,3.489369
+1791981869.256187,control,5,WattMate.app,12.296214
+1791981879.366187,control,5,WattMate.app,0.530637
+1791981889.474295,control,5,WattMate.app,0.670592
+1791981899.556405,control,5,WattMate.app,10.451736
+1791981909.668737,control,5,WattMate.app,2.351504
+1791981919.759890,control,5,WattMate.app,0.755951
+1791981929.852577,control,5,WattMate.app,71.807914
+1791981939.956822,control,5,WattMate.app,0.069444
+1791981950.051227,control,5,WattMate.app,0.530645
+1791981960.150156,control,5,WattMate.app,0.658930
+1791981970.225969,control,5,WattMate.app,13.513737
+1791981980.302741,control,5,WattMate.app,0.544423
+1791981990.409185,control,5,WattMate.app,0.745542
+1791982000.508596,control,5,WattMate.app,74.854237
+1791982010.609319,control,5,WattMate.app,0.529679
+1791982020.711154,control,5,WattMate.app,7.682779
+1791982030.810197,control,5,WattMate.app,16.312490
+1791982040.897468,control,5,WattMate.app,0.568684
+1791982050.993735,control,5,WattMate.app,0.652408
+1791982061.068556,control,5,WattMate.app,11.251259
+1791982071.176728,control,5,WattMate.app,0.641471
+1791982081.278007,control,5,WattMate.app,4.123745
+1791982091.381083,control,5,WattMate.app,94.155057
+1791982101.482719,control,5,WattMate.app,0.075078
+1791982111.571916,control,5,WattMate.app,0.525252
+1791982121.654323,control,5,WattMate.app,0.656175
+1791982131.769166,control,5,WattMate.app,11.512553
+1791982141.848750,control,5,WattMate.app,2.565053
+1791982151.965531,control,5,WattMate.app,0.723828
+1791982162.056905,control,5,WattMate.app,12.232533
+1791982172.147029,control,5,WattMate.app,0.536221
+1791982182.213766,control,5,WattMate.app,0.750549
+1791982192.305016,control,5,WattMate.app,68.851019
+1791982202.409718,control,5,WattMate.app,2.857732
+1791982212.523352,control,5,WattMate.app,0.752319
+1791982222.627154,control,5,WattMate.app,12.827593
+1791982232.730157,control,5,WattMate.app,0.643363
+1791982242.831410,control,5,WattMate.app,0.668868
+1791982252.914220,control,5,WattMate.app,12.077469
+1791982263.026205,control,5,WattMate.app,2.480414
+1791982273.115914,control,5,WattMate.app,0.742817
+1791982283.221830,control,5,WattMate.app,94.834098
+1791982293.329041,control,5,WattMate.app,0.080406
+1791982303.404644,control,5,WattMate.app,7.437487
+1791982313.504352,control,5,WattMate.app,0.726377
+1791982323.617013,control,5,WattMate.app,11.945671
+1791982333.690722,control,5,WattMate.app,0.537567
+1791982343.795004,control,5,WattMate.app,0.822285
+1791982353.891482,control,5,WattMate.app,11.296986
+1791982363.978586,control,5,WattMate.app,0.533615
+1791982374.079158,control,5,WattMate.app,0.854035
+1791982384.159250,control,5,WattMate.app,74.043431
+1791982394.261203,control,5,WattMate.app,0.516938
+1791982404.377663,control,5,WattMate.app,0.684022
+1791982414.462459,control,5,WattMate.app,11.343574
+1791982424.555986,control,5,WattMate.app,2.833454
+1791982434.639569,control,5,WattMate.app,0.719081
+1791982444.736605,control,5,WattMate.app,71.091444
+1791982454.796472,control,5,WattMate.app,0.626670
+1791982464.898002,control,5,WattMate.app,0.645893
+1791982474.985779,control,5,WattMate.app,11.423394
+1791982485.089071,control,5,WattMate.app,2.977411
+1791982495.193027,control,5,WattMate.app,0.081930
+1791982505.263244,control,5,WattMate.app,0.738119
+1791982515.364574,control,5,WattMate.app,11.928641
+1791982525.453636,control,5,WattMate.app,0.492233
+1791982535.540622,control,5,WattMate.app,0.708236
+1791982545.661870,control,5,WattMate.app,91.582507
+1791982555.769923,control,5,WattMate.app,0.808174
+1791982565.879471,control,5,WattMate.app,1.122909
+1791982575.964874,control,5,WattMate.app,11.642938
+1791982586.056992,control,5,WattMate.app,9.419885
+1791982596.148377,control,5,WattMate.app,0.758606
+1791982606.240871,control,5,WattMate.app,11.217167
+1791982616.337026,control,5,WattMate.app,0.565035
+1791982626.428104,control,5,WattMate.app,0.942472
+1791982636.507655,control,5,WattMate.app,100.809099
+1791982646.578169,control,5,WattMate.app,0.577588
+1791982656.672538,control,5,WattMate.app,0.081599
+1791982666.785274,control,5,WattMate.app,0.713867
+1791982676.886082,control,5,WattMate.app,11.731877
+1791982686.981971,control,5,WattMate.app,0.641414
+1791982697.060210,control,5,WattMate.app,15.728306
+1791982707.160737,control,5,WattMate.app,0.551469
+1791982717.265496,control,5,WattMate.app,0.545011
+1791982727.373385,control,5,WattMate.app,92.998690
+1791982737.475004,control,5,WattMate.app,0.665124
+1791982747.576445,control,5,WattMate.app,0.557241
+1791982757.674899,control,5,WattMate.app,25.769939
+1791982767.755888,control,5,WattMate.app,0.573501
+1791982777.834543,control,5,WattMate.app,0.521206
+1791982787.932685,control,5,WattMate.app,12.651685
+1791982798.037638,control,5,WattMate.app,0.077339
+1791982808.131084,control,5,WattMate.app,0.521766
+1791982818.222610,control,5,WattMate.app,76.878748
+1791982828.293326,control,5,WattMate.app,0.804170
+1791982838.378663,control,5,WattMate.app,0.532210
+1791982848.457901,control,5,WattMate.app,0.533298
+1791982858.532184,control,5,WattMate.app,12.341232
+1791982868.632423,control,5,WattMate.app,6.831384
+1791982878.710847,control,5,WattMate.app,0.535950
+1791982888.783083,control,5,WattMate.app,11.504952
+1791982898.880310,control,5,WattMate.app,0.550426
+1791982908.990147,control,5,WattMate.app,0.631811
+1791982919.058742,control,5,WattMate.app,97.449922
+1791982929.146208,control,5,WattMate.app,2.303331
+1791982939.248644,control,5,WattMate.app,0.558487
+1791982949.342014,control,5,WattMate.app,14.128216
+1791982959.444252,control,5,WattMate.app,0.642751
+1791982969.532718,control,5,WattMate.app,0.081761
+1791982979.613045,control,5,WattMate.app,21.062556
+1791982989.708922,control,5,WattMate.app,0.593135
+1791982999.826432,control,5,WattMate.app,0.542678
+1791983009.902310,control,5,WattMate.app,0.567012
+1791983019.991647,control,5,WattMate.app,81.094620
+1791983030.071797,control,5,WattMate.app,0.598153
+1791983040.158532,control,5,WattMate.app,2.235259
+1791983050.264304,control,5,WattMate.app,11.909772
+1791983060.371844,control,5,WattMate.app,0.528731
+1791983070.443606,control,5,WattMate.app,0.637556
+1791983080.531594,control,5,WattMate.app,74.499504
+1791983090.623285,control,5,WattMate.app,0.522925
+1791983100.721209,control,5,WattMate.app,3.630267
+1791983110.825175,control,5,WattMate.app,12.303515
+1791983120.933712,control,5,WattMate.app,0.622081
+1791983131.032308,control,5,WattMate.app,0.086769
+1791983141.134125,control,5,WattMate.app,36.018659
+1791983151.203671,control,5,WattMate.app,0.781709
+1791983161.292409,control,5,WattMate.app,0.593378
+1791983171.384043,control,5,WattMate.app,0.523133
+1791983181.471021,control,5,WattMate.app,100.129624
+1791983191.580774,control,5,WattMate.app,0.555169
+1791983201.661611,control,5,WattMate.app,0.526143
+1791983211.755891,control,5,WattMate.app,11.719187
+1791983221.845982,control,5,WattMate.app,0.561109
+1791983231.928105,control,5,WattMate.app,0.532463
+1791983242.014454,control,5,WattMate.app,15.087239
+1791983252.114238,control,5,WattMate.app,0.552017
+1791983262.218601,control,5,WattMate.app,2.683879
+1791983272.307245,control,5,WattMate.app,76.405877
+1791983282.401153,control,5,WattMate.app,0.548122
+1791983292.499405,control,5,WattMate.app,0.629241
+1791983302.599578,control,5,WattMate.app,11.442367
+1791983312.712859,control,5,WattMate.app,0.528216
+1791983322.796867,control,5,WattMate.app,2.826808
+1791983332.874025,control,5,WattMate.app,0.660141
+1791983342.980762,control,5,WattMate.app,12.803168
+1791983353.080704,control,5,WattMate.app,0.605452
+1791983363.177390,control,5,WattMate.app,0.520203
+1791983373.286258,control,5,WattMate.app,96.541592
+1791983383.379637,control,5,WattMate.app,2.152906
+1791983393.482742,control,5,WattMate.app,0.570613
+1791983403.579770,control,5,WattMate.app,12.306828
+1791983413.649258,control,5,WattMate.app,0.536404
+1791983423.733513,control,5,WattMate.app,3.490856
+1791983433.838199,control,5,WattMate.app,71.905391

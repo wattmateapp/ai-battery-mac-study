@@ -1,0 +1,38 @@
+{
+ "series": "20261008T163721Z-terminals",
+ "machine": "M1 Pro, macOS 27",
+ "used_by_page_sections": [
+  "terminals"
+ ],
+ "dropped_runs": [
+  {
+   "arm": "claude-idle-iterm",
+   "reason": "iTerm2 hung on a permission prompt; the empty-Ghostty run was spoiled by iTerm2 launching mid-run"
+  },
+  {
+   "arm": "claude-stream-iterm",
+   "reason": "iTerm2 hung on a permission prompt; the empty-Ghostty run was spoiled by iTerm2 launching mid-run"
+  },
+  {
+   "arm": "shell-ghostty",
+   "reason": "iTerm2 hung on a permission prompt; the empty-Ghostty run was spoiled by iTerm2 launching mid-run"
+  },
+  {
+   "arm": "shell-iterm",
+   "reason": "iTerm2 hung on a permission prompt; the empty-Ghostty run was spoiled by iTerm2 launching mid-run"
+  }
+ ],
+ "note": "Other dropped arms and prompts (Chrome and some Safari runs, two Cursor tasks) are marked in the note column of results/ai-battery-usage-mac.csv.",
+ "macos_build": [
+  "26A434"
+ ],
+ "battery": {
+  "cycles": [
+   1720
+  ],
+  "full_charge_capacity_mah": [
+   4432,
+   4466
+  ]
+ }
+}

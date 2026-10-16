@@ -1,0 +1,24 @@
+{
+ "series": "20261014T094238Z-window-vs-answer",
+ "machine": "M1 Pro, macOS 27",
+ "used_by_page_sections": [
+  "window-vs-answer"
+ ],
+ "dropped_runs": [],
+ "note": "Other dropped arms and prompts (Chrome and some Safari runs, two Cursor tasks) are marked in the note column of results/ai-battery-usage-mac.csv.",
+ "macos_build": [
+  "26A434"
+ ],
+ "battery": {
+  "cycles": [
+   1722
+  ],
+  "full_charge_capacity_mah": [
+   4433,
+   4436,
+   4437,
+   4439,
+   4443
+  ]
+ }
+}

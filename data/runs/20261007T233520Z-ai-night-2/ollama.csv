@@ -1,0 +1,3 @@
+model,answer,start,end,eval_count_tokens,eval_rate_tokens_per_s
+llama3.1:8b,loaded,1791416848,,,
+llama3.1:8b,serve,1791420933,,,
