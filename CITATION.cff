@@ -19,4 +19,5 @@ keywords:
   - ChatGPT
   - Claude Code
   - Ollama
-# version and date-released are set on the day of publication
+version: "1.0"
+date-released: 2026-10-16
