@@ -168,7 +168,7 @@ NOT_RECOMPUTED_ROWS = OrderedDict([("wattmate-database", 26), ("wattmate-series"
 # fail when one of them is changed, renamed, moved to another Mac or swapped for another.
 NOT_RECOMPUTED_COLUMNS = ("series", "stand", "power", "day", "run", "metric", "value", "note")
 NOT_RECOMPUTED_SHA256 = OrderedDict([
-    ("wattmate-database", "991f7caede2f899e2b123e64d995e5bc916a6e44d27275d36a214c95f8559fdb"),
+    ("wattmate-database", "ec11c5ff9b5789b60990f201d76fbd2dfd8c8a5aed16180d0f73749ea7fce6f5"),
     ("wattmate-series", "23db685464f972bea142b820e486ba8b195d4b4e084aeebaeff4bc71fab92a8f"),
     ("wattmate-release", "430e0db4858e89344d61b637faad3be712e766a124ebb6c690aa6e4d5a3e273c"),
 ])
@@ -200,14 +200,14 @@ CURSOR_UNTOUCHED = "file untouched after the task, probably a Cursor usage limit
 # Claude on the 60 Hz M1 answers cheaply (0.16-0.22 W per prompt in the app and in a tab alike), so on that
 # machine an "unsure" Claude prompt (0.15-0.25 W) is an answer. Used by the browsers note and the window summary.
 CHEAP_CLAUDE_MACHINE = "M1, macOS 26"
-# The author's working Mac (ABBA series of 13 and 14 October only); the results file names it so.
-AUTHORS_MAC = "M3 Max, macOS 27"
+# The M3 Max (ABBA series of 13 and 14 October only).
+M3_MAX = "M3 Max, macOS 27"
 
 # Rules the lab wrote down before the data (LAB_DESIGN 17.26, 17.28 to 17.30).
-# Bytes ChatGPT received after a prompt: answered / no answer. On the author's Mac ChatGPT receives about
+# Bytes ChatGPT received after a prompt: answered / no answer. On the M3 Max ChatGPT receives about
 # 68,664 bytes in 145 s with nothing asked, hence the higher bounds there.
 BYTES_YES, BYTES_NO_BELOW = 20000, 5000          # test Macs: >= yes, < no
-BYTES_YES_M3, BYTES_NO_AT_MOST_M3 = 110000, 80000  # author's Mac: >= yes, <= no
+BYTES_YES_M3, BYTES_NO_AT_MOST_M3 = 110000, 80000  # the M3 Max: >= yes, <= no
 # The evening repeat on the M1 of 14 October was judged also by ChatGPT's renderer and the GPU (17.29 lesson, 17.30).
 WVA_STRICT = {"20261014T145413Z-window-vs-answer"}
 # Reference of the reading: "front minus control" of the valid answering runs in front, 11 to 14 October, same Mac.
@@ -215,7 +215,7 @@ WVA_REF = {"M1 Pro, macOS 27": ["20261011T102709Z-minutes-battery", "20261012T10
                                 "20261013T131301Z-minutes-abba"],
            "M1, macOS 26": ["20261011T141657Z-minutes-battery"]}
 # Ollama series whose runs are long enough (30 min) for the charge counter.
-OLLAMA_COUNTER = {"20261013T130028Z-ollama-counter"}
+OLLAMA_COUNTER = {"20261013T130028Z-ollama-counter", "20261024T190730Z-m5-ollama-counter-m5"}
 ARM_LABELS = {"yes2": "two yes processes: plain CPU load, no window"}
 
 MARK_SHAKY = ("the two charge-counter readings (last tick before the boundaries, first tick after) differ by more "
@@ -258,7 +258,7 @@ def inum(s: str) -> Optional[int]:
 
 def stand_label(machine: str) -> str:
     """The machine as the results file's `stand` column names it."""
-    return machine + " (the author's working Mac)" if machine == AUTHORS_MAC else machine
+    return machine
 
 
 class Run:
@@ -363,7 +363,7 @@ class Series:
 
     @property
     def chip(self) -> Optional[Chip]:
-        """None for a series without powermetrics (the author's Mac)."""
+        """None for a series without powermetrics (the M3 Max and the MacBook Air M5)."""
         if self._chip is None and self.has("chip.csv"):
             self._chip = Chip(read_csv(self.path("chip.csv")))
         return self._chip
@@ -432,7 +432,13 @@ class Series:
     def power(self, runs: Optional[List[Run]] = None) -> str:
         """cable / battery from the power source of the ticks inside the measured windows."""
         runs = [r for r in (runs if runs is not None else self.runs) if "measure_end" in r.ev]
-        srcs = {tk.src for tk in self.ticks for r in runs if r["measure_start"] <= tk.t <= r["measure_end"]}
+        srcs = set()
+        for r in runs:
+            inside = [tk.src for tk in self.ticks if r["measure_start"] <= tk.t <= r["measure_end"]]
+            # A cable stretch between battery ticks is cut out of the run (cable_cut): the run stays on battery.
+            if inside and inside[0] == inside[-1] == "Battery":
+                inside = ["Battery"]
+            srcs.update(inside)
         if srcs == {"AC"}:
             return "cable"
         if srcs == {"Battery"}:
@@ -524,6 +530,27 @@ def whole_mac_watts(tk: Tick) -> Optional[float]:
     return load if 1.0 <= load <= 180.0 else None
 
 
+def cable_cut(ticks: List[Tick], t0: float, t1: float) -> Optional[Tuple[float, float]]:
+    """A stretch on the cable inside a battery run [t0, t1]: (the last battery tick before it, the first after),
+    or None. Such ticks are left out of the run (ABBA series only)."""
+    ac = [tk.t for tk in ticks if t0 <= tk.t <= t1 and tk.src not in ("", "Battery")]
+    if not ac:
+        return None
+    before = [tk.t for tk in ticks if tk.t < min(ac)]
+    later = [tk.t for tk in ticks if tk.t > max(ac)]
+    return (before[-1] if before else t0, later[0] if later else t1)
+
+
+def drain(g, read, t0: float, t1: float, cut) -> int:
+    """Charge-counter drain over [t0, t1], mAh; with a cable stretch, the two parts around it scaled to the run's
+    length and rounded."""
+    if not cut:
+        return read(g, t0)[1] - read(g, t1)[1]
+    c0, c1 = cut
+    d = (read(g, t0)[1] - read(g, c0)[1]) + (read(g, c1)[1] - read(g, t1)[1])
+    return round(d * (t1 - t0) / ((t1 - t0) - (c1 - c0)))
+
+
 def machine_mean(ticks: List[Tick], t0: float, t1: float) -> Optional[float]:
     vals = [w for w in (whole_mac_watts(tk) for tk in ticks if t0 <= tk.t <= t1) if w is not None]
     return sum(vals) / len(vals) if vals else None
@@ -579,7 +606,7 @@ def answer_bands(vals: List[float]) -> str:
 
 def byte_bands(s: Series, rows: List[List[str]]) -> Tuple[int, int, int]:
     """Answered / unsure / no answer by the bytes ChatGPT received after each judged prompt."""
-    if s.machine == AUTHORS_MAC:
+    if s.machine == M3_MAX:
         yes = sum(1 for r in rows if int(r[3]) >= BYTES_YES_M3)
         no = sum(1 for r in rows if int(r[3]) <= BYTES_NO_AT_MOST_M3)
     else:
@@ -609,7 +636,7 @@ def upward_steps(g, t_from: float = -1.0) -> List[Tuple[float, int]]:
 
 def list_text(xs) -> str:
     """A list of integers the way the lab prints one inside brackets."""
-    return ", ".join(str(x) for x in xs)
+    return ", ".join(str(x) for x in xs) or "none"
 
 
 # ---------------------------------------------------------------- output
@@ -759,11 +786,11 @@ def section_minutes() -> Section:
                 "Claude.app" if run.name.startswith("claude") else None
             appw = subject_watts(s, run, t0, t1, subject) if subject else None
             prompts = [r for r in prompts_all if run["arm_start"] - 1 <= int(r[-1]) <= t1]
-            audit = answer_bands([prompt_watts(chip, int(r[-1])) for r in prompts]) if prompts else None
+            audit = answer_bands([prompt_watts(chip, int(r[-1])) for r in prompts]) if prompts and chip else None
             done = len([x for x in tasks if run["arm_start"] - 1 <= int(x[2]) and int(x[3]) <= t1]) \
                 if run.name.endswith("-loop-task") else None
             rows.append((run, mah, mah * volts / 1000 / ((t1 - t0) / 3600), machine_mean(s.ticks, t0, t1),
-                         chip.split(t0, t1), appw, audit, a2[1] - b2[1], volts, done))
+                         chip.split(t0, t1) if chip else (None, None), appw, audit, a2[1] - b2[1], volts, done))
         ctrl = [r for r in rows if r[0].name == "control"]
         cm = sum(r[1] for r in ctrl) / len(ctrl)
         cm2 = sum(r[7] for r in ctrl) / len(ctrl)
@@ -783,8 +810,8 @@ def section_minutes() -> Section:
                 ("W above screen, charge counter (drain x V)", "%+.2f" % (w - cw)),
                 ("W above screen, V x I", "%+.2f" % (vxi - cv)),
                 ("whole machine V x I, W", "%.2f" % vxi),
-                ("chip CPU, W", "%.2f" % cpu),
-                ("chip GPU, W", "%.2f" % gpu),
+                ("chip CPU, W", fmt(cpu, 2)),
+                ("chip GPU, W", fmt(gpu, 2)),
                 ("app processes, W (per-process kernel counter)", fmt(appw, 3)),
                 ("answers yes/unsure/no", audit),
                 ("hours from 100%", fmt(hours, 1)),
@@ -811,10 +838,10 @@ def section_minutes() -> Section:
 
 def battery_passport() -> List[str]:
     """Per machine: battery cycles over every series of the page, and the capacity the journal reports in the
-    battery-minutes series (the author's Mac, which has none: in its ABBA series)."""
+    battery-minutes series (the M3 Max and the MacBook Air M5, which have none)."""
     cyc, cap = OrderedDict(), OrderedDict()
     minutes = {s.id for s in section_series("minutes")} | {s.id for s in section_series("minutes-abba")
-                                                          if s.machine == AUTHORS_MAC}
+                                                          if s.machine == M3_MAX}
     for sid in sorted(os.listdir(RUNS)):
         if not os.path.exists(os.path.join(RUNS, sid, "journal.csv")):
             continue
@@ -849,19 +876,21 @@ def arm_values(s: Series, parts: bool = False) -> List[dict]:
             continue
         name = run.name
         t0, t1 = run["measure_start"], run["measure_end"]
-        a, b = at(g, t0), at(g, t1)
-        a2, b2 = after(g, t0), after(g, t1)
-        volts = mean_volts(g, t0, t1)
-        mah = a[1] - b[1]
-        late = at(g, t0 + 300)[1] - b[1]
+        cut = cable_cut(s.ticks, t0, t1)
+        gk = [x for x in g if not (cut and cut[0] < x[0] < cut[1])]
+        tk_ok = [tk for tk in s.ticks if not (cut and cut[0] < tk.t < cut[1])]
+        volts = mean_volts(gk, t0, t1)
+        mah = drain(g, at, t0, t1, cut)
+        late = drain(g, at, t0 + 300, t1, cable_cut(s.ticks, t0 + 300, t1))
         stop = run.ev.get("arm_stop", t1) + 1
         mine = [r for r in sends if run["arm_start"] - 1 <= int(r[-1]) <= stop]
         r = dict(
-            name=name, run=run, s=t0, e=t1, mah=mah, mah2=a2[1] - b2[1], cw=mah * volts / 1000 / ((t1 - t0) / 3600),
-            volts=volts, vxi=machine_mean(s.ticks, t0, t1), split=chip.split(t0, t1) if chip else None,
+            name=name, run=run, s=t0, e=t1, mah=mah, mah2=drain(g, after, t0, t1, cut),
+            cw=mah * volts / 1000 / ((t1 - t0) / 3600),
+            volts=volts, vxi=machine_mean(tk_ok, t0, t1), split=chip.split(t0, t1) if chip else None,
             appw=subject_watts(s, run, t0, t1, "ChatGPT.app") if name != "control" and name.startswith("chatgpt")
             else None,
-            late=(late, late * volts / 1000 / ((t1 - t0 - 300) / 3600), machine_mean(s.ticks, t0 + 300, t1)),
+            late=(late, late * volts / 1000 / ((t1 - t0 - 300) / 3600), machine_mean(tk_ok, t0 + 300, t1)),
             sent=[x for x in mine if x[3] not in ("NOFRONT", "WRONGSURFACE")],
             bad=[x for x in mine if x[3] in ("NOFRONT", "WRONGSURFACE")],
             judged=[x for x in answers if run["arm_start"] - 1 <= int(x[4]) <= stop and x[2] != "1"],
@@ -944,7 +973,7 @@ def section_minutes_abba() -> Section:
         "coalition the lab's runner works in (sampler, runs, nettop snapshots; the Terminal coalition of these "
         "series): what logging the bytes costs, against the controls. 'answers by bytes received' = the bytes ChatGPT "
         "received from sending a prompt to the next one, yes/unsure/no of the judged prompts (the first prompt of a "
-        "run is not judged; test Macs: >= 20,000 yes, < 5,000 no; the author's Mac: >= 110,000 yes, <= 80,000 no); a "
+        "run is not judged; test Macs: >= 20,000 yes, < 5,000 no; the M3 Max: >= 110,000 yes, <= 80,000 no); a "
         "run is valid with at least 10 answers. 'minutes 5 to 30' = drain and V x I without the first 5 minutes of "
         "each run, the controls likewise (found after the data: after a change of load the counter gives back the "
         "previous run's tail for 2 to 5 minutes). A run whose two counter readings differ by more than 10 points is "
@@ -1671,7 +1700,7 @@ def section_ollama() -> Section:
         chip = s.chip
         ticks = s.ticks
         g = gauge(ticks)
-        cw = control_watts(chip, s)
+        cw = control_watts(chip, s) if chip else None
         controls = s.measured("control")
         cms = [machine_mean(ticks, r["measure_start"], r["measure_end"]) for r in controls]
         cms = [x for x in cms if x is not None]
@@ -1698,15 +1727,15 @@ def section_ollama() -> Section:
                     toks += n * max(0, min(b, t1) - max(a, t0)) / (b - a)
             inside = [r for r in log if t0 <= int(r[2]) and int(r[3]) <= t1]
             rate = sum(float(r[5]) for r in inside) / len(inside) if inside else None
-            w = chip.watts(t0, t1)
+            w = chip.watts(t0, t1) if chip else None
             m = machine_mean(ticks, t0, t1)
-            jt = (w - cw) * (t1 - t0) / toks if toks else None
+            jt = (w - cw) * (t1 - t0) / toks if toks and w is not None and cw is not None else None
             jm = (m - cm) * (t1 - t0) / toks if toks and m is not None and cm is not None else None
             volts = mean_volts(g, t0, t1)
             values = [
                 ("tokens per second while generating", fmt(rate, 1)),
                 ("tokens in the window (effective tokens per second)", "%.0f (%.1f)" % (toks, toks / (t1 - t0))),
-                ("chip CPU+GPU, W", "%.2f" % w),
+                ("chip CPU+GPU, W", fmt(w, 2)),
                 ("J per token, chip", fmt(jt, 2)),
                 ("whole machine V x I, W", fmt(m, 1)),
                 ("J per token, V x I", fmt(jm, 2)),

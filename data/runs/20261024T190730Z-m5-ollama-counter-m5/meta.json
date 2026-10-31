@@ -1,0 +1,25 @@
+{
+ "series": "20261024T190730Z-m5-ollama-counter-m5",
+ "machine": "MacBook Air M5, macOS 27",
+ "used_by_page_sections": [
+  "ollama"
+ ],
+ "dropped_runs": [],
+ "note": "Other dropped arms and prompts (Chrome and some Safari runs, two Cursor tasks) are marked in the note column of results/ai-battery-usage-mac.csv.",
+ "macos_build": [
+  "26A434"
+ ],
+ "battery": {
+  "cycles": [
+   4,
+   5
+  ],
+  "full_charge_capacity_mah": [
+   4630,
+   4636,
+   4641,
+   4666,
+   4667
+  ]
+ }
+}

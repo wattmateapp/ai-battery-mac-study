@@ -5,9 +5,9 @@ type: dataset
 authors:
   - family-names: Staradubau
     given-names: Vitali
-    affiliation: WattMate
+    affiliation: Independent researcher
     orcid: "https://orcid.org/0009-0007-5925-520X"
-doi: "10.5281/zenodo.23391845"
+doi: "10.5281/zenodo.23391844"
 url: "https://wattmateapp.com/ai-battery-usage-mac"
 repository-code: "https://github.com/wattmateapp/ai-battery-mac-study"
 license: CC-BY-4.0
@@ -19,5 +19,5 @@ keywords:
   - ChatGPT
   - Claude Code
   - Ollama
-version: "1.0"
-date-released: 2026-10-16
+version: "1.1"
+date-released: 2026-10-31

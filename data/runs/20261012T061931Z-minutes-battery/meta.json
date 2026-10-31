@@ -7,7 +7,7 @@
  "dropped_runs": [
   {
    "arm": "chatgptstream-front",
-   "reason": "the test Macs' ChatGPT account hit its daily limit, 11 of 12 prompts got no answer"
+   "reason": "ChatGPT hit its daily limit, 11 of 12 prompts got no answer"
   },
   {
    "arm": "chatgptstream-hidden",

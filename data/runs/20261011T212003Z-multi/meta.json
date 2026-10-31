@@ -8,7 +8,7 @@
  "dropped_runs": [
   {
    "arm": "codex-x4-task",
-   "reason": "the test Macs' Codex account hit its usage limit, no edits made"
+   "reason": "Codex hit its usage limit, no edits made"
   }
  ],
  "note": "Other dropped arms and prompts (Chrome and some Safari runs, two Cursor tasks) are marked in the note column of results/ai-battery-usage-mac.csv.",

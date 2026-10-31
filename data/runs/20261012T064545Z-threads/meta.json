@@ -8,7 +8,7 @@
   {
    "arm": "chatgptthread",
    "messages": "8-12",
-   "reason": "the test Macs' ChatGPT account hit its daily limit from message 8, no answers"
+   "reason": "ChatGPT hit its daily limit from message 8, no answers"
   }
  ],
  "note": "Other dropped arms and prompts (Chrome and some Safari runs, two Cursor tasks) are marked in the note column of results/ai-battery-usage-mac.csv.",
