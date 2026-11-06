@@ -1,0 +1,21 @@
+{
+ "series": "20261027T015650Z-m5-ai-night-2-m5",
+ "machine": "MacBook Air M5, macOS 27",
+ "used_by_page_sections": [
+  "ollama-idle"
+ ],
+ "dropped_runs": [],
+ "note": "Other dropped arms and prompts (Chrome and some Safari runs, two Cursor tasks) are marked in the note column of results/ai-battery-usage-mac.csv.",
+ "macos_build": [
+  "26A434"
+ ],
+ "battery": {
+  "cycles": [
+   7
+  ],
+  "full_charge_capacity_mah": [
+   4672,
+   4690
+  ]
+ }
+}

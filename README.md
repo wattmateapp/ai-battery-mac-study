@@ -3,7 +3,7 @@
 This archive holds the data and code behind the study
 [Does AI drain your Mac battery?](https://wattmateapp.com/ai-battery-usage-mac). It covers ChatGPT, Claude Desktop,
 Claude Code, Codex CLI, Copilot CLI, Antigravity CLI, Cursor and Ollama, measured on 5 Apple silicon Macs between 5 and
-24 October 2026 (see "The Macs").
+28 October 2026 (see "The Macs").
 
 The figures for the AI tools do not come from [WattMate](https://wattmateapp.com), a battery app for the Mac; only the
 111 rows that check WattMate itself use its readings. The figures come from `powermetrics`, the battery's own counters
@@ -19,39 +19,33 @@ and a per-process collector. WattMate was closed during the runs, with
 
 Every number on the study page can be recomputed from these files with the scripts in `scripts/`, except 82 of the
 111 rows that compare WattMate with the lab's instruments (see "What is not here, on purpose"), the check of
-WattMate 1.6 (see "Version 1.1"), and the few figures the page itself lists as coming from the lab's notes.
+WattMate 1.6, and the few figures the page itself lists as coming from the lab's notes.
 
 ## Version 1.1
 
-Tests added on a MacBook Air M5, macOS 27, 24 October 2026:
+Tests added on a MacBook Air M5, macOS 27, 24 to 28 October 2026:
 
 - [x] ChatGPT window in front and hidden, ABBA order
 - [x] Claude Code (Haiku) build tasks against the same builds with no agent
 - [x] Ollama llama3.1:8b answering back to back
+- [x] ChatGPT window with and without answers
+- [x] Battery minutes
+- [x] Ollama night
+- [x] Codex in a terminal (data only)
+- [x] Long thread (data only)
+- [x] Claude Code in 3 terminals (data only)
+- [x] Agents on a build task, Cursor (data only)
+- [x] Browser tabs against apps (data only)
+
+Data only: these 5 series ran on the cable without powermetrics, so they have
+no `chip.csv` and no rows in `results/`.
 
 What changed:
 
-* 3 folders in `data/runs/`
-* 198 rows in `results/`
+* 12 folders in `data/runs/`
+* 426 rows in `results/`
 * the note of 26 rows and the `reason` in 3 `meta.json` files shortened; no value changed
-
-Planned for version 1.2:
-
-- [ ] WattMate 1.6 against the lab's instruments (the page's figures for this check are not in `results/` of 1.1):
-  * M1 Pro, macOS 27
-  * M1, macOS 26
-  * MacBook Air M5, macOS 27
-- [ ] MacBook Air M5: ChatGPT window with and without answers
-- [ ] MacBook Air M5: battery minutes
-- [ ] MacBook Air M5: Ollama night
-- [ ] MacBook Air M5: Codex in a terminal
-- [ ] MacBook Air M5: long thread
-- [ ] MacBook Air M5: Claude Code in 3 terminals
-- [ ] MacBook Air M5: agents on a build task
-- [ ] MacBook Air M5: browser tabs against apps
-- [ ] MacBook Air M5: Cursor
-- [ ] MacBook Air M5: Ollama on battery
-- [ ] MacBook Air M5: ChatGPT window against a TextEdit window
+* `scripts/recompute.py` also recomputes the window series for the MacBook Air M5
 
 ## What is here
 
@@ -73,7 +67,7 @@ The Mac a series ran on is in its `meta.json` (`"machine": "M1, macOS 26"`).
 
 The first column is how the data names each Mac, in the `machine` field of `meta.json` and in the `stand` column of
 `results/`: the chip and the major macOS version. The exact version and build are in the third column. The M3 Max ran
-only the ChatGPT window series of 13 and 14 October, and the MacBook Air M5 only the 3 series of 24 October.
+only the ChatGPT window series of 13 and 14 October, and the MacBook Air M5 only the 12 series of 24 to 28 October.
 
 | Name in the data | Model | macOS | Display | Battery | Setup |
 |---|---|---|---|---|---|
@@ -90,7 +84,7 @@ All times are Unix seconds (UTC). Energy is in millijoules (mJ), power in watts 
 | File | One row per | Columns |
 |---|---|---|
 | `arms.csv` | arm (one condition) | `arm`, `index`, `arm_start`, `measure_start`, `measure_end`, `arm_stop`. A condition starts at `arm_start`; the measured window runs from `measure_start` to `measure_end`, after a warm-up. `control` is the same Mac with the screen on and nothing running. |
-| `chip.csv` | 5-second `powermetrics` snapshot | `t_end`, `seconds`, `cpu_mj`, `gpu_mj`, `ane_mj`. "Chip" on the page is CPU plus GPU. A snapshot belongs to a window when its midpoint (`t_end − seconds/2`) lies inside it. 12 series have no `chip.csv`: the 3 `calibration-battery` series (the `k` section of `results/`), the 4 parts of the Ollama night, the 2 M3 Max series and the 3 MacBook Air M5 series. |
+| `chip.csv` | 5-second `powermetrics` snapshot | `t_end`, `seconds`, `cpu_mj`, `gpu_mj`, `ane_mj`. "Chip" on the page is CPU plus GPU. A snapshot belongs to a window when its midpoint (`t_end − seconds/2`) lies inside it. 21 series have no `chip.csv`: the 3 `calibration-battery` series (the `k` section of `results/`), the 4 parts of the Ollama night, the 2 M3 Max series and the 12 MacBook Air M5 series. |
 | `battery.csv` | collector tick, about every 10 s | `t` (the tick's time), `power_source` (`AC` or `Battery`), `charge_counter_mah` (AppleRawCurrentCapacity), `percent`, `voltage_mv`, `pack_current_ma`, `system_power_in_mw`, and `whole_mac_w`, which is power in from the cable minus pack power: the "voltage times current" reading on the page. |
 | `subject.csv` | tick inside an arm | `t`, `arm`, `index`, `subject`, `energy_mj_since_previous_tick`: energy used since the previous tick by the processes of the app or agent the arm measures (ChatGPT.app in a ChatGPT arm, TextEdit.app in a TextEdit arm, the agent's process tree in an agent arm). Header only in the 3 `calibration-battery` series. |
 | `processes.csv` | tick inside an arm and process group | Only in the 4 window series of 14 October and the 2 series of the Release check of 15 October: `t`, `arm`, `index`, `process`, `energy_mj_since_previous_tick`. It has the 2 groups the page prints beside the arm: `Codex (Renderer)`, the helper processes that draw ChatGPT's window (part of ChatGPT.app, in ChatGPT arms), and `WattMate.app`, WattMate itself (every arm; zero where it was not open). |
@@ -234,4 +228,4 @@ from the archive's folder.
 The data (`data/`, `results/`) is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). The code
 (`scripts/` and `independent/`) is under the MIT licence (`LICENSE`). To cite, use `CITATION.cff` or: Staradubau, V.
 (2026). *Does AI drain your Mac battery? Data and code* (Version 1.1) [Data set]. WattMate. Zenodo.
-https://doi.org/10.5281/zenodo.23391844
+https://doi.org/10.5281/zenodo.24013873

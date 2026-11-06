@@ -213,7 +213,8 @@ WVA_STRICT = {"20261014T145413Z-window-vs-answer"}
 # Reference of the reading: "front minus control" of the valid answering runs in front, 11 to 14 October, same Mac.
 WVA_REF = {"M1 Pro, macOS 27": ["20261011T102709Z-minutes-battery", "20261012T100629Z-minutes-chatgpt",
                                 "20261013T131301Z-minutes-abba"],
-           "M1, macOS 26": ["20261011T141657Z-minutes-battery"]}
+           "M1, macOS 26": ["20261011T141657Z-minutes-battery"],
+           "MacBook Air M5, macOS 27": ["20261024T065434Z-m5-minutes-abba-m5", "20261026T173142Z-m5-minutes-battery-m5"]}
 # Ollama series whose runs are long enough (30 min) for the charge counter.
 OLLAMA_COUNTER = {"20261013T130028Z-ollama-counter", "20261024T190730Z-m5-ollama-counter-m5"}
 ARM_LABELS = {"yes2": "two yes processes: plain CPU load, no window"}

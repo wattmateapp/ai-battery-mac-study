@@ -1,0 +1,24 @@
+{
+ "series": "20261025T202542Z-m5-window-vs-answer-m5",
+ "machine": "MacBook Air M5, macOS 27",
+ "used_by_page_sections": [
+  "window-vs-answer"
+ ],
+ "dropped_runs": [],
+ "note": "Other dropped arms and prompts (Chrome and some Safari runs, two Cursor tasks) are marked in the note column of results/ai-battery-usage-mac.csv.",
+ "macos_build": [
+  "26A434"
+ ],
+ "battery": {
+  "cycles": [
+   6
+  ],
+  "full_charge_capacity_mah": [
+   4662,
+   4663,
+   4664,
+   4665,
+   4666
+  ]
+ }
+}
